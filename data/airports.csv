@@ -1,0 +1,3020 @@
+Code,Name,City,Country,Latitude,Longitude
+CDG,Charles De Gaulle,Paris,France,49.012779,2.550000
+ORY,Orly,Paris,France,48.725278,2.359444
+LGA,La Guardia,New York,United States,40.777245,-73.872608
+JFK,John F Kennedy Intl,New York,United States,40.639751,-73.778925
+LHR,Heathrow,London,United Kingdom,51.477500,-0.461389
+GKA,Goroka,Goroka,Papua New Guinea,-6.081689,145.391881
+MAG,Madang,Madang,Papua New Guinea,-5.207083,145.788700
+HGU,Mount Hagen,Mount Hagen,Papua New Guinea,-5.826789,144.295861
+LAE,Nadzab,Nadzab,Papua New Guinea,-6.569828,146.726242
+POM,Port Moresby Jacksons Intl,Port Moresby,Papua New Guinea,-9.443383,147.220050
+WWK,Wewak Intl,Wewak,Papua New Guinea,-3.583828,143.669186
+UAK,Narsarsuaq,Narssarssuaq,Greenland,61.160517,-45.425978
+GOH,Nuuk,Godthaab,Greenland,64.190922,-51.678064
+SFJ,Sondre Stromfjord,Sondrestrom,Greenland,67.016969,-50.689325
+THU,Thule Air Base,Thule,Greenland,76.531203,-68.703161
+AEY,Akureyri,Akureyri,Iceland,65.659994,-18.072703
+EGS,Egilsstadir,Egilsstadir,Iceland,65.283333,-14.401389
+IFJ,Isafjordur,Isafjordur,Iceland,66.058056,-23.135278
+KEF,Keflavik International Airport,Keflavik,Iceland,63.985000,-22.605556
+RKV,Reykjavik,Reykjavik,Iceland,64.130000,-21.940556
+YAM,Sault Ste Marie,Sault Sainte Marie,Canada,46.485001,-84.509445
+YBC,Baie Comeau,Baie Comeau,Canada,49.132500,-68.204444
+YBG,Bagotville,Bagotville,Canada,48.330555,-70.996391
+YBK,Baker Lake,Baker Lake,Canada,64.298889,-96.077778
+YBL,Campbell River,Campbell River,Canada,49.950832,-125.270833
+YBR,Brandon Muni,Brandon,Canada,49.910000,-99.951944
+YCB,Cambridge Bay,Cambridge Bay,Canada,69.108055,-105.138333
+YCD,Nanaimo,Nanaimo,Canada,49.052333,-123.870167
+YCG,Castlegar,Castlegar,Canada,49.296389,-117.632500
+YCO,Kugluktuk,Coppermine,Canada,67.816667,-115.143889
+YCY,Clyde River,Clyde River,Canada,70.486111,-68.516667
+YZS,Fairmont Hot Springs,Coral Harbour,Canada,64.193333,-83.359444
+YDF,Deer Lake,Deer Lake,Canada,49.210833,-57.391388
+YEG,Edmonton Intl,Edmonton,Canada,53.309723,-113.579722
+YEK,Arviat,Eskimo Point,Canada,61.094166,-94.070833
+YEV,Inuvik Mike Zubko,Inuvik,Canada,68.304167,-133.482778
+YFB,Iqaluit,Iqaluit,Canada,63.756390,-68.555832
+YFC,Fredericton,Fredericton,Canada,45.868889,-66.537222
+YFO,Flin Flon,Flin Flon,Canada,54.678055,-101.681667
+YFS,Fort Simpson,Fort Simpson,Canada,61.760153,-121.236525
+YGK,Kingston,Kingston,Canada,44.225277,-76.596944
+YGP,Gaspe,Gaspe,Canada,48.775278,-64.478611
+YGR,Iles De La Madeleine,Iles De La Madeleine,Canada,47.424721,-61.778056
+YHD,Dryden Rgnl,Dryden,Canada,49.831667,-92.744167
+YHI,Ulukhaktok Holman,Holman Island,Canada,70.762778,-117.806111
+YHK,Gjoa Haven,Gjoa Haven,Canada,68.635556,-95.849722
+YHM,Hamilton,Hamilton,Canada,43.173611,-79.935000
+YHY,Hay River,Hay River,Canada,60.839722,-115.782778
+YHZ,Halifax Intl,Halifax,Canada,44.880833,-63.508610
+YIO,Pond Inlet,Pond Inlet,Canada,72.683334,-77.966667
+YKA,Kamloops,Kamloops,Canada,50.702222,-120.444444
+YKF,Waterloo,Waterloo,Canada,43.460833,-80.378611
+YLW,Kelowna,Kelowna,Canada,49.956112,-119.377778
+YMM,Fort Mcmurray,Fort Mcmurray,Canada,56.653333,-111.221944
+YNA,Natashquan,Natashquan,Canada,50.190000,-61.789167
+YOW,Ottawa Macdonald Cartier Intl,Ottawa,Canada,45.322500,-75.669167
+YPN,Port Menier,Port Menier,Canada,49.836389,-64.288611
+YPR,Prince Rupert,Prince Pupert,Canada,54.286110,-130.444722
+YPY,Fort Chipewyan,Fort Chipewyan,Canada,58.767223,-111.117222
+YQB,Quebec Jean Lesage Intl,Quebec,Canada,46.791111,-71.393333
+YQF,Red Deer Regional,Red Deer Industrial,Canada,52.182222,-113.894444
+YQG,Windsor,Windsor,Canada,42.275556,-82.955556
+YQK,Kenora,Kenora,Canada,49.788334,-94.363056
+YQL,Lethbridge,Lethbridge,Canada,49.630278,-112.799722
+YQM,Greater Moncton Intl,Moncton,Canada,46.112221,-64.678611
+YQQ,Comox,Comox,Canada,49.710833,-124.886667
+YQR,Regina Intl,Regina,Canada,50.431944,-104.665833
+YQT,Thunder Bay,Thunder Bay,Canada,48.371944,-89.323889
+YQU,Grande Prairie,Grande Prairie,Canada,55.179722,-118.885000
+YQX,Gander Intl,Gander,Canada,48.936944,-54.568056
+YQY,Sydney,Sydney,Canada,46.161388,-60.047779
+YQZ,Quesnel,Quesnel,Canada,53.026112,-122.510278
+YRB,Resolute Bay,Resolute,Canada,74.716944,-94.969444
+YRT,Rankin Inlet,Rankin Inlet,Canada,62.811390,-92.115833
+YSB,Sudbury,Sudbury,Canada,46.625000,-80.798889
+YSJ,Saint John,St. John,Canada,45.316111,-65.890278
+YSM,Fort Smith,Fort Smith,Canada,60.020278,-111.961944
+YTE,Cape Dorset,Cape Dorset,Canada,64.230000,-76.526667
+YTH,Thompson,Thompson,Canada,55.801111,-97.864166
+YTS,Timmins,Timmins,Canada,48.569721,-81.376667
+YTZ,City Centre,Toronto,Canada,43.627499,-79.396167
+YUL,Pierre Elliott Trudeau Intl,Montreal,Canada,45.470556,-73.740833
+YUT,Repulse Bay,Repulse Bay,Canada,66.521389,-86.224722
+YUX,Hall Beach,Hall Beach,Canada,68.776111,-81.243611
+YUY,Rouyn Noranda,Rouyn,Canada,48.206111,-78.835556
+YVM,Qikiqtarjuaq,Broughton Island,Canada,67.545833,-64.031389
+YVO,Val D Or,Val D'or,Canada,48.053333,-77.782778
+YVP,Kuujjuaq,Quujjuaq,Canada,58.096111,-68.426944
+YVQ,Norman Wells,Norman Wells,Canada,65.281617,-126.798219
+YVR,Vancouver Intl,Vancouver,Canada,49.193889,-123.184444
+YWG,Winnipeg Intl,Winnipeg,Canada,49.910036,-97.239886
+YWK,Wabush,Wabush,Canada,52.921944,-66.864444
+YWL,Williams Lake,Williams Lake,Canada,52.183056,-122.054167
+YXC,Canadian Rockies Intl,Cranbrook,Canada,49.612222,-115.781944
+YXE,Saskatoon J G Diefenbaker Intl,Saskatoon,Canada,52.170834,-106.699722
+YXH,Medicine Hat,Medicine Hat,Canada,50.018890,-110.720833
+YXJ,Fort St John,Fort Saint John,Canada,56.238056,-120.740278
+YXL,Sioux Lookout,Sioux Lookout,Canada,50.113889,-91.905278
+YXP,Pangnirtung,Pangnirtung,Canada,66.145000,-65.713611
+YXS,Prince George,Prince George,Canada,53.889444,-122.678889
+YXT,Terrace,Terrace,Canada,54.468508,-128.576219
+YXU,London,London,Canada,43.033056,-81.151111
+YXX,Abbotsford,Abbotsford,Canada,49.025278,-122.360556
+YXY,Whitehorse Intl,Whitehorse,Canada,60.709553,-135.067269
+YYB,North Bay,North Bay,Canada,46.363611,-79.422778
+YYC,Calgary Intl,Calgary,Canada,51.113888,-114.020278
+YYD,Smithers,Smithers,Canada,54.824722,-127.182778
+YYF,Penticton,Penticton,Canada,49.463056,-119.602222
+YYG,Charlottetown,Charlottetown,Canada,46.290001,-63.121111
+YYH,Taloyoak,Spence Bay,Canada,69.546667,-93.576667
+YYJ,Victoria Intl,Victoria,Canada,48.646944,-123.425833
+YYQ,Churchill,Churchill,Canada,58.739167,-94.065000
+YYR,Goose Bay,Goose Bay,Canada,53.319168,-60.425833
+YYT,St Johns Intl,St. John's,Canada,47.618610,-52.751945
+YYU,Kapuskasing,Kapuskasing,Canada,49.413889,-82.467500
+YYY,Mont Joli,Mont Joli,Canada,48.608612,-68.208056
+YYZ,Lester B Pearson Intl,Toronto,Canada,43.677223,-79.630556
+YZF,Yellowknife,Yellowknife,Canada,62.462778,-114.440278
+YZP,Sandspit,Sandspit,Canada,53.254333,-131.813833
+YZR,Chris Hadfield,Sarnia,Canada,42.999444,-82.308889
+YZT,Port Hardy,Port Hardy,Canada,50.680556,-127.366667
+YZV,Sept Iles,Sept-iles,Canada,50.223333,-66.265556
+BJA,Soummam,Bejaja,Algeria,36.711997,5.069922
+ALG,Houari Boumediene,Algier,Algeria,36.691014,3.215408
+DJG,Tiska,Djanet,Algeria,24.292767,9.452444
+TMR,Tamanrasset,Tamanrasset,Algeria,22.811461,5.451075
+AAE,Annaba,Annaba,Algeria,36.822225,7.809167
+CZL,Mohamed Boudiaf Intl,Constantine,Algeria,36.276028,6.620386
+TEE,Cheikh Larbi Tebessi,Tebessa,Algeria,35.431611,8.120717
+HRM,Hassi R Mel,Tilrempt,Algeria,32.930431,3.311542
+TID,Bou Chekif,Tiaret,Algeria,35.341136,1.463147
+TLM,Zenata,Tlemcen,Algeria,35.016667,-1.450000
+ORN,Es Senia,Oran,Algeria,35.623858,-0.621183
+MUW,Ghriss,Ghriss,Algeria,35.207725,0.147142
+AZR,Touat Cheikh Sidi Mohamed Belkebir,Adrar,Algeria,27.837589,-0.186414
+BSK,Biskra,Biskra,Algeria,34.793289,5.738231
+ELG,El Golea,El Golea,Algeria,30.571294,2.859586
+GHA,Noumerat,Ghardaia,Algeria,32.384106,3.794114
+HME,Oued Irara,Hassi Messaoud,Algeria,31.672972,6.140444
+INZ,In Salah,In Salah,Algeria,27.251022,2.512017
+TGR,Sidi Mahdi,Touggourt,Algeria,33.067803,6.088672
+OGX,Ouargla,Ouargla,Algeria,31.917223,5.412778
+IAM,In Amenas,Zarzaitine,Algeria,28.051550,9.642911
+COO,Cadjehoun,Cotonou,Benin,6.357228,2.384353
+OUA,Ouagadougou,Ouagadougou,Burkina Faso,12.353194,-1.512417
+BOY,Bobo Dioulasso,Bobo-dioulasso,Burkina Faso,11.160056,-4.330969
+ACC,Kotoka Intl,Accra,Ghana,5.605186,-0.166786
+TML,Tamale,Tamale,Ghana,9.557192,-0.863214
+ABJ,Abidjan Felix Houphouet Boigny Intl,Abidjan,Cote d'Ivoire,5.261386,-3.926294
+ABV,Nnamdi Azikiwe Intl,Abuja,Nigeria,9.006792,7.263172
+ENU,Enugu,Enugu,Nigeria,6.474272,7.561961
+KAN,Mallam Aminu Intl,Kano,Nigeria,12.047589,8.524622
+LOS,Murtala Muhammed,Lagos,Nigeria,6.577369,3.321156
+PHC,Port Harcourt Intl,Port Hartcourt,Nigeria,5.015494,6.949594
+NIM,Diori Hamani,Niamey,Niger,13.481547,2.183614
+MIR,Habib Bourguiba Intl,Monastir,Tunisia,35.758056,10.754722
+TUN,Carthage,Tunis,Tunisia,36.851033,10.227217
+GAF,Gafsa,Gafsa,Tunisia,34.422022,8.822503
+GAE,Gabes,Gabes,Tunisia,33.876919,10.103333
+DJE,Zarzis,Djerba,Tunisia,33.875031,10.775461
+SFA,Thyna,Sfax,Tunisia,34.717953,10.690972
+TOE,Nefta,Tozeur,Tunisia,33.939722,8.110556
+LFW,Gnassingbe Eyadema Intl,Lome,Togo,6.165611,1.254511
+ANR,Deurne,Antwerp,Belgium,51.189444,4.460278
+BRU,Brussels Natl,Brussels,Belgium,50.901389,4.484444
+CRL,Brussels South,Charleroi,Belgium,50.459197,4.453817
+LGG,Liege,Liege,Belgium,50.637417,5.443222
+SXF,Schonefeld,Berlin,Germany,52.380001,13.522500
+DRS,Dresden,Dresden,Germany,51.132767,13.767161
+ERF,Erfurt,Erfurt,Germany,50.979811,10.958106
+FRA,Frankfurt Main,Frankfurt,Germany,50.026421,8.543125
+FMO,Munster Osnabruck,Munster,Germany,52.134642,7.684831
+HAM,Hamburg,Hamburg,Germany,53.630389,9.988228
+CGN,Koln Bonn,Cologne,Germany,50.865917,7.142744
+DUS,Dusseldorf,Duesseldorf,Germany,51.289453,6.766775
+MUC,Franz Josef Strauss,Munich,Germany,48.353783,11.786086
+NUE,Nurnberg,Nuernberg,Germany,49.498700,11.066897
+LEJ,Leipzig Halle,Leipzig,Germany,51.432447,12.241633
+SCN,Saarbrucken,Saarbruecken,Germany,49.214553,7.109508
+STR,Stuttgart,Stuttgart,Germany,48.689878,9.221964
+TXL,Tegel,Berlin,Germany,52.559686,13.287711
+HAJ,Hannover,Hannover,Germany,52.461056,9.685078
+BRE,Neuenland,Bremen,Germany,53.047500,8.786667
+HHN,Frankfurt Hahn,Hahn,Germany,49.948672,7.263892
+XFW,Hamburg Finkenwerder,Hamburg,Germany,53.535886,9.837025
+LBC,Lubeck Blankensee,Luebeck,Germany,53.805367,10.719222
+PAD,Paderborn Lippstadt,Paderborn,Germany,51.614089,8.616317
+DTM,Dortmund,Dortmund,Germany,51.518314,7.612242
+AGB,Augsburg,Augsburg,Germany,48.425158,10.931764
+FDH,Friedrichshafen,Friedrichshafen,Germany,47.671317,9.511486
+KSF,Kassel Calden,Kassel,Germany,51.408394,9.377631
+GWT,Westerland Sylt,Westerland,Germany,54.913250,8.340472
+TLL,Tallinn,Tallinn-ulemiste International,Estonia,59.413317,24.832844
+TAY,Tartu,Tartu,Estonia,58.307461,26.690428
+HEL,Helsinki Vantaa,Helsinki,Finland,60.317222,24.963333
+IVL,Ivalo,Ivalo,Finland,68.607269,27.405328
+JOE,Joensuu,Joensuu,Finland,62.662906,29.607550
+JYV,Jyvaskyla,Jyvaskyla,Finland,62.399453,25.678253
+KEM,Kemi Tornio,Kemi,Finland,65.781889,24.599100
+KAJ,Kajaani,Kajaani,Finland,64.285472,27.692414
+KOK,Kruunupyy,Kruunupyy,Finland,63.721172,23.143131
+KAO,Kuusamo,Kuusamo,Finland,65.987575,29.239381
+KTT,Kittila,Kittila,Finland,67.701022,24.846850
+KUO,Kuopio,Kuopio,Finland,63.007150,27.797756
+LPP,Lappeenranta,Lappeenranta,Finland,61.044553,28.144397
+MHQ,Mariehamn,Mariehamn,Finland,60.122203,19.898156
+OUL,Oulu,Oulu,Finland,64.930061,25.354564
+POR,Pori,Pori,Finland,61.461686,21.799983
+RVN,Rovaniemi,Rovaniemi,Finland,66.564822,25.830411
+SVL,Savonlinna,Savonlinna,Finland,61.943064,28.945136
+TMP,Tampere Pirkkala,Tampere,Finland,61.414147,23.604392
+TKU,Turku,Turku,Finland,60.514142,22.262808
+VAA,Vaasa,Vaasa,Finland,63.050650,21.762175
+BFS,Belfast Intl,Belfast,United Kingdom,54.657500,-6.215833
+BHD,Belfast City,Belfast,United Kingdom,54.618056,-5.872500
+LDY,City of Derry,Londonderry,United Kingdom,55.042778,-7.161111
+BHX,Birmingham,Birmingham,United Kingdom,52.453856,-1.748028
+GLO,Gloucestershire,Golouchestershire,United Kingdom,51.894167,-2.167222
+MAN,Manchester,Manchester,United Kingdom,53.353744,-2.274950
+NQY,St Mawgan,Newquai,United Kingdom,50.440558,-4.995408
+CWL,Cardiff,Cardiff,United Kingdom,51.396667,-3.343333
+BRS,Bristol,Bristol,United Kingdom,51.382669,-2.719089
+LPL,Liverpool,Liverpool,United Kingdom,53.333611,-2.849722
+LTN,Luton,London,United Kingdom,51.874722,-0.368333
+BOH,Bournemouth,Bournemouth,United Kingdom,50.780000,-1.842500
+SOU,Southampton,Southampton,United Kingdom,50.950261,-1.356803
+ACI,Alderney,Alderney,Guernsey,49.706111,-2.214722
+GCI,Guernsey,Guernsey,Guernsey,49.434956,-2.601969
+JER,Jersey,Jersey,Jersey,49.207947,-2.195508
+LGW,Gatwick,London,United Kingdom,51.148056,-0.190278
+LCY,City,London,United Kingdom,51.505278,0.055278
+SEN,Southend,Southend,United Kingdom,51.571389,0.695556
+BLK,Blackpool,Blackpool,United Kingdom,53.771667,-3.028611
+HUY,Humberside,Humberside,United Kingdom,53.574444,-0.350833
+LBA,Leeds Bradford,Leeds,United Kingdom,53.865897,-1.660569
+CEG,Hawarden,Hawarden,United Kingdom,53.178056,-2.977778
+IOM,Isle Of Man,Isle Of Man,Isle of Man,54.083333,-4.623889
+NCL,Newcastle,Newcastle,United Kingdom,55.037500,-1.691667
+MME,Durham Tees Valley Airport,Teesside,United Kingdom,54.509189,-1.429406
+EMA,Nottingham East Midlands,East Midlands,United Kingdom,52.831111,-1.328056
+KOI,Kirkwall,Kirkwall,United Kingdom,58.957778,-2.905000
+LSI,Sumburgh,Sumburgh,United Kingdom,59.878889,-1.295556
+WIC,Wick,Wick,United Kingdom,58.458889,-3.093056
+ABZ,Dyce,Aberdeen,United Kingdom,57.201944,-2.197778
+INV,Inverness,Inverness,United Kingdom,57.542500,-4.047500
+GLA,Glasgow,Glasgow,United Kingdom,55.871944,-4.433056
+EDI,Edinburgh,Edinburgh,United Kingdom,55.950000,-3.372500
+ILY,Islay,Islay,United Kingdom,55.681944,-6.256667
+PIK,Prestwick,Prestwick,United Kingdom,55.509444,-4.586667
+BEB,Benbecula,Benbecula,United Kingdom,57.481111,-7.362778
+DND,Dundee,Dundee,United Kingdom,56.452499,-3.025833
+SYY,Stornoway,Stornoway,United Kingdom,58.215556,-6.331111
+TRE,Tiree,Tiree,United Kingdom,56.499167,-6.869167
+NWI,Norwich,Norwich,United Kingdom,52.675833,1.282778
+STN,Stansted,London,United Kingdom,51.885000,0.235000
+EXT,Exeter,Exeter,United Kingdom,50.734444,-3.413889
+MPN,Mount Pleasant,Mount Pleasant,Falkland Islands,-51.822777,-58.447222
+AMS,Schiphol,Amsterdam,Netherlands,52.308613,4.763889
+MST,Maastricht,Maastricht,Netherlands,50.911658,5.770144
+EIN,Eindhoven,Eindhoven,Netherlands,51.450139,5.374528
+GRQ,Eelde,Groningen,Netherlands,53.119720,6.579444
+RTM,Rotterdam,Rotterdam,Netherlands,51.956944,4.437222
+ORK,Cork,Cork,Ireland,51.841269,-8.491111
+DUB,Dublin,Dublin,Ireland,53.421333,-6.270075
+NOC,Ireland West Knock,Connaught,Ireland,53.910297,-8.818492
+KIR,Kerry,Kerry,Ireland,52.180878,-9.523783
+SNN,Shannon,Shannon,Ireland,52.701978,-8.924817
+WAT,Waterford,Waterford,Ireland,52.187200,-7.086964
+AAR,Aarhus,Aarhus,Denmark,56.300017,10.619008
+BLL,Billund,Billund,Denmark,55.740322,9.151778
+CPH,Kastrup,Copenhagen,Denmark,55.617917,12.655972
+EBJ,Esbjerg,Esbjerg,Denmark,55.525942,8.553403
+KRP,Karup,Karup,Denmark,56.297458,9.124628
+RNN,Bornholm Ronne,Ronne,Denmark,55.063267,14.759558
+FAE,Vagar,Vagar,Faroe Islands,62.063628,-7.277219
+AAL,Aalborg,Aalborg,Denmark,57.092789,9.849164
+LUX,Luxembourg,Luxemburg,Luxembourg,49.626575,6.211517
+AES,Vigra,Alesund,Norway,62.560372,6.110164
+ANX,Andenes,Andoya,Norway,69.292500,16.144167
+ALF,Alta,Alta,Norway,69.976111,23.371667
+BNN,Bronnoy,Bronnoysund,Norway,65.461111,12.217500
+BOO,Bodo,Bodo,Norway,67.269167,14.365278
+BGO,Flesland,Bergen,Norway,60.293386,5.218142
+BJF,Batsfjord,Batsfjord,Norway,70.600278,29.692500
+KRS,Kjevik,Kristiansand,Norway,58.204214,8.085369
+BDU,Bardufoss,Bardufoss,Norway,69.055758,18.540356
+EVE,Evenes,Harstad/Narvik,Norway,68.491300,16.678108
+VDB,Leirin,Fagernes,Norway,61.015556,9.288056
+FRO,Floro,Floro,Norway,61.583611,5.024722
+OSL,Gardermoen,Oslo,Norway,60.193917,11.100361
+HAU,Karmoy,Haugesund,Norway,59.345267,5.208364
+HAA,Hasvik,Hasvik,Norway,70.486675,22.139744
+KSU,Kvernberget,Kristiansund,Norway,63.111781,7.824522
+KKN,Hoybuktmoen,Kirkenes,Norway,69.725781,29.891295
+MOL,Aro,Molde,Norway,62.744722,7.262500
+MJF,Kjaerstad,Mosjoen,Norway,65.783997,13.214914
+LKL,Banak,Lakselv,Norway,70.068814,24.973489
+OLA,Orland,Orland,Norway,63.698908,9.604003
+RRS,Roros,Roros,Norway,62.578411,11.342347
+RYG,Moss,Rygge,Norway,59.378933,10.785389
+LYR,Longyear,Svalbard,Norway,78.246111,15.465556
+SKE,Geiteryggen,Skien,Norway,59.185000,9.566944
+SRP,Sorstokken,Stord,Norway,59.791925,5.340850
+SSJ,Stokka,Sandnessjoen,Norway,65.956828,12.468944
+TOS,Langnes,Tromso,Norway,69.683333,18.918919
+TRF,Torp,Sandefjord,Norway,59.186703,10.258628
+TRD,Vaernes,Trondheim,Norway,63.457556,10.924250
+SVG,Sola,Stavanger,Norway,58.876778,5.637856
+GDN,Lech Walesa,Gdansk,Poland,54.377569,18.466222
+KRK,Balice,Krakow,Poland,50.077731,19.784836
+KTW,Pyrzowice,Katowice,Poland,50.474253,19.080019
+POZ,Lawica,Poznan,Poland,52.421031,16.826325
+RZE,Jasionka,Rzeszow,Poland,50.109958,22.019000
+SZZ,Goleniow,Szczecin,Poland,53.584731,14.902206
+WAW,Okecie,Warsaw,Poland,52.165750,20.967122
+WRO,Strachowice,Wroclaw,Poland,51.102683,16.885836
+RNB,Ronneby,Ronneby,Sweden,56.266667,15.265000
+GOT,Landvetter,Gothenborg,Sweden,57.662836,12.279819
+JKG,Jonkoping,Joenkoeping,Sweden,57.757594,14.068731
+GSE,Save,Gothenborg,Sweden,57.774722,11.870372
+THN,Trollhattan Vanersborg,Trollhattan,Sweden,58.318056,12.345000
+NYO,Skavsta,Stockholm,Sweden,58.788636,16.912189
+KLR,Kalmar,Kalkmar,Sweden,56.685531,16.287578
+MMX,Sturup,Malmoe,Sweden,55.530193,13.371639
+HAD,Halmstad,Halmstad,Sweden,56.691128,12.820211
+VXO,Kronoberg,Vaxjo,Sweden,56.929144,14.727994
+GEV,Gallivare,Gallivare,Sweden,67.132408,20.814636
+KRF,Kramfors Solleftea,Kramfors,Sweden,63.048597,17.768856
+LYC,Lycksele,Lycksele,Sweden,64.548322,18.716219
+SDL,Sundsvall Harnosand,Sundsvall,Sweden,62.528125,17.443928
+OER,Ornskoldsvik,Ornskoldsvik,Sweden,63.408339,18.990039
+KRN,Kiruna,Kiruna,Sweden,67.821986,20.336764
+SFT,Skelleftea,Skelleftea,Sweden,64.624772,21.076892
+UME,Umea,Umea,Sweden,63.791828,20.282758
+VHM,Vilhelmina,Vilhelmina,Sweden,64.579083,16.833575
+AJR,Arvidsjaur,Arvidsjaur,Sweden,65.590278,19.281944
+VST,Vasteras,Vasteras,Sweden,59.589444,16.633611
+LLA,Kallax,Lulea,Sweden,65.543758,22.121989
+ARN,Arlanda,Stockholm,Sweden,59.651944,17.918611
+BMA,Bromma,Stockholm,Sweden,59.354372,17.941650
+LPI,Saab,Linkoeping,Sweden,58.406150,15.680508
+NRK,Kungsangen,Norrkoeping,Sweden,58.586253,16.250622
+VBY,Visby,Visby,Sweden,57.662797,18.346211
+RLG,Laage,Laage,Germany,53.918167,12.278333
+BFN,Bloemfontein Intl,Bloemfontein,South Africa,-29.092722,26.302444
+CPT,Cape Town Intl,Cape Town,South Africa,-33.964806,18.601667
+DUR,Durban Intl,Durban,South Africa,-29.970089,30.950519
+ELS,East London,East London,South Africa,-33.035569,27.825939
+GRJ,George,George,South Africa,-34.005553,22.378889
+HDS,Hoedspruit Afb,Hoedspruit,South Africa,-24.368642,31.048744
+JNB,Johannesburg Intl,Johannesburg,South Africa,-26.139166,28.246000
+KIM,Kimberley,Kimberley,South Africa,-28.802834,24.765167
+HLA,Lanseria,Johannesburg,South Africa,-25.938514,27.926133
+MGH,Margate,Margate,South Africa,-30.857408,30.343019
+PLZ,Port Elizabeth Intl,Port Elizabeth,South Africa,-33.984919,25.617275
+PHW,Phalaborwa,Phalaborwa,South Africa,-23.937166,31.155390
+PTG,Polokwane International,Polokwane,South Africa,-23.926089,29.484422
+PZB,Pietermaritzburg,Pietermaritzburg,South Africa,-29.648975,30.398667
+RCB,Richards Bay,Richard's Bay,South Africa,-28.741039,32.092111
+UTN,Upington,Upington,South Africa,-28.399097,21.260239
+UTT,Mthatha,Umtata,South Africa,-31.547903,28.674289
+FRW,Francistown,Francistown,Botswana,-21.159597,27.474525
+BBK,Kasane,Kasane,Botswana,-17.832875,25.162400
+MUB,Maun,Maun,Botswana,-19.972564,23.431086
+GBE,Sir Seretse Khama Intl,Gaberone,Botswana,-24.555225,25.918208
+BZV,Maya Maya,Brazzaville,Congo (Brazzaville),-4.251700,15.253031
+PNR,Pointe Noire,Pointe-noire,Congo (Brazzaville),-4.816028,11.886597
+MTS,Matsapha,Manzini,Swaziland,-26.529022,31.307519
+BGF,Bangui M Poko,Bangui,Central African Republic,4.398475,18.518786
+SSG,Malabo,Malabo,Equatorial Guinea,3.755267,8.708717
+MRU,Sir Seewoosagur Ramgoolam Intl,Plaisance,Mauritius,-20.430235,57.683600
+RRG,Plaine Corail,Rodriguez Island,Mauritius,-19.757658,63.360983
+DLA,Douala,Douala,Cameroon,4.006081,9.719481
+LVI,Livingstone,Livingstone,Zambia,-17.821756,25.822692
+LUN,Lusaka Intl,Lusaka,Zambia,-15.330817,28.452628
+NLA,Ndola,Ndola,Zambia,-12.998139,28.664944
+HAH,Prince Said Ibrahim,Moroni,Comoros,-11.533661,43.271850
+DZA,Dzaoudzi Pamandzi,Dzaoudzi,Mayotte,-12.804722,45.281113
+RUN,St Denis Gillot,St.-denis,Reunion,-20.887100,55.510308
+ZSE,St Pierre Pierrefonds,St.-pierre,Reunion,-21.320039,55.423581
+TNR,Ivato,Antananarivo,Madagascar,-18.796950,47.478806
+SMS,Sainte Marie,Sainte Marie,Madagascar,-17.093889,49.815834
+TMM,Toamasina,Toamasina,Madagascar,-18.109517,49.392536
+MOQ,Morondava,Morondava,Madagascar,-20.284750,44.317614
+DIE,Arrachart,Antsiranana,Madagascar,-12.349400,49.291747
+WMR,Avaratra,Mananara,Madagascar,-16.163900,49.773753
+ANM,Antsirabato,Antalaha,Madagascar,-14.999411,50.320233
+MJN,Philibert Tsiranana,Mahajanga,Madagascar,-15.667144,46.351828
+NOS,Fascene,Nosy-be,Madagascar,-13.312067,48.314822
+WMN,Maroantsetra,Maroantsetra,Madagascar,-15.436666,49.688332
+SVB,Sambava,Sambava,Madagascar,-14.278611,50.174721
+FTU,Tolagnaro,Tolagnaro,Madagascar,-25.038056,46.956111
+TLE,Toliara,Toliara,Madagascar,-23.383369,43.728453
+CAB,Cabinda,Cabinda,Angola,-5.596992,12.188353
+NOV,Huambo,Huambo,Angola,-12.808878,15.760547
+SVP,Kuito,Kuito,Angola,-12.404633,16.947414
+LAD,Luanda 4 De Fevereiro,Luanda,Angola,-8.858375,13.231178
+MEG,Malanje,Malanje,Angola,-9.525086,16.312406
+SPP,Menongue,Menongue,Angola,-14.657583,17.719833
+VHC,Saurimo,Saurimo,Angola,-9.689067,20.431875
+SZA,Soyo,Soyo,Angola,-6.141086,12.371764
+SDD,Lubango,Lubango,Angola,-14.924733,13.575022
+LUO,Luena,Luena,Angola,-11.768086,19.897672
+LBV,Leon M Ba,Libreville,Gabon,0.458600,9.412283
+TMS,Sao Tome Intl,Sao Tome,Sao Tome and Principe,0.378175,6.712153
+BEW,Beira,Beira,Mozambique,-19.796419,34.907556
+MPM,Maputo,Maputo,Mozambique,-25.920836,32.572606
+APL,Nampula,Nampula,Mozambique,-15.105611,39.281800
+POL,Pemba,Pemba,Mozambique,-12.986753,40.522492
+TET,Tete Chingodzi,Tete,Mozambique,-16.104817,33.640181
+VNX,Vilankulo,Vilankulu,Mozambique,-22.018431,35.313297
+SEZ,Seychelles Intl,Mahe,Seychelles,-4.674342,55.521839
+PRI,Praslin,Praslin,Seychelles,-4.319292,55.691417
+NDJ,Ndjamena Hassan Djamous,N'djamena,Chad,12.133689,15.034019
+BUQ,J M Nkomo Intl,Bulawayo,Zimbabwe,-20.017431,28.617869
+VFA,Victoria Falls Intl,Victoria Falls,Zimbabwe,-18.095881,25.839006
+HRE,Harare Intl,Harare,Zimbabwe,-17.931806,31.092847
+BLZ,Chileka Intl,Blantyre,Malawi,-15.679053,34.974014
+LLW,Kamuzu Intl,Lilongwe,Malawi,-13.789378,33.781000
+MSU,Moshoeshoe I Intl,Maseru,Lesotho,-29.462256,27.552503
+FIH,Ndjili Intl,Kinshasa,Congo (Kinshasa),-4.385750,15.444569
+MDK,Mbandaka,Mbandaka,Congo (Kinshasa),0.022600,18.288744
+GMA,Gemena,Gemena,Congo (Kinshasa),3.235369,19.771258
+FKI,Kisangani Simisini,Kisangani,Congo (Kinshasa),0.517500,25.155014
+IRP,Matari,Isiro,Congo (Kinshasa),2.827606,27.588253
+BUX,Bunia,Bunia,Congo (Kinshasa),1.565719,30.220833
+BKY,Bukavu Kavumu,Bukavu/kavumu,Congo (Kinshasa),-2.308978,28.808803
+GOM,Goma,Goma,Congo (Kinshasa),-1.670814,29.238464
+KND,Kindu,Kindu,Congo (Kinshasa),-2.919178,25.915361
+FBM,Lubumbashi Intl,Lubumashi,Congo (Kinshasa),-11.591333,27.530889
+KGA,Kananga,Kananga,Congo (Kinshasa),-5.900055,22.469166
+MJM,Mbuji Mayi,Mbuji-mayi,Congo (Kinshasa),-6.121236,23.569008
+BKO,Senou,Bamako,Mali,12.533544,-7.949944
+BJL,Banjul Intl,Banjul,Gambia,13.337961,-16.652206
+FUE,Fuerteventura,Fuerteventura,Spain,28.452717,-13.863761
+VDE,Hierro,Hierro,Spain,27.814847,-17.887056
+SPC,La Palma,Santa Cruz De La Palma,Spain,28.626478,-17.755611
+LPA,Gran Canaria,Gran Canaria,Spain,27.931886,-15.386586
+ACE,Lanzarote,Las Palmas,Spain,28.945464,-13.605225
+TFS,Tenerife Sur,Tenerife,Spain,28.044475,-16.572489
+TFN,Tenerife Norte,Tenerife,Spain,28.482653,-16.341536
+MLN,Melilla,Melilla,Spain,35.279817,-2.956256
+FNA,Freetown Lungi,Freetown,Sierra Leone,8.616444,-13.195489
+MLW,Monrovia Spriggs Payne,Monrovia,Liberia,6.289061,-10.758722
+ROB,Monrovia Roberts Intl,Monrovia,Liberia,6.233789,-10.362311
+AGA,Inezgane,Agadir,Morocco,30.381353,-9.546311
+TTA,Plage Blanche,Tan Tan,Morocco,28.448194,-11.161347
+FEZ,Saiss,Fes,Morocco,33.927261,-4.977958
+OUD,Angads,Oujda,Morocco,34.787150,-1.923986
+RBA,Sale,Rabat,Morocco,34.051467,-6.751519
+CMN,Mohammed V Intl,Casablanca,Morocco,33.367467,-7.589967
+RAK,Menara,Marrakech,Morocco,31.606886,-8.036300
+OZZ,Ouarzazate,Ouarzazate,Morocco,30.939053,-6.909431
+AHU,Cherif El Idrissi,Al Hociema,Morocco,35.177103,-3.839525
+TTU,Saniat Rmel,Tetouan,Morocco,35.594333,-5.320019
+TNG,Ibn Batouta,Tanger,Morocco,35.726917,-5.916889
+ZIG,Ziguinchor,Ziguinchor,Senegal,12.555617,-16.281783
+CSK,Cap Skiring,Cap Skiring,Senegal,12.410200,-16.746125
+DKR,Leopold Sedar Senghor Intl,Dakar,Senegal,14.739708,-17.490225
+NKC,Nouakchott,Nouakschott,Mauritania,18.097856,-15.947956
+NDB,Nouadhibou,Nouadhibou,Mauritania,20.933067,-17.029956
+SID,Amilcar Cabral Intl,Amilcar Cabral,Cape Verde,16.741389,-22.949444
+BVC,Rabil,Boa Vista,Cape Verde,16.136531,-22.888897
+MMO,Maio,Maio,Cape Verde,15.155928,-23.213703
+SNE,Preguica,Sao Nocolau Island,Cape Verde,16.588356,-24.284656
+VXE,Sao Pedro,Sao Vicente Island,Cape Verde,16.833689,-25.054661
+ADD,Bole Intl,Addis Ababa,Ethiopia,8.977889,38.799319
+AMH,Arba Minch,Arba Minch,Ethiopia,6.039389,37.590453
+AXU,Axum,Axum,Ethiopia,14.146750,38.772833
+BJR,Bahir Dar,Bahar Dar,Ethiopia,11.608075,37.321644
+DIR,Dire Dawa Intl,Dire Dawa,Ethiopia,9.624700,41.854203
+GMB,Gambella,Gambella,Ethiopia,8.128764,34.563131
+GDQ,Gondar,Gondar,Ethiopia,12.519900,37.434047
+JIM,Jimma,Jimma,Ethiopia,7.666094,36.816639
+LLI,Lalibella,Lalibella,Ethiopia,11.975014,38.979969
+MQX,Makale,Makale,Ethiopia,13.467367,39.533464
+ASO,Asosa,Asosa,Ethiopia,10.018550,34.586253
+BJM,Bujumbura Intl,Bujumbura,Burundi,-3.324019,29.318519
+HGA,Egal Intl,Hargeisa,Somalia,9.518167,44.088758
+ABS,Abu Simbel,Abu Simbel,Egypt,22.375953,31.611722
+CAI,Cairo Intl,Cairo,Egypt,30.121944,31.405556
+HRG,Hurghada Intl,Hurghada,Egypt,27.178317,33.799436
+LXR,Luxor Intl,Luxor,Egypt,25.671028,32.706583
+ASW,Aswan Intl,Aswan,Egypt,23.964356,32.819975
+EDL,Eldoret Intl,Eldoret,Kenya,0.404458,35.238928
+KIS,Kisumu,Kisumu,Kenya,-0.086139,34.728892
+KTL,Kitale,Kitale,Kenya,0.971989,34.958556
+LOK,Lodwar,Lodwar,Kenya,3.121967,35.608692
+LAU,Lamu Manda,Lamu,Kenya,-2.252417,40.913097
+MBA,Mombasa Moi Intl,Mombasa,Kenya,-4.034833,39.594250
+WIL,Nairobi Wilson,Nairobi,Kenya,-1.321719,36.814833
+WJR,Wajir,Wajir,Kenya,1.733239,40.091606
+GHT,Ghat,Ghat,Libya,25.145564,10.142647
+AKF,Kufra,Kufra,Libya,24.178728,23.313958
+BEN,Benina,Benghazi,Libya,32.096786,20.269472
+TIP,Tripoli Intl,Tripoli,Libya,32.663544,13.159011
+LTD,Ghadames East,Ghadames,Libya,30.151695,9.715305
+KGL,Kigali Intl,Kigali,Rwanda,-1.968628,30.139450
+KME,Kamembe,Kamembe,Rwanda,-2.462242,28.907950
+ELF,El Fashir,El Fasher,Sudan,13.614892,25.324650
+JUB,Juba,Juba,South Sudan,4.872006,31.601117
+KRT,Khartoum,Khartoum,Sudan,15.589497,32.553161
+ARK,Arusha,Arusha,Tanzania,-3.367794,36.633333
+DAR,Mwalimu Julius K Nyerere Intl,Dar Es Salaam,Tanzania,-6.878111,39.202625
+JRO,Kilimanjaro Intl,Kilimanjaro,Tanzania,-3.429406,37.074461
+MYW,Mtwara,Mtwara,Tanzania,-10.339058,40.181781
+MWZ,Mwanza,Mwanza,Tanzania,-2.444486,32.932667
+ZNZ,Zanzibar,Zanzibar,Tanzania,-6.222025,39.224886
+EBB,Entebbe Intl,Entebbe,Uganda,0.042386,32.443503
+TIA,Tirana Rinas,Tirana,Albania,41.414742,19.720561
+BOJ,Burgas,Bourgas,Bulgaria,42.569583,27.515236
+PDV,Plovdiv,Plovdiv,Bulgaria,42.067806,24.850833
+SOF,Sofia,Sofia,Bulgaria,42.695194,23.406167
+VAR,Varna,Varna,Bulgaria,43.232072,27.825106
+LCA,Larnaca,Larnaca,Cyprus,34.875117,33.624850
+PFO,Pafos Intl,Paphos,Cyprus,34.718039,32.485731
+DBV,Dubrovnik,Dubrovnik,Croatia,42.561353,18.268244
+OSI,Osijek,Osijek,Croatia,45.462667,18.810156
+PUY,Pula,Pula,Croatia,44.893533,13.922192
+RJK,Rijeka,Rijeka,Croatia,45.216889,14.570267
+SPU,Split,Split,Croatia,43.538944,16.297964
+ZAG,Zagreb,Zagreb,Croatia,45.742931,16.068778
+ZAD,Zadar,Zadar,Croatia,44.108269,15.346697
+ALC,Alicante,Alicante,Spain,38.282169,-0.558156
+LEI,Almeria,Almeria,Spain,36.843936,-2.370097
+OVD,Asturias,Aviles,Spain,43.563567,-6.034622
+BIO,Bilbao,Bilbao,Spain,43.301097,-2.910608
+BCN,Barcelona,Barcelona,Spain,41.297078,2.078464
+BJZ,Talavera La Real,Badajoz,Spain,38.891250,-6.821333
+LCG,A Coruna,La Coruna,Spain,43.302061,-8.377256
+GRO,Girona,Gerona,Spain,41.900969,2.760547
+GRX,Granada,Granada,Spain,37.188731,-3.777356
+IBZ,Ibiza,Ibiza,Spain,38.872858,1.373117
+XRY,Jerez,Jerez,Spain,36.744622,-6.060111
+MJV,Murcia San Javier,Murcia,Spain,37.774972,-0.812389
+MAD,Barajas,Madrid,Spain,40.493556,-3.566764
+AGP,Malaga,Malaga,Spain,36.674900,-4.499106
+MAH,Menorca,Menorca,Spain,39.862597,4.218647
+PNA,Pamplona,Pamplona,Spain,42.770039,-1.646331
+REU,Reus,Reus,Spain,41.147392,1.167172
+SLM,Salamanca,Salamanca,Spain,40.952117,-5.501986
+EAS,San Sebastian,San Sebastian,Spain,43.356519,-1.790611
+SCQ,Santiago,Santiago,Spain,42.896333,-8.415144
+VLC,Valencia,Valencia,Spain,39.489314,-0.481625
+VLL,Valladolid,Valladolid,Spain,41.706111,-4.851944
+VGO,Vigo,Vigo,Spain,42.231800,-8.626775
+SDR,Santander,Santander,Spain,43.427064,-3.820006
+ZAZ,Zaragoza Ab,Zaragoza,Spain,41.666242,-1.041553
+SVQ,Sevilla,Sevilla,Spain,37.418000,-5.893106
+AGF,La Garenne,Agen,France,44.174721,0.590556
+BOD,Merignac,Bordeaux,France,44.828335,-0.715556
+EGC,Roumaniere,Bergerac,France,44.825279,0.518611
+PIS,Biard,Poitiers,France,46.587745,0.306666
+LIG,Bellegarde,Limoges,France,45.862778,1.179444
+TLS,Blagnac,Toulouse,France,43.629075,1.363819
+PUF,Pau Pyrenees,Pau,France,43.380000,-0.418611
+LDE,Lourdes,Tarbes,France,43.178675,-0.006439
+ANG,Brie Champniers,Angouleme,France,45.729247,0.221456
+BVE,La Roche,Brive,France,45.150833,1.469167
+PGX,Bassillac,Perigueux,France,45.198055,0.815556
+BIQ,Anglet,Biarritz-bayonne,France,43.468419,-1.523325
+DCM,Mazamet,Castres,France,43.556250,2.289183
+RDZ,Marcillac,Rodez,France,44.407869,2.482672
+DLE,Tavaux,Dole,France,47.039014,5.427250
+LPY,Loudes,Le Puy,France,45.080689,3.762889
+ETZ,Metz Nancy Lorraine,Metz,France,48.982142,6.251319
+BIA,Poretta,Bastia,France,42.552664,9.483731
+CLY,Saint Catherine,Calvi,France,42.530753,8.793189
+FSC,Sud Corse,Figari,France,41.500557,9.097777
+AJA,Campo Dell Oro,Ajaccio,France,41.923637,8.802917
+CFE,Auvergne,Clermont-Ferrand,France,45.786661,3.169169
+LYS,Saint Exupery,Lyon,France,45.726387,5.090833
+AUR,Aurillac,Aurillac,France,44.891388,2.421944
+EBU,Boutheon,St-Etienne,France,45.540554,4.296389
+CCF,Salvaza,Carcassonne,France,43.215978,2.306317
+MRS,Provence,Marseille,France,43.435555,5.213611
+NCE,Cote D\'Azur,Nice,France,43.658411,7.215872
+PGF,Rivesaltes,Perpignan,France,42.740442,2.870667
+MPL,Mediterranee,Montpellier,France,43.576194,3.963014
+BZR,Vias,Beziers,France,43.323522,3.353903
+AVN,Caumont,Avignon,France,43.907300,4.901831
+BVA,Tille,Beauvais,France,49.454444,2.112778
+LEH,Octeville,Le Havre,France,49.533889,0.088056
+XCR,Vatry,Chalons,France,48.776072,4.184492
+TUF,Val De Loire,Tours,France,47.432222,0.727606
+LIL,Lesquin,Lille,France,50.561942,3.089444
+BES,Guipavas,Brest,France,48.447911,-4.418539
+DNR,Pleurtuit,Dinard,France,48.587683,-2.079958
+DOL,St Gatien,Deauville,France,49.365339,0.154306
+LRT,Lann Bihoue,Lorient,France,47.760555,-3.440000
+CFR,Carpiquet,Caen,France,49.173333,-0.450000
+RNS,St Jacques,Rennes,France,48.069508,-1.734794
+LAI,Lannion,Lannion,France,48.754378,-3.471656
+UIP,Pluguffan,Quimper,France,47.974981,-4.167786
+NTE,Nantes Atlantique,Nantes,France,47.153189,-1.610725
+MLH,Bale Mulhouse,Mulhouse,France,47.589583,7.529914
+DIJ,Longvic,Dijon,France,47.268890,5.090000
+SXB,Entzheim,Strasbourg,France,48.538319,7.628233
+TLN,Le Palyvestre,Hyeres,France,43.097300,6.146030
+FNI,Garons,Nimes,France,43.757444,4.416347
+FSP,St Pierre,St.-pierre,Saint Pierre and Miquelon,46.762904,-56.173088
+AXD,Dimokritos,Alexandroupolis,Greece,40.855869,25.956264
+VOL,Nea Anchialos,Nea Anghialos,Greece,39.219619,22.794339
+JKH,Chios,Chios,Greece,38.343175,26.140572
+IOA,Ioannina,Ioannina,Greece,39.696388,20.822500
+HER,Nikos Kazantzakis,Heraklion,Greece,35.339719,25.180297
+KIT,Kithira,Kithira,Greece,36.274258,23.016978
+EFL,Kefallinia,Keffallinia,Greece,38.120069,20.500481
+KLX,Kalamata,Kalamata,Greece,37.068319,22.025525
+KGS,Kos,Kos,Greece,36.793335,27.091667
+AOK,Karpathos,Karpathos,Greece,35.421408,27.146008
+CFU,Ioannis Kapodistrias Intl,Kerkyra/corfu,Greece,39.601944,19.911667
+KSJ,Kasos,Kasos,Greece,35.421358,26.910047
+KVA,Megas Alexandros Intl,Kavala,Greece,40.913306,24.619223
+LRS,Leros,Leros,Greece,37.184903,26.800289
+LXS,Limnos,Limnos,Greece,39.917072,25.236308
+JMK,Mikonos,Mykonos,Greece,37.435128,25.348103
+MJT,Mitilini,Mytilini,Greece,39.056667,26.598333
+PVK,Aktio,Preveza,Greece,38.925467,20.765311
+RHO,Rhodes Diagoras,Rhodos,Greece,36.405419,28.086192
+GPA,Araxos,Patras,Greece,38.151111,21.425556
+CHQ,Souda,Chania,Greece,35.531747,24.149678
+JSI,Alexandros Papadiamantis,Skiathos,Greece,39.177100,23.503675
+SMI,Samos,Samos,Greece,37.689999,26.911667
+JTR,Santorini,Thira,Greece,36.399169,25.479333
+JSH,Sitia,Sitia,Greece,35.216108,26.101325
+SKU,Skiros,Skiros,Greece,38.967553,24.487228
+SKG,Makedonia,Thessaloniki,Greece,40.519725,22.970950
+ZTH,Dionysios Solomos,Zakynthos,Greece,37.750853,20.884250
+BUD,Ferihegy,Budapest,Hungary,47.436933,19.255592
+DEB,Debrecen,Debrecen,Hungary,47.488917,21.615333
+BRI,Bari,Bari,Italy,41.138856,16.760594
+PSR,Pescara,Pescara,Italy,42.431656,14.181067
+BDS,Casale,Brindisi,Italy,40.657633,17.947033
+SUF,Lamezia Terme,Lamezia,Italy,38.905394,16.242269
+CTA,Catania Fontanarossa,Catania,Italy,37.466781,15.066400
+LMP,Lampedusa,Lampedusa,Italy,35.497914,12.618083
+PNL,Pantelleria,Pantelleria,Italy,36.816519,11.968864
+PMO,Palermo,Palermo,Italy,38.175958,13.091019
+REG,Reggio Calabria,Reggio Calabria,Italy,38.071206,15.651556
+TPS,Trapani Birgi,Trapani,Italy,37.911403,12.487961
+AHO,Alghero,Alghero,Italy,40.632133,8.290772
+CAG,Elmas,Cagliari,Italy,39.251469,9.054283
+OLB,Olbia Costa Smeralda,Olbia,Italy,40.898661,9.517628
+MXP,Malpensa,Milano,Italy,45.630606,8.728111
+BGY,Bergamo Orio Al Serio,Bergamo,Italy,45.673889,9.704166
+TRN,Torino,Torino,Italy,45.200761,7.649631
+GOA,Genova Sestri,Genoa,Italy,44.413333,8.837500
+LIN,Linate,Milan,Italy,45.445103,9.276739
+PMF,Parma,Parma,Italy,44.824483,10.296367
+CUF,Levaldigi,Cuneo,Italy,44.547019,7.623217
+BZO,Bolzano,Bolzano,Italy,46.460194,11.326383
+BLQ,Bologna,Bologna,Italy,44.535444,11.288667
+TSF,Treviso,Treviso,Italy,45.648400,12.194422
+TRS,Ronchi Dei Legionari,Ronchi De Legionari,Italy,45.827500,13.472222
+RMI,Rimini,Rimini,Italy,44.020292,12.611747
+VRN,Villafranca,Villafranca,Italy,45.395706,10.888533
+VCE,Venezia Tessera,Venice,Italy,45.505278,12.351944
+CIA,Ciampino,Rome,Italy,41.799361,12.594936
+FCO,Fiumicino,Rome,Italy,41.804475,12.250797
+EBA,Marina Di Campo,Marina Di Campo,Italy,42.760277,10.239445
+NAP,Capodichino,Naples,Italy,40.886033,14.290781
+PSA,Pisa,Pisa,Italy,43.683917,10.392750
+FLR,Firenze,Florence,Italy,43.809953,11.205100
+PEG,Perugia,Perugia,Italy,43.095906,12.513222
+LJU,Ljubljana,Ljubljana,Slovenia,46.223686,14.457611
+KLV,Karlovy Vary,Karlovy Vary,Czech Republic,50.202978,12.914983
+OSR,Mosnov,Ostrava,Czech Republic,49.696292,18.111053
+PED,Pardubice,Pardubice,Czech Republic,50.013419,15.738647
+PRG,Ruzyne,Prague,Czech Republic,50.100833,14.260000
+BRQ,Turany,Brno,Czech Republic,49.151269,16.694433
+TLV,Ben Gurion,Tel-aviv,Israel,32.011389,34.886667
+ETH,Eilat,Elat,Israel,29.561281,34.960081
+HFA,Haifa,Haifa,Israel,32.809444,35.043056
+VDA,Ovda,Ovda,Israel,29.940250,34.935850
+SDV,Sde Dov,Tel-aviv,Israel,32.114661,34.782239
+MLA,Luqa,Malta,Malta,35.857497,14.477500
+GRZ,Graz,Graz,Austria,46.991067,15.439628
+INN,Innsbruck,Innsbruck,Austria,47.260219,11.343964
+LNZ,Linz,Linz,Austria,48.233219,14.187511
+SZG,Salzburg,Salzburg,Austria,47.793304,13.004333
+VIE,Schwechat,Vienna,Austria,48.110278,16.569722
+SMA,Santa Maria,Santa Maria (island),Portugal,36.971390,-25.170639
+FLW,Flores,Flores,Portugal,39.455272,-31.131361
+FAO,Faro,Faro,Portugal,37.014425,-7.965911
+GRW,Graciosa,Graciosa Island,Portugal,39.092169,-28.029847
+HOR,Horta,Horta,Portugal,38.519894,-28.715872
+TER,Lajes,Lajes (terceira Island),Portugal,38.761842,-27.090797
+PDL,Ponta Delgada,Ponta Delgada,Portugal,37.741184,-25.697870
+PIX,Pico,Pico,Portugal,38.554333,-28.441333
+OPO,Porto,Porto,Portugal,41.248055,-8.681389
+PXO,Porto Santo,Porto Santo,Portugal,33.073386,-16.349975
+LIS,Lisboa,Lisbon,Portugal,38.781311,-9.135919
+SJZ,Sao Jorge,Sao Jorge Island,Portugal,38.665500,-28.175817
+OMO,Mostar,Mostar,Bosnia and Herzegovina,43.282900,17.845878
+SJJ,Sarajevo,Sarajevo,Bosnia and Herzegovina,43.824583,18.331467
+ARW,Arad,Arad,Romania,46.176550,21.262022
+BAY,Tautii Magheraus,Baia Mare,Romania,47.658389,23.470022
+CND,Mihail Kogalniceanu,Constanta,Romania,44.362222,28.488333
+CLJ,Cluj Napoca,Cluj-napoca,Romania,46.785167,23.686167
+CRA,Craiova,Craiova,Romania,44.318139,23.888611
+IAS,Iasi,Iasi,Romania,47.178492,27.620631
+OMR,Oradea,Oradea,Romania,47.025278,21.902500
+OTP,Henri Coanda,Bucharest,Romania,44.572161,26.102178
+SBZ,Sibiu,Sibiu,Romania,45.785597,24.091342
+SUJ,Satu Mare,Satu Mare,Romania,47.703275,22.885700
+TGM,Transilvania Targu Mures,Tirgu Mures,Romania,46.467714,24.412525
+TSR,Traian Vuia,Timisoara,Romania,45.809861,21.337861
+GVA,Geneve Cointrin,Geneva,Switzerland,46.238064,6.108950
+LUG,Lugano,Lugano,Switzerland,46.004275,8.910578
+ZRH,Zurich,Zurich,Switzerland,47.464722,8.549167
+ACH,St Gallen Altenrhein,Altenrhein,Switzerland,47.485033,9.560775
+ESB,Esenboga,Ankara,Turkey,40.128082,32.995083
+ADA,Adana,Adana,Turkey,36.982166,35.280388
+AYT,Antalya,Antalya,Turkey,36.898731,30.800461
+GZT,Oguzeli,Gaziantep,Turkey,36.947183,37.478683
+KYA,Konya,Konya,Turkey,37.979000,32.561861
+MZH,Merzifon,Merzifon,Turkey,40.829375,35.521992
+VAS,Sivas,Sivas,Turkey,39.813828,36.903497
+MLX,Erhac,Malatya,Turkey,38.435347,38.091006
+ASR,Erkilet,Kayseri,Turkey,38.770386,35.495428
+DNZ,Cardak,Denizli,Turkey,37.785567,29.701297
+IST,Ataturk,Istanbul,Turkey,40.976922,28.814606
+ADB,Adnan Menderes,Izmir,Turkey,38.292392,27.156953
+DLM,Dalaman,Dalaman,Turkey,36.713056,28.792500
+EZS,Elazig,Elazig,Turkey,38.606925,39.291417
+DIY,Diyarbakir,Diyabakir,Turkey,37.893897,40.201019
+ERC,Erzincan,Erzincan,Turkey,39.710203,39.527003
+ERZ,Erzurum,Erzurum,Turkey,39.956501,41.170166
+TZX,Trabzon,Trabzon,Turkey,40.995108,39.789728
+VAN,Van,Van,Turkey,38.468219,43.332300
+BAL,Batman,Batman,Turkey,37.928969,41.116583
+KIV,Chisinau Intl,Chisinau,Moldova,46.927744,28.930978
+SKP,Skopje,Skopje,Macedonia,41.961622,21.621381
+GIB,Gibraltar,Gibraltar,Gibraltar,36.151219,-5.349664
+BEG,Beograd,Belgrade,Serbia,44.818444,20.309139
+TGD,Podgorica,Podgorica,Montenegro,42.359392,19.251894
+PRN,Pristina,Pristina,Serbia,42.572778,21.035833
+TIV,Tivat,Tivat,Montenegro,42.404664,18.723286
+BTS,M R Stefanik,Bratislava,Slovakia,48.170167,17.212667
+KSC,Kosice,Kosice,Slovakia,48.663055,21.241112
+PLS,Providenciales,Providenciales,Turks and Caicos Islands,21.773625,-72.265886
+XSC,South Caicos,South Caicos,Turks and Caicos Islands,21.515739,-71.528528
+LRM,Casa De Campo Intl,La Romana,Dominican Republic,18.450711,-68.911833
+PUJ,Punta Cana Intl,Punta Cana,Dominican Republic,18.567367,-68.363431
+POP,Gregorio Luperon Intl,Puerto Plata,Dominican Republic,19.757900,-70.570033
+SDQ,Las Americas Intl,Santo Domingo,Dominican Republic,18.429664,-69.668925
+STI,Cibao Intl,Santiago,Dominican Republic,19.406092,-70.604689
+GUA,La Aurora,Guatemala City,Guatemala,14.583272,-90.527475
+LCE,Goloson Intl,La Ceiba,Honduras,15.742481,-86.853036
+SAP,La Mesa Intl,San Pedro Sula,Honduras,15.452639,-87.923556
+RTB,Juan Manuel Galvez Intl,Roatan,Honduras,16.316814,-86.522961
+TGU,Toncontin Intl,Tegucigalpa,Honduras,14.060883,-87.217197
+KIN,Norman Manley Intl,Kingston,Jamaica,17.935667,-76.787500
+MBJ,Sangster Intl,Montego Bay,Jamaica,18.503717,-77.913358
+ACA,General Juan N Alvarez Intl,Acapulco,Mexico,16.757061,-99.753953
+AGU,Jesus Teran Intl,Aguascalientes,Mexico,21.705558,-102.317858
+HUX,Bahias De Huatulco Intl,Huatulco,Mexico,15.775317,-96.262572
+CME,Ciudad Del Carmen Intl,Ciudad Del Carmen,Mexico,18.653739,-91.799017
+CUL,Culiacan Intl,Culiacan,Mexico,24.764547,-107.474717
+CEN,Ciudad Obregon Intl,Ciudad Obregon,Mexico,27.392639,-109.833111
+CPE,Ingeniero Alberto Acuna Ongay Intl,Campeche,Mexico,19.816794,-90.500314
+CJS,Abraham Gonzalez Intl,Ciudad Juarez,Mexico,31.636133,-106.428667
+CUU,General R Fierro Villalobos Intl,Chihuahua,Mexico,28.702875,-105.964567
+CVM,General Pedro Jose Mendez Intl,Ciudad Victoria,Mexico,23.703336,-98.956486
+CZM,Cozumel Intl,Cozumel,Mexico,20.522403,-86.925644
+DGO,Durango Intl,Durango,Mexico,24.124194,-104.528014
+TPQ,Tepic,Tepic,Mexico,21.419453,-104.842581
+GDL,Don Miguel Hidalgo Y Costilla Intl,Guadalajara,Mexico,20.521800,-103.311167
+HMO,General Ignacio P Garcia Intl,Hermosillo,Mexico,29.095858,-111.047858
+CLQ,Colima,Colima,Mexico,19.277011,-103.577397
+SLW,Plan De Guadalupe Intl,Saltillo,Mexico,25.549497,-100.928669
+LZC,Lazaro Cardenas,Lazard Cardenas,Mexico,18.001731,-102.220525
+LMM,Valle Del Fuerte Intl,Los Mochis,Mexico,25.685194,-109.080806
+BJX,Guanajuato Intl,Del Bajio,Mexico,20.993464,-101.480847
+LAP,General Manuel Marquez De Leon Intl,La Paz,Mexico,24.072694,-110.362475
+LTO,Loreto Intl,Loreto,Mexico,25.989194,-111.348361
+MAM,General Servando Canales Intl,Matamoros,Mexico,25.769894,-97.525311
+MID,Licenciado Manuel Crescencio Rejon Int,Merida,Mexico,20.936981,-89.657672
+MXL,General Rodolfo Sanchez Taboada Intl,Mexicali,Mexico,32.630634,-115.241637
+MLM,General Francisco J Mujica Intl,Morelia,Mexico,19.849944,-101.025500
+MTT,Minatitlan,Minatitlan,Mexico,18.103419,-94.580681
+MEX,Licenciado Benito Juarez Intl,Mexico City,Mexico,19.436303,-99.072097
+MTY,General Mariano Escobedo Intl,Monterrey,Mexico,25.778489,-100.106878
+MZT,General Rafael Buelna Intl,Mazatlan,Mexico,23.161356,-106.266072
+NLD,Quetzalcoatl Intl,Nuevo Laredo,Mexico,27.443918,-99.570460
+OAX,Xoxocotlan Intl,Oaxaca,Mexico,16.999906,-96.726639
+PAZ,Tajin,Poza Rico,Mexico,20.602671,-97.460839
+PBC,Hermanos Serdan Intl,Puebla,Mexico,19.158144,-98.371447
+PDS,Piedras Negras Intl,Piedras Negras,Mexico,28.627394,-100.535211
+UPN,Licenciado Y Gen Ignacio Lopez Rayon,Uruapan,Mexico,19.396692,-102.039056
+PVR,Licenciado Gustavo Diaz Ordaz Intl,Puerto Vallarta,Mexico,20.680083,-105.254167
+PXM,Puerto Escondido Intl,Puerto Escondido,Mexico,15.876861,-97.089117
+QRO,Queretaro Intercontinental,Queretaro,Mexico,20.617289,-100.185658
+REX,General Lucio Blanco Intl,Reynosa,Mexico,26.008908,-98.228513
+SJD,Los Cabos Intl,San Jose Del Cabo,Mexico,23.151850,-109.721044
+SLP,Ponciano Arriaga Intl,San Luis Potosi,Mexico,22.254303,-100.930806
+TRC,Torreon Intl,Torreon,Mexico,25.568278,-103.410583
+TGZ,Angel Albino Corzo,Tuxtla Gutierrez,Mexico,16.561822,-93.026081
+TIJ,General Abelardo L Rodriguez Intl,Tijuana,Mexico,32.541064,-116.970158
+TAM,General Francisco Javier Mina Intl,Tampico,Mexico,22.296450,-97.865931
+TLC,Licenciado Adolfo Lopez Mateos Intl,Toluca,Mexico,19.337072,-99.566008
+TAP,Tapachula Intl,Tapachula,Mexico,14.794339,-92.370025
+CUN,Cancun Intl,Cancun,Mexico,21.036528,-86.877083
+VSA,C P A Carlos Rovirosa Intl,Villahermosa,Mexico,17.997000,-92.817361
+VER,General Heriberto Jara Intl,Vera Cruz,Mexico,19.145931,-96.187267
+ZCL,General Leobardo C Ruiz Intl,Zacatecas,Mexico,22.897112,-102.686890
+ZIH,Ixtapa Zihuatanejo Intl,Zihuatanejo,Mexico,17.601569,-101.460536
+ZLO,Playa De Oro Intl,Manzanillo,Mexico,19.144778,-104.558631
+MGA,Managua Intl,Managua,Nicaragua,12.141494,-86.168178
+BOC,Bocas Del Toro Intl,Bocas Del Toro,Panama,9.340853,-82.250842
+CHX,Cap Manuel Nino Intl,Changuinola,Panama,9.458636,-82.516806
+DAV,Enrique Malek Intl,David,Panama,8.391003,-82.434992
+PAC,Marcos A Gelabert Intl,Panama,Panama,8.973339,-79.555583
+PTY,Tocumen Intl,Panama City,Panama,9.071364,-79.383453
+GLF,Golfito,Golfito,Costa Rica,8.653775,-83.180544
+LIR,Daniel Oduber Quiros Intl,Liberia,Costa Rica,10.593289,-85.544408
+NOB,Nosara,Nosara Beach,Costa Rica,9.976490,-85.653000
+SJO,Juan Santamaria Intl,San Jose,Costa Rica,9.993861,-84.208806
+PMZ,Palmar Sur,Palmar Sur,Costa Rica,8.951025,-83.468583
+XQP,La Managua,Quepos,Costa Rica,9.443164,-84.129772
+SAL,El Salvador Intl,San Salvador,El Salvador,13.440947,-89.055728
+CAP,Cap Haitien Intl,Cap Haitien,Haiti,19.732989,-72.194739
+PAP,Toussaint Louverture Intl,Port-au-prince,Haiti,18.580050,-72.292542
+CYO,Vilo Acuna Intl,Cayo Largo del Sur,Cuba,21.616453,-81.545989
+CMW,Ignacio Agramonte Intl,Camaguey,Cuba,21.420428,-77.847433
+SCU,Antonio Maceo Intl,Santiago De Cuba,Cuba,19.969769,-75.835414
+GAO,Mariana Grajales,Guantanamo,Cuba,20.085419,-75.158328
+HAV,Jose Marti Intl,Havana,Cuba,22.989153,-82.409086
+HOG,Frank Pais Intl,Holguin,Cuba,20.785589,-76.315108
+SNU,Abel Santamaria,Santa Clara,Cuba,22.492192,-79.943611
+VRA,Juan Gualberto Gomez Intl,Varadero,Cuba,23.034445,-81.435278
+CYB,Gerrard Smith Intl,Cayman Barac,Cayman Islands,19.686981,-79.882789
+GCM,Owen Roberts Intl,Georgetown,Cayman Islands,19.292778,-81.357750
+MHH,Marsh Harbour,Marsh Harbor,Bahamas,26.511406,-77.083472
+AXP,Spring Point,Spring Point,Bahamas,22.441828,-73.970858
+TCB,Treasure Cay,Treasure Cay,Bahamas,26.745336,-77.391269
+BIM,South Bimini,Alice Town,Bahamas,25.699881,-79.264656
+GGT,Exuma Intl,Great Exuma,Bahamas,23.562631,-75.877958
+ELH,North Eleuthera,North Eleuthera,Bahamas,25.474861,-76.683489
+GHB,Governors Harbour,Governor's Harbor,Bahamas,25.284706,-76.331011
+RSD,Rock Sound,Rock Sound,Bahamas,24.891700,-76.177739
+FPO,Grand Bahama Intl,Freeport,Bahamas,26.558686,-78.695553
+IGA,Matthew Town,Matthew Town,Bahamas,20.975000,-73.666862
+LGI,Deadmans Cay,Dead Man's Cay,Bahamas,23.179014,-75.093597
+SML,Stella Maris,Stella Maris,Bahamas,23.581444,-75.270475
+MYG,Mayaguana,Mayaguana,Bahamas,22.379528,-73.013500
+NAS,Lynden Pindling Intl,Nassau,Bahamas,25.038958,-77.466231
+ZSA,San Salvador,Cockburn Town,Bahamas,24.063275,-74.523967
+BZE,Philip S W Goldson Intl,Belize City,Belize,17.539144,-88.308203
+AIT,Aitutaki,Aitutaki,Cook Islands,-18.830922,-159.764233
+RAR,Rarotonga Intl,Avarua,Cook Islands,-21.202739,-159.805556
+NAN,Nadi Intl,Nandi,Fiji,-17.755392,177.443378
+SUV,Nausori Intl,Nausori,Fiji,-18.043267,178.559228
+TBU,Fua Amotu Intl,Tongatapu,Tonga,-21.241214,-175.149644
+TRW,Bonriki Intl,Tarawa,Kiribati,1.381636,173.147036
+WLS,Wallis,Wallis,Wallis and Futuna,-13.238281,-176.199228
+APW,Faleolo Intl,Faleolo,Samoa,-13.829969,-172.008336
+PPG,Pago Pago Intl,Pago Pago,American Samoa,-14.331000,-170.710500
+RUR,Rurutu,Rurutu,French Polynesia,-22.434069,-151.360614
+TUB,Tubuai,Tubuai,French Polynesia,-23.365353,-149.524072
+TIH,Tikehau,Tikehau,French Polynesia,-15.119617,-148.230697
+FAV,Fakarava,Fakarava,French Polynesia,-16.054150,-145.656994
+XMH,Manihi,Manihi,French Polynesia,-14.436764,-146.070056
+GMR,Totegegie,Totegegie,French Polynesia,-23.079861,-134.890333
+KKR,Kaukura,Kaukura Atoll,French Polynesia,-15.663333,-146.884769
+MKP,Makemo,Makemo,French Polynesia,-16.583919,-143.658369
+TKP,Takapoto,Takapoto,French Polynesia,-14.709544,-145.245814
+AXR,Arutua,Arutua,French Polynesia,-15.248289,-146.616708
+MVT,Mataiva,Mataiva,French Polynesia,-14.868055,-148.717225
+TKX,Takaroa,Takaroa,French Polynesia,-14.455781,-145.024542
+NHV,Nuku Hiva,Nuku Hiva,French Polynesia,-8.795603,-140.228789
+BOB,Bora Bora,Bora Bora,French Polynesia,-16.444378,-151.751286
+RGI,Rangiroa,Rangiroa,French Polynesia,-14.954283,-147.660800
+HUH,Huahine,Huahine Island,French Polynesia,-16.687242,-151.021667
+MOZ,Moorea,Moorea,French Polynesia,-17.489972,-149.761869
+HOI,Hao,Hao Island,French Polynesia,-18.074814,-140.945886
+MAU,Maupiti,Maupiti,French Polynesia,-16.426486,-152.243669
+RFP,Raiatea,Raiatea Island,French Polynesia,-16.722861,-151.465856
+VLI,Port Vila Bauerfield,Port-vila,Vanuatu,-17.699325,168.319794
+NOU,La Tontouta,Noumea,New Caledonia,-22.014553,166.212972
+AKL,Auckland Intl,Auckland,New Zealand,-37.008056,174.791667
+TUO,Taupo,Taupo,New Zealand,-38.739723,176.084444
+CHC,Christchurch Intl,Christchurch,New Zealand,-43.489358,172.532225
+DUD,Dunedin,Dunedin,New Zealand,-45.928055,170.198333
+GIS,Gisborne,Gisborne,New Zealand,-38.663333,177.978333
+HKK,Hokitika,Hokitika,New Zealand,-42.713611,170.985278
+HLZ,Hamilton,Hamilton,New Zealand,-37.866661,175.332056
+KKE,Kerikeri,Kerikeri,New Zealand,-35.262779,173.911944
+KAT,Kaitaia,Kaitaia,New Zealand,-35.070000,173.285278
+NPL,New Plymouth,New Plymouth,New Zealand,-39.008611,174.179167
+NSN,Nelson,Nelson,New Zealand,-41.298333,173.221111
+IVC,Invercargill,Invercargill,New Zealand,-46.412408,168.312992
+PMR,Palmerston North,Palmerston North,New Zealand,-40.320556,175.616944
+PPQ,Paraparaumu,Paraparaumu,New Zealand,-40.904722,174.989167
+ZQN,Queenstown,Queenstown International,New Zealand,-45.021111,168.739167
+ROT,Rotorua,Rotorua,New Zealand,-38.109167,176.317222
+TRG,Tauranga,Tauranga,New Zealand,-37.671944,176.196110
+TIU,Timaru,Timaru,New Zealand,-44.302778,171.225278
+BHE,Woodbourne,Woodbourne,New Zealand,-41.518333,173.870278
+WHK,Whakatane,Whakatane,New Zealand,-37.920556,176.914167
+WLG,Wellington Intl,Wellington,New Zealand,-41.327221,174.805278
+WRE,Whangarei,Whangarei,New Zealand,-35.768333,174.365000
+WSZ,Westport,Westport,New Zealand,-41.738056,171.580833
+WAG,Wanganui,Wanganui,New Zealand,-39.962222,175.025278
+HEA,Herat,Herat,Afghanistan,34.210017,62.228300
+KBL,Kabul Intl,Kabul,Afghanistan,34.565853,69.212328
+KDH,Kandahar,Kandahar,Afghanistan,31.505756,65.847822
+MZR,Mazar I Sharif,Mazar-i-sharif,Afghanistan,36.706914,67.209678
+BAH,Bahrain Intl,Bahrain,Bahrain,26.270834,50.633610
+AHB,Abha,Abha,Saudi Arabia,18.240367,42.656625
+HOF,Al Ahsa,Al-ahsa,Saudi Arabia,25.285306,49.485189
+ABT,Al Baha,El-baha,Saudi Arabia,20.296139,41.634277
+BHH,Bisha,Bisha,Saudi Arabia,19.984350,42.620881
+DMM,King Fahd Intl,Dammam,Saudi Arabia,26.471161,49.797890
+GIZ,King Abdullah Bin Abdulaziz,Gizan,Saudi Arabia,16.901111,42.585833
+ELQ,Gassim,Gassim,Saudi Arabia,26.302822,43.773911
+URY,Guriat,Guriat,Saudi Arabia,31.411942,37.279469
+HAS,Hail,Hail,Saudi Arabia,27.437917,41.686292
+JED,King Abdulaziz Intl,Jeddah,Saudi Arabia,21.679564,39.156536
+MED,Prince Mohammad Bin Abdulaziz,Madinah,Saudi Arabia,24.553422,39.705061
+EAM,Nejran,Nejran,Saudi Arabia,17.611436,44.419169
+AQI,Qaisumah,Hafr Al-batin,Saudi Arabia,28.335192,46.125069
+RAH,Rafha,Rafha,Saudi Arabia,29.626419,43.490614
+RUH,King Khaled Intl,Riyadh,Saudi Arabia,24.957640,46.698776
+RAE,Arar,Arar,Saudi Arabia,30.906589,41.138217
+SHW,Sharurah,Sharurah,Saudi Arabia,17.466875,47.121431
+TUU,Tabuk,Tabuk,Saudi Arabia,28.365417,36.618889
+TIF,Taif,Taif,Saudi Arabia,21.483418,40.544334
+TUI,Turaif,Turaif,Saudi Arabia,31.692683,38.731200
+EJH,Wejh,Wejh,Saudi Arabia,26.198553,36.476381
+YNB,Yenbo,Yenbo,Saudi Arabia,24.144244,38.063350
+ABD,Abadan,Abadan,Iran,30.371111,48.228333
+MRX,Mahshahr,Bandar Mahshahr,Iran,30.556192,49.151879
+AWZ,Ahwaz,Ahwaz,Iran,31.337431,48.761950
+BUZ,Bushehr,Bushehr,Iran,28.944811,50.834637
+KIH,Kish Island,Kish Island,Iran,26.526156,53.980211
+BDH,Bandar Lengeh,Bandar Lengeh,Iran,26.532000,54.824847
+KSH,Shahid Ashrafi Esfahani,Bakhtaran,Iran,34.345853,47.158128
+SDG,Sanandaj,Sanandaj,Iran,35.245856,47.009247
+RAS,Rasht,Rasht,Iran,37.325314,49.605817
+THR,Mehrabad Intl,Teheran,Iran,35.689167,51.313416
+BND,Bandar Abbass Intl,Bandar Abbas,Iran,27.218317,56.377850
+KER,Kerman,Kerman,Iran,30.274444,56.951111
+XBJ,Birjand,Birjand,Iran,32.898056,59.266111
+RZR,Ramsar,Ramsar,Iran,36.909908,50.679589
+SYZ,Shiraz Shahid Dastghaib Intl,Shiraz,Iran,29.539242,52.589786
+TBZ,Tabriz Intl,Tabriz,Iran,38.133889,46.235000
+AZD,Yazd Shahid Sadooghi,Yazd,Iran,31.904908,54.276503
+ZBR,Chah Bahar,Chah Bahar,Iran,25.443350,60.382114
+ZAH,Zahedan Intl,Zahedan,Iran,29.475686,60.906189
+AMM,Queen Alia Intl,Amman,Jordan,31.722556,35.993214
+AQJ,Aqaba King Hussein Intl,Aqaba,Jordan,29.611619,35.018067
+KWI,Kuwait Intl,Kuwait,Kuwait,29.226567,47.968928
+BEY,Rafic Hariri Intl,Beirut,Lebanon,33.820931,35.488389
+AUH,Abu Dhabi Intl,Abu Dhabi,United Arab Emirates,24.432972,54.651138
+AZI,Bateen,Abu Dhabi,United Arab Emirates,24.428333,54.458084
+DXB,Dubai Intl,Dubai,United Arab Emirates,25.252778,55.364444
+FJR,Fujairah Intl,Fujeirah,United Arab Emirates,25.112225,56.323964
+SHJ,Sharjah Intl,Sharjah,United Arab Emirates,25.328575,55.517150
+KHS,Khasab,Khasab,Oman,26.170986,56.240569
+MCT,Seeb Intl,Muscat,Oman,23.593278,58.284444
+SLL,Salalah,Salalah,Oman,17.038719,54.091297
+LYP,Faisalabad Intl,Faisalabad,Pakistan,31.365014,72.994842
+GWD,Gwadar,Gwadar,Pakistan,25.233308,62.329494
+GIL,Gilgit,Gilgit,Pakistan,35.918786,74.333644
+KHI,Jinnah Intl,Karachi,Pakistan,24.906547,67.160797
+LHE,Allama Iqbal Intl,Lahore,Pakistan,31.521564,74.403594
+MJD,Moenjodaro,Moenjodaro,Pakistan,27.335156,68.143053
+MUX,Multan Intl,Multan,Pakistan,30.203222,71.419111
+PJG,Panjgur,Panjgur,Pakistan,26.954547,64.132517
+PEW,Peshawar Intl,Peshawar,Pakistan,33.993911,71.514581
+UET,Quetta,Quetta,Pakistan,30.251369,66.937764
+RYK,Sheikh Zayed,Rahim Yar Khan,Pakistan,28.383900,70.279572
+ISB,Chaklala,Islamabad,Pakistan,33.616653,73.099233
+SKZ,Sukkur,Sukkur,Pakistan,27.721989,68.791683
+PZH,Zhob,Zhob,Pakistan,31.358381,69.463606
+BSR,Basrah Intl,Basrah,Iraq,30.549069,47.662142
+DOH,Doha Intl,Doha,Qatar,25.261125,51.565056
+ROP,Rota Intl,Rota,Northern Mariana Islands,14.174308,145.242536
+SPN,Francisco C Ada Saipan Intl,Saipan,Northern Mariana Islands,15.119003,145.729356
+GUM,Guam Intl,Agana,Guam,13.483450,144.795983
+MAJ,Marshall Islands Intl,Majuro,Marshall Islands,7.064758,171.272022
+KWA,Bucholz Aaf,Kwajalein,Marshall Islands,8.720122,167.731661
+CXI,Cassidy Intl,Kiritimati,Kiribati,1.986161,-157.349778
+TKK,Chuuk Intl,Chuuk,Micronesia,7.461869,151.843006
+PNI,Pohnpei Intl,Pohnpei,Micronesia,6.985100,158.208989
+ROR,Babelthuap,Babelthuap,Palau,7.367303,134.544278
+KSA,Kosrae,Kosrae,Micronesia,5.356975,162.958386
+YAP,Yap Intl,Yap,Micronesia,9.498911,138.082497
+KNH,Shang Yi,Kinmen,Taiwan,24.427892,118.359197
+TTT,Fengnin,Fengnin,Taiwan,22.754986,121.101681
+KHH,Kaohsiung Intl,Kaohsiung,Taiwan,22.577094,120.350006
+RMQ,Ching Chuang Kang,Taichung,Taiwan,24.264668,120.620580
+TNN,Tainan,Tainan,Taiwan,22.950361,120.205778
+MZG,Magong,Makung,Taiwan,23.568669,119.628311
+TSA,Sungshan,Taipei,Taiwan,25.069722,121.552500
+TPE,Taoyuan Intl,Taipei,Taiwan,25.077731,121.232822
+HUN,Hualien,Hualien,Taiwan,24.023725,121.616906
+NRT,Narita Intl,Tokyo,Japan,35.764722,140.386389
+IBR,Hyakuri,Ibaraki,Japan,36.181083,140.415444
+SHM,Nanki Shirahama,Nanki-shirahama,Japan,33.662222,135.364444
+OBO,Obihiro,Obihiro,Japan,42.733333,143.217222
+CTS,New Chitose,Sapporo,Japan,42.775200,141.692283
+HKD,Hakodate,Hakodate,Japan,41.770000,140.821944
+MMB,Memanbetsu,Memanbetsu,Japan,43.880606,144.164053
+SHB,Nakashibetsu,Nakashibetsu,Japan,43.577500,144.960000
+WKJ,Wakkanai,Wakkanai,Japan,45.404167,141.800833
+IKI,Iki,Iki,Japan,33.749027,129.785417
+UBJ,Yamaguchi Ube,Yamaguchi,Japan,33.930000,131.278611
+TSJ,Tsushima,Tsushima,Japan,34.284889,129.330550
+MBE,Monbetsu,Monbetsu,Japan,44.303914,143.404028
+AKJ,Asahikawa,Asahikawa,Japan,43.670833,142.447500
+FUJ,Fukue,Fukue,Japan,32.666269,128.832808
+FUK,Fukuoka,Fukuoka,Japan,33.585942,130.450686
+KOJ,Kagoshima,Kagoshima,Japan,31.803397,130.719408
+KMI,Miyazaki,Miyazaki,Japan,31.877222,131.448611
+OIT,Oita,Oita,Japan,33.479444,131.737222
+KKJ,New Kitakyushu,Kitakyushu,Japan,33.845942,131.034689
+KMJ,Kumamoto,Kumamoto,Japan,32.837319,130.855050
+NGS,Nagasaki,Nagasaki,Japan,32.916944,129.913611
+ASJ,Amami,Amami,Japan,28.430633,129.712542
+KMQ,Komatsu,Kanazawa,Japan,36.394611,136.406544
+TOY,Toyama,Toyama,Japan,36.648333,137.187500
+HIJ,Hiroshima,Hiroshima,Japan,34.436111,132.919444
+OKJ,Okayama,Okayama,Japan,34.756944,133.855278
+IZO,Izumo,Izumo,Japan,35.413611,132.890000
+YGJ,Yonago Kitaro,Miho,Japan,35.492222,133.236389
+KCZ,Kochi,Kochi,Japan,33.546111,133.669444
+MYJ,Matsuyama,Matsuyama,Japan,33.827222,132.699722
+ITM,Osaka Intl,Osaka,Japan,34.785528,135.438222
+TTJ,Tottori,Tottori,Japan,35.530069,134.166553
+TKS,Tokushima,Tokushima,Japan,34.132808,134.606639
+TAK,Takamatsu,Takamatsu,Japan,34.214167,134.015556
+AOJ,Aomori,Aomori,Japan,40.734722,140.690833
+GAJ,Yamagata,Yamagata,Japan,38.411894,140.371331
+HNA,Hanamaki,Hanamaki,Japan,39.428611,141.135278
+AXT,Akita,Akita,Japan,39.615556,140.218611
+MSJ,Misawa Ab,Misawa,Japan,40.703222,141.368364
+SDJ,Sendai,Sendai,Japan,38.139722,140.916944
+HAC,Hachijojima,Hachijojima,Japan,33.115000,139.785833
+OIM,Oshima,Oshima,Japan,34.782033,139.360306
+HND,Tokyo Intl,Tokyo,Japan,35.552258,139.779694
+KWJ,Gwangju,Kwangju,South Korea,35.126389,126.808889
+RSU,Yeosu,Yeosu,South Korea,34.842328,127.616850
+CJU,Jeju Intl,Cheju,South Korea,33.511306,126.493028
+PUS,Gimhae Intl,Busan,South Korea,35.179528,128.938222
+USN,Ulsan,Ulsan,South Korea,35.593494,129.351722
+GMP,Gimpo,Seoul,South Korea,37.558311,126.790586
+KPO,Pohang,Pohang,South Korea,35.987858,129.420486
+TAE,Daegu Ab,Taegu,South Korea,35.894108,128.658856
+OKA,Naha,Okinawa,Japan,26.195814,127.645869
+ISG,Ishigaki,Ishigaki,Japan,24.344525,124.186983
+UEO,Kumejima,Kumejima,Japan,26.363506,126.713806
+MMY,Miyako,Miyako,Japan,24.782833,125.295111
+MNL,Ninoy Aquino Intl,Manila,Philippines,14.508647,121.019581
+CBO,Cotabato,Cotabato,Philippines,7.165242,124.209619
+CGY,Cagayan De Oro,Ladag,Philippines,8.415619,124.611219
+PAG,Pagadian,Pagadian,Philippines,7.827197,123.458294
+ZAM,Zamboanga Intl,Zamboanga,Philippines,6.922419,122.059633
+TAC,Daniel Z Romualdez,Tacloban,Philippines,11.227628,125.027758
+BCD,Bacolod,Bacolod,Philippines,10.642511,122.929617
+DGT,Dumaguete,Dumaguete,Philippines,9.333714,123.300472
+ILO,Iloilo,Iloilo,Philippines,10.713044,122.545297
+KLO,Kalibo,Kalibo,Philippines,11.679431,122.376294
+PPS,Puerto Princesa,Puerto Princesa,Philippines,9.742119,118.758731
+SJI,Antique,San Jose,Philippines,10.766044,121.933439
+PRA,General Urquiza,Parana,Argentina,-31.794778,-60.480361
+ROS,Rosario,Rosario,Argentina,-32.903611,-60.785000
+SFN,Sauce Viejo,Santa Fe,Argentina,-31.711666,-60.811668
+AEP,Aeroparque Jorge Newbery,Buenos Aires,Argentina,-34.559175,-58.415606
+COR,Ambrosio L V Taravella,Cordoba,Argentina,-31.323619,-64.207953
+MDZ,El Plumerillo,Mendoza,Argentina,-32.831717,-68.792856
+AFA,San Rafael,San Rafael,Argentina,-34.588314,-68.403854
+CTC,Catamarca,Catamarca,Argentina,-28.593214,-65.750925
+SDE,Santiago Del Estero,Santiago Del Estero,Argentina,-27.765617,-64.310122
+IRJ,La Rioja,La Rioja,Argentina,-29.381636,-66.795839
+TUC,Teniente Benjamin Matienzo,Tucuman,Argentina,-26.840861,-65.104944
+UAQ,San Juan,San Julian,Argentina,-31.571472,-68.418194
+LUQ,San Luis,San Luis,Argentina,-33.273192,-66.356422
+RES,Resistencia,Resistencia,Argentina,-27.449986,-59.056125
+FMA,Formosa,Formosa,Argentina,-26.212722,-58.228111
+IGR,Cataratas Del Iguazu,Iguazu Falls,Argentina,-25.737281,-54.473444
+PSS,Posadas,Posadas,Argentina,-27.385839,-55.970728
+SLA,Salta,Salta,Argentina,-24.855978,-65.486169
+JUJ,Jujuy,Jujuy,Argentina,-24.392778,-65.097778
+CRD,Comodoro Rivadavia,Comodoro Rivadavia,Argentina,-45.785347,-67.465508
+EQS,Esquel,Esquel,Argentina,-42.907950,-71.139472
+REL,Almirante Zar,Trelew,Argentina,-43.210500,-65.270319
+VDM,Gobernador Castello,Viedma,Argentina,-40.869222,-63.000389
+PMY,El Tehuelche,Puerto Madryn,Argentina,-42.759161,-65.102725
+RGA,Rio Grande,Rio Grande,Argentina,-53.777667,-67.749389
+RGL,Rio Gallegos,Rio Gallegos,Argentina,-51.608875,-69.312636
+USH,Ushuaia Malvinas Argentinas,Ushuaia,Argentina,-54.843278,-68.295750
+BHI,Comandante Espora,Bahia Blanca,Argentina,-38.724967,-62.169317
+MDQ,Mar Del Plata,Mar Del Plata,Argentina,-37.934167,-57.573333
+NQN,Presidente Peron,Neuquen,Argentina,-38.949000,-68.155711
+RSA,Santa Rosa,Santa Rosa,Argentina,-36.588322,-64.275694
+BRC,San Carlos De Bariloche,San Carlos De Bariloche,Argentina,-41.151172,-71.157542
+CPC,Aviador C Campos,San Martin Des Andes,Argentina,-40.075383,-71.137294
+CDJ,Conceicao Do Araguaia,Conceicao Do Araguaia,Brazil,-8.348347,-49.301528
+AQA,Araraquara,Araracuara,Brazil,-21.812000,-48.133028
+AJU,Santa Maria,Aracaju,Brazil,-10.984000,-37.070333
+AFL,Alta Floresta,Alta Floresta,Brazil,-9.866092,-56.106206
+ARU,Aracatuba,Aracatuba,Brazil,-21.141342,-50.424722
+BEL,Val De Cans Intl,Belem,Brazil,-1.379250,-48.476292
+PLU,Pampulha Carlos Drummond De Andrade,Belo Horizonte,Brazil,-19.851181,-43.950628
+BSB,Presidente Juscelino Kubitschek,Brasilia,Brazil,-15.871100,-47.918625
+BVB,Boa Vista,Boa Vista,Brazil,2.846311,-60.690069
+CAC,Cascavel,Cascavel,Brazil,-25.000339,-53.500764
+CNF,Tancredo Neves Intl,Belo Horizonte,Brazil,-19.633750,-43.968856
+CGR,Campo Grande,Campo Grande,Brazil,-20.468667,-54.672500
+XAP,Chapeco,Chapeco,Brazil,-27.134219,-52.656553
+CCM,Forquilhinha,Criciuma,Brazil,-28.725817,-49.424739
+CAW,Bartolomeu Lisandro,Campos,Brazil,-21.698333,-41.301669
+CMG,Corumba Intl,Corumba,Brazil,-19.011931,-57.673053
+CWB,Afonso Pena,Curitiba,Brazil,-25.528475,-49.175775
+CXJ,Campo Dos Bugres,Caxias Do Sul,Brazil,-29.197064,-51.187536
+CGB,Marechal Rondon,Cuiaba,Brazil,-15.652931,-56.116719
+CZS,Cruzeiro do Sul,Cruzeiro do Sul,Brazil,-7.599906,-72.769489
+PPB,Presidente Prudente,President Prudente,Brazil,-22.175056,-51.424639
+MAO,Eduardo Gomes Intl,Manaus,Brazil,-3.038611,-60.049721
+IGU,Cataratas Intl,Foz Do Iguacu,Brazil,-25.596150,-54.487206
+FLN,Hercilio Luz,Florianopolis,Brazil,-27.670489,-48.547181
+FEN,Fernando De Noronha,Fernando Do Noronha,Brazil,-3.854928,-32.423336
+FOR,Pinto Martins Intl,Fortaleza,Brazil,-3.776283,-38.532556
+GIG,Galeao Antonio Carlos Jobim,Rio De Janeiro,Brazil,-22.808903,-43.243647
+GYN,Santa Genoveva,Goiania,Brazil,-16.632033,-49.220686
+GRU,Guarulhos Gov Andre Franco Montouro,Sao Paulo,Brazil,-23.432075,-46.469511
+ATM,Altamira,Altamira,Brazil,-3.253906,-52.253978
+IOS,Ilheus,Ilheus,Brazil,-14.815964,-39.033197
+IPN,Usiminas,Ipatinga,Brazil,-19.470722,-42.487583
+IMP,Prefeito Renato Moreira,Imperatriz,Brazil,-5.531292,-47.460050
+JPA,Presidente Castro Pinto,Joao Pessoa,Brazil,-7.148381,-34.950681
+JOI,Lauro Carneiro De Loyola,Joinville,Brazil,-26.224453,-48.797364
+CPV,Presidente Joao Suassuna,Campina Grande,Brazil,-7.269917,-35.896364
+VCP,Viracopos,Campinas,Brazil,-23.007500,-47.134444
+LDB,Londrina,Londrina,Brazil,-23.333625,-51.130072
+MAB,Maraba,Maraba,Brazil,-5.368589,-49.138025
+MGF,Regional De Maringa Silvio Name Junior,Maringa,Brazil,-23.476392,-52.016406
+MOC,Mario Ribeiro,Montes Claros,Brazil,-16.706925,-43.818900
+MCZ,Zumbi Dos Palmares,Maceio,Brazil,-9.510808,-35.791678
+MCP,Macapa,Macapa,Brazil,0.050664,-51.072178
+NVT,Ministro Victor Konder Intl,Navegantes,Brazil,-26.879999,-48.651390
+NAT,Augusto Severo,Natal,Brazil,-5.911417,-35.247717
+POA,Salgado Filho,Porto Alegre,Brazil,-29.994428,-51.171428
+PFB,Lauro Kurtz,Passo Fundo,Brazil,-28.243989,-52.326558
+PET,Pelotas,Pelotas,Brazil,-31.718353,-52.327689
+PNZ,Senador Nilo Coelho,Petrolina,Brazil,-9.362411,-40.569097
+PVH,Governador Jorge Teixeira De Oliveira,Porto Velho,Brazil,-8.709294,-63.902281
+RBR,Placido de Castro,Rio Branco,Brazil,-9.583000,-67.483600
+REC,Guararapes Gilberto Freyre Intl,Recife,Brazil,-8.126794,-34.923039
+RIG,Rio Grande,Rio Grande,Brazil,-32.082617,-52.166542
+SDU,Santos Dumont,Rio De Janeiro,Brazil,-22.910461,-43.163133
+RAO,Leite Lopes,Ribeirao Preto,Brazil,-21.134167,-47.774189
+SJK,Professor Urbano Ernesto Stumpf,Sao Jose Dos Campos,Brazil,-23.228172,-45.862739
+SLZ,Marechal Cunha Machado Intl,Sao Luis,Brazil,-2.585361,-44.234139
+CGH,Congonhas,Sao Paulo,Brazil,-23.626692,-46.655375
+SJP,Sao Jose Do Rio Preto,Sao Jose Do Rio Preto,Brazil,-20.816567,-49.406511
+SSA,Deputado Luis Eduardo Magalhaes,Salvador,Brazil,-12.910994,-38.331044
+TMT,Trombetas,Oriximina,Brazil,-1.489600,-56.396803
+THE,Senador Petronio Portella,Teresina,Brazil,-5.059942,-42.823478
+TFF,Tefe,Tefe,Brazil,-3.382944,-64.724056
+TBT,Tabatinga,Tabatinga,Brazil,-4.255669,-69.935828
+TUR,Tucurui,Tucurui,Brazil,-3.786008,-49.720267
+PAV,Paulo Afonso,Paulo Alfonso,Brazil,-9.400878,-38.250575
+UDI,Ten Cel Av Cesar Bombonato,Uberlandia,Brazil,-18.882844,-48.225594
+UBA,Uberaba,Uberaba,Brazil,-19.765000,-47.964778
+BVH,Vilhena,Vilhena,Brazil,-12.694375,-60.098269
+VIX,Goiabeiras,Vitoria,Brazil,-20.258056,-40.286389
+ARI,Chacalluta,Arica,Chile,-18.348531,-70.338742
+BBA,Balmaceda,Balmaceda,Chile,-45.916058,-71.689475
+CJC,El Loa,Calama,Chile,-22.498175,-68.903575
+PUQ,Carlos Ibanez Del Campo Intl,Punta Arenas,Chile,-53.002642,-70.854586
+IQQ,Diego Aracena Intl,Iquique,Chile,-20.535222,-70.181275
+SCL,Arturo Merino Benitez Intl,Santiago,Chile,-33.392975,-70.785803
+ANF,Cerro Moreno Intl,Antofagasta,Chile,-23.444478,-70.445100
+CCP,Carriel Sur Intl,Concepcion,Chile,-36.772650,-73.063106
+IPC,Mataveri Intl,Easter Island,Chile,-27.164792,-109.421831
+ZOS,Canal Bajo Carlos Hott Siebert,Osorno,Chile,-40.611208,-73.061042
+LSC,La Florida,La Serena,Chile,-29.916233,-71.199522
+ZCO,Maquehue,Temuco,Chile,-38.766819,-72.637097
+PMC,El Tepual Intl,Puerto Montt,Chile,-41.438886,-73.093953
+ZAL,Pichoy,Valdivia,Chile,-39.649956,-73.086111
+OCC,Francisco De Orellana,Coca,Ecuador,-0.462886,-76.986842
+CUE,Mariscal Lamar,Cuenca,Ecuador,-2.889467,-78.984397
+GPS,Seymour,Galapagos,Ecuador,-0.453758,-90.265914
+GYE,Jose Joaquin De Olmedo Intl,Guayaquil,Ecuador,-2.157419,-79.883558
+XMS,Coronel E Carvajal,Macas,Ecuador,-2.299167,-78.120750
+MEC,Eloy Alfaro Intl,Manta,Ecuador,-0.946078,-80.678808
+UIO,Mariscal Sucre Intl,Quito,Ecuador,-0.141144,-78.488214
+TUA,Teniente Coronel Luis A Mantilla,Tulcan,Ecuador,0.809506,-77.708056
+ASU,Silvio Pettirossi Intl,Asuncion,Paraguay,-25.239850,-57.519133
+AXM,El Eden,Armenia,Colombia,4.452775,-75.766447
+PUU,Tres De Mayo,Puerto Asis,Colombia,0.505228,-76.500836
+BGA,Palonegro,Bucaramanga,Colombia,7.126500,-73.184778
+BOG,Eldorado Intl,Bogota,Colombia,4.701594,-74.146947
+BAQ,Ernesto Cortissoz,Barranquilla,Colombia,10.889589,-74.780819
+BSC,Jose Celestino Mutis,Bahia Solano,Colombia,6.202917,-77.394675
+BUN,Gerardo Tobar Lopez,Buenaventura,Colombia,3.819628,-76.989767
+CUC,Camilo Daza,Cucuta,Colombia,7.927567,-72.511547
+CTG,Rafael Nunez,Cartagena,Colombia,10.442381,-75.512961
+CLO,Alfonso Bonilla Aragon Intl,Cali,Colombia,3.543222,-76.381583
+TCO,La Florida,Tumaco,Colombia,1.814417,-78.749228
+CZU,Las Brujas,Corozal,Colombia,9.332742,-75.285594
+EJA,Yariguies,Barrancabermeja,Colombia,7.024331,-73.806800
+FLA,Gustavo Artunduaga Paredes,Florencia,Colombia,1.589189,-75.564372
+GPI,Juan Casiano,Guapi,Colombia,2.570133,-77.898600
+IBE,Perales,Ibague,Colombia,4.421608,-75.133300
+IPI,San Luis,Ipiales,Colombia,0.861925,-77.671764
+LET,Alfredo Vasquez Cobo,Leticia,Colombia,-4.193549,-69.943163
+EOH,Olaya Herrera,Medellin,Colombia,6.219958,-75.590519
+MTR,Los Garzones,Monteria,Colombia,8.823744,-75.825831
+MVP,Fabio Alberto Leon Bentley,Mitu,Colombia,1.253664,-70.233878
+MZL,La Nubia,Manizales,Colombia,5.029597,-75.464708
+NVA,Benito Salas,Neiva,Colombia,2.950150,-75.294000
+PCR,Puerto Carreno,Puerto Carreno,Colombia,6.184717,-67.493164
+PEI,Matecana,Pereira,Colombia,4.812675,-75.739519
+PPN,Guillermo Leon Valencia,Popayan,Colombia,2.454400,-76.609319
+PSO,Antonio Narino,Pasto,Colombia,1.396247,-77.291478
+PVA,El Embrujo,Providencia,Colombia,13.356944,-81.358330
+MDE,Jose Maria Cordova,Rio Negro,Colombia,6.164536,-75.423119
+RCH,Almirante Padilla,Rio Hacha,Colombia,11.526222,-72.925958
+SJE,Jorge E Gonzalez Torres,San Jose Del Guaviare,Colombia,2.579694,-72.639358
+SMR,Simon Bolivar,Santa Marta,Colombia,11.119650,-74.230647
+ADZ,Gustavo Rojas Pinilla,San Andres Island,Colombia,12.583594,-81.711192
+SVI,Eduardo Falla Solano,San Vincente De Caguan,Colombia,2.152175,-74.766350
+TME,Tame,Tame,Colombia,6.451081,-71.760261
+AUC,Santiago Perez,Arauca,Colombia,7.068881,-70.736925
+UIB,El Carano,Quibdo,Colombia,5.690758,-76.641181
+VUP,Alfonso Lopez Pumarejo,Valledupar,Colombia,10.435042,-73.249506
+VVC,Vanguardia,Villavicencio,Colombia,4.167875,-73.613761
+CBB,Jorge Wilsterman,Cochabamba,Bolivia,-17.421058,-66.177114
+CIJ,Heroes Del Acre,Cobija,Bolivia,-11.040436,-68.782972
+LPB,El Alto Intl,La Paz,Bolivia,-16.513339,-68.192256
+POI,Capitan Nicolas Rojas,Potosi,Bolivia,-19.543069,-65.723706
+SRE,Juana Azurduy De Padilla,Sucre,Bolivia,-19.007083,-65.288747
+TJA,Capitan Oriel Lea Plaza,Tarija,Bolivia,-21.555736,-64.701325
+TDD,Tte Av Jorge Henrich Arauz,Trinidad,Bolivia,-14.818739,-64.918019
+VVI,Viru Viru Intl,Santa Cruz,Bolivia,-17.644756,-63.135364
+BYC,Yacuiba,Yacuiba,Bolivia,-21.960925,-63.651669
+PBM,Johan A Pengel Intl,Zandery,Suriname,5.452831,-55.187783
+CAY,Rochambeau,Cayenne,French Guiana,4.819808,-52.360447
+PCL,Cap Fap David Abenzur Rengifo Intl,Pucallpa,Peru,-8.377939,-74.574297
+CIX,Capt Jose A Quinones Gonzales Intl,Chiclayo,Peru,-6.787475,-79.828097
+AYP,Coronel Fap Alfredo Mendivil Duarte,Ayacucho,Peru,-13.154819,-74.204417
+ANS,Andahuaylas,Andahuaylas,Peru,-13.706408,-73.350378
+ATA,Comandante Fap German Arias Graziani,Anta,Peru,-9.347444,-77.598392
+LIM,Jorge Chavez Intl,Lima,Peru,-12.021889,-77.114319
+JUL,Juliaca,Juliaca,Peru,-15.467103,-70.158169
+TBP,Pedro Canga,Tumbes,Peru,-3.552528,-80.381356
+IQT,Coronel Francisco Secada Vignetta Intl,Iquitos,Peru,-3.784739,-73.308806
+AQP,Rodriguez Ballon,Arequipa,Peru,-16.341072,-71.583083
+TRU,Capitan Carlos Martinez De Pinillos,Trujillo,Peru,-8.081411,-79.108761
+TPP,Cadete Guillermo Del Castillo Paredes,Tarapoto,Peru,-6.508742,-76.373247
+TCQ,Coronel Carlos Ciriani Santa Rosa Intl,Tacna,Peru,-18.053333,-70.275833
+PEM,Padre Aldamiz,Puerto Maldonado,Peru,-12.613611,-69.228611
+PIU,Capitan Fap Guillermo Concha Iberico,Piura,Peru,-5.205750,-80.616444
+CUZ,Teniente Alejandro Velasco Astete Intl,Cuzco,Peru,-13.535722,-71.938781
+MVD,Carrasco Intl,Montevideo,Uruguay,-34.838417,-56.030806
+BLA,General Jose Antonio Anzoategui Intl,Barcelona,Venezuela,10.107139,-64.689161
+BNS,Barinas,Barinas,Venezuela,8.619575,-70.220825
+BRM,Barquisimeto Intl,Barquisimeto,Venezuela,10.042747,-69.358619
+CAJ,Canaima,Canaima,Venezuela,6.231989,-62.854433
+CZE,Jose Leonardo Chirinos,Coro,Venezuela,11.414867,-69.681656
+CUM,Antonio Jose De Sucre,Cumana,Venezuela,10.450333,-64.130472
+LSP,Josefa Camejo,Paraguana,Venezuela,11.780775,-70.151497
+LFR,La Fria,La Fria,Venezuela,8.239167,-72.271028
+MAR,La Chinita Intl,Maracaibo,Venezuela,10.558208,-71.727856
+MRD,Alberto Carnevalli,Merida,Venezuela,8.582294,-71.161186
+PMV,Del Caribe Intl Gen Santiago Marino,Porlamar,Venezuela,10.912926,-63.967581
+CCS,Simon Bolivar Intl,Caracas,Venezuela,10.603117,-66.990583
+MUN,Maturin,Maturin,Venezuela,9.749067,-63.153400
+PYH,Casique Aramare,Puerto Ayacucho,Venezuela,5.619992,-67.606103
+PBL,General Bartolome Salom Intl,Puerto Cabello,Venezuela,10.480500,-68.073025
+PZO,General Manuel Carlos Piar,Guayana,Venezuela,8.288528,-62.760361
+SVZ,San Antonio Del Tachira,San Antonio,Venezuela,7.840831,-72.439742
+STD,Mayor Buenaventura Vivas,Santo Domingo,Venezuela,7.565111,-72.035125
+SOM,San Tome,San Tome,Venezuela,8.945147,-64.151083
+VLN,Arturo Michelena Intl,Valencia,Venezuela,10.149733,-67.928400
+VLV,Dr Antonio Nicolas Briceno,Valera,Venezuela,9.340797,-70.584089
+ANU,V C Bird Intl,Antigua,Antigua and Barbuda,17.136749,-61.792667
+BGI,Grantley Adams Intl,Bridgetown,Barbados,13.074603,-59.492456
+DOM,Melville Hall,Dominica,Dominica,15.547028,-61.300000
+FDF,Le Lamentin,Fort-de-france,Martinique,14.591033,-61.003175
+SFG,Grand Case,St. Martin,Guadeloupe,18.099914,-63.047197
+PTP,Le Raizet,Pointe-a-pitre,Guadeloupe,16.265306,-61.531806
+GND,Point Salines Intl,Point Salines,Grenada,12.004247,-61.786192
+STT,Cyril E King,St. Thomas,Virgin Islands,18.337306,-64.973361
+STX,Henry E Rohlsen,St. Croix Island,Virgin Islands,17.701889,-64.798556
+BQN,Rafael Hernandez,Aguadilla,Puerto Rico,18.494861,-67.129444
+MAZ,Eugenio Maria De Hostos,Mayaguez,Puerto Rico,18.255694,-67.148472
+PSE,Mercedita,Ponce,Puerto Rico,18.008306,-66.563028
+SJU,Luis Munoz Marin Intl,San Juan,Puerto Rico,18.439417,-66.001833
+SKB,Robert L Bradshaw,Basse Terre,Saint Kitts and Nevis,17.311194,-62.718667
+SLU,George F L Charles,Castries,Saint Lucia,14.020228,-60.992936
+UVF,Hewanorra Intl,Hewandorra,Saint Lucia,13.733194,-60.952597
+AUA,Reina Beatrix Intl,Oranjestad,Aruba,12.501389,-70.015221
+BON,Flamingo,Kralendijk,Netherlands Antilles,12.131044,-68.268511
+CUR,Hato,Willemstad,Netherlands Antilles,12.188853,-68.959803
+SXM,Princess Juliana Intl,Philipsburg,Netherlands Antilles,18.040953,-63.108900
+AXA,Wallblake,The Valley,Anguilla,18.204834,-63.055084
+TAB,Crown Point,Scarborough,Trinidad and Tobago,11.149658,-60.832194
+POS,Piarco,Port-of-spain,Trinidad and Tobago,10.595369,-61.337242
+EIS,Terrance B Lettsome Intl,Tortola,British Virgin Islands,18.444834,-64.542975
+SVD,E T Joshua,Kingstown,Saint Vincent and the Grenadines,13.144306,-61.210861
+ALA,Almaty,Alma-ata,Kazakhstan,43.352072,77.040508
+TSE,Astana Intl,Tselinograd,Kazakhstan,51.022222,71.466944
+DMB,Taraz,Dzhambul,Kazakhstan,42.853611,71.303611
+FRU,Manas,Bishkek,Kyrgyzstan,43.061306,74.477556
+OSS,Osh,Osh,Kyrgyzstan,40.608989,72.793269
+CIT,Shymkent,Chimkent,Kazakhstan,42.364167,69.478889
+URA,Uralsk,Uralsk,Kazakhstan,51.150833,51.543056
+PWQ,Pavlodar,Pavlodar,Kazakhstan,52.195000,77.073889
+PLX,Semipalatinsk,Semiplatinsk,Kazakhstan,50.351300,80.234400
+AKX,Aktyubinsk,Aktyubinsk,Kazakhstan,50.245833,57.206667
+GYD,Heydar Aliyev,Baku,Azerbaijan,40.467500,50.046667
+YKS,Yakutsk,Yakutsk,Russia,62.093250,129.770672
+MJZ,Mirny,Mirnyj,Russia,62.534689,114.038928
+BQS,Ignatyevo,Blagoveschensk,Russia,50.425394,127.412478
+KHV,Novy,Khabarovsk,Russia,48.528044,135.188361
+GDX,Sokol,Magadan,Russia,59.910989,150.720439
+PWE,Pevek,Pevek,Russia,69.783283,170.597006
+PKC,Yelizovo,Petropavlovsk,Russia,53.167889,158.453669
+UUS,Khomutovo,Yuzhno-sakhalinsk,Russia,46.888672,142.717531
+VVO,Knevichi,Vladivostok,Russia,43.398953,132.148017
+HTA,Kadala,Chita,Russia,52.026317,113.305556
+BTK,Bratsk,Bratsk,Russia,56.370556,101.698331
+IKT,Irkutsk,Irkutsk,Russia,52.268028,104.388975
+UUD,Mukhino,Ulan-ude,Russia,51.807764,107.437644
+KBP,Boryspil Intl,Kiev,Ukraine,50.345000,30.894722
+DOK,Donetsk Intl,Donetsk,Ukraine,48.073611,37.739722
+DNK,Dnipropetrovsk Intl,Dnepropetrovsk,Ukraine,48.357222,35.100556
+SIP,Simferopol Intl,Simferopol,Ukraine,45.052222,33.975139
+IEV,Zhuliany Intl,Kiev,Ukraine,50.401694,30.449697
+LWO,Lviv Intl,Lvov,Ukraine,49.812500,23.956111
+ODS,Odesa Intl,Odessa,Ukraine,46.426767,30.676464
+LED,Pulkovo,St. Petersburg,Russia,59.800292,30.262503
+MMK,Murmansk,Murmansk,Russia,68.781672,32.750822
+KGD,Khrabrovo,Kaliningrad,Russia,54.890050,20.592633
+MSQ,Minsk 2,Minsk 2,Belarus,53.882469,28.030731
+ABA,Abakan,Abakan,Russia,53.740000,91.385000
+BAX,Barnaul,Barnaul,Russia,53.363775,83.538533
+KEJ,Kemerovo,Kemorovo,Russia,55.270094,86.107208
+OMS,Omsk,Omsk,Russia,54.967042,73.310514
+KRR,Pashkovskiy,Krasnodar,Russia,45.034689,39.170539
+MCX,Uytash,Makhachkala,Russia,42.816822,47.652294
+MRV,Mineralnyye Vody,Mineralnye Vody,Russia,44.225072,43.081889
+STW,Shpakovskoye,Stavropol,Russia,45.109165,42.112778
+ROV,Rostov Na Donu,Rostov,Russia,47.258208,39.818089
+AER,Sochi,Sochi,Russia,43.449928,39.956589
+ASF,Astrakhan,Astrakhan,Russia,46.283333,48.006278
+VOG,Gumrak,Volgograd,Russia,48.782528,44.345544
+CEK,Balandino,Chelyabinsk,Russia,55.305836,61.503333
+MQF,Magnitogorsk,Magnetiogorsk,Russia,53.393131,58.755661
+NJC,Nizhnevartovsk,Nizhnevartovsk,Russia,60.949272,76.483617
+PEE,Bolshoye Savino,Perm,Russia,57.914517,56.021214
+SGC,Surgut,Surgut,Russia,61.343694,73.401842
+SVX,Koltsovo,Yekaterinburg,Russia,56.743108,60.802728
+ASB,Ashgabat,Ashkhabad,Turkmenistan,37.986814,58.360967
+DYU,Dushanbe,Dushanbe,Tajikistan,38.543333,68.825000
+BHK,Bukhara,Bukhara,Uzbekistan,39.775000,64.483333
+SKD,Samarkand,Samarkand,Uzbekistan,39.700547,66.983829
+TAS,Yuzhny,Tashkent,Uzbekistan,41.257861,69.281186
+SVO,Sheremetyevo,Moscow,Russia,55.972642,37.414589
+VKO,Vnukovo,Moscow,Russia,55.591531,37.261486
+SCW,Syktyvkar,Syktyvkar,Russia,61.647050,50.845050
+KZN,Kazan,Kazan,Russia,55.606186,49.278728
+REN,Orenburg,Orenburg,Russia,51.795786,55.456744
+UFA,Ufa,Ufa,Russia,54.557511,55.874417
+AMD,Ahmedabad,Ahmedabad,India,23.077242,72.634650
+IXU,Aurangabad,Aurangabad,India,19.862728,75.398114
+BOM,Chhatrapati Shivaji Intl,Mumbai,India,19.088686,72.867919
+BHJ,Bhuj,Bhuj,India,23.287828,69.670147
+IXG,Belgaum,Belgaum,India,15.859286,74.618292
+BDQ,Vadodara,Baroda,India,22.336164,73.226289
+BHO,Bhopal,Bhopal,India,23.287467,77.337375
+BHU,Bhavnagar,Bhaunagar,India,21.752206,72.185181
+GOI,Goa,Goa,India,15.380833,73.831422
+IDR,Devi Ahilyabai Holkar,Indore,India,22.721786,75.801086
+JLR,Jabalpur,Jabalpur,India,23.177817,80.052047
+JGA,Jamnagar,Jamnagar,India,22.465522,70.012556
+HJR,Khajuraho,Khajuraho,India,24.817197,79.918597
+NAG,Dr Ambedkar Intl,Nagpur,India,21.092192,79.047183
+PNQ,Pune,Pune,India,18.582111,73.919697
+PBD,Porbandar,Porbandar,India,21.648675,69.657219
+RAJ,Rajkot,Rajkot,India,22.309183,70.779525
+RPR,Raipur,Raipur,India,21.180406,81.738753
+STV,Surat,Surat,India,21.114061,72.741792
+UDR,Udaipur,Udaipur,India,24.617697,73.896100
+CMB,Bandaranaike Intl Colombo,Colombo,Sri Lanka,7.180756,79.884117
+TRR,China Bay,Trinciomalee,Sri Lanka,8.538514,81.181853
+PNH,Phnom Penh Intl,Phnom-penh,Cambodia,11.546556,104.844139
+REP,Siem Reap,Siem-reap,Cambodia,13.410666,103.812840
+IXA,Agartala,Agartala,India,23.886978,91.240450
+AJL,Aizawl,Aizwal,India,23.746603,92.802767
+IXB,Bagdogra,Baghdogra,India,26.681206,88.328567
+BBI,Bhubaneshwar,Bhubaneswar,India,20.244364,85.817781
+CCU,Netaji Subhash Chandra Bose Intl,Kolkata,India,22.654739,88.446722
+IMF,Imphal,Imphal,India,24.759950,93.896697
+IXS,Silchar,Silchar,India,24.912928,92.978742
+PAT,Patna,Patina,India,25.591317,85.087992
+IXR,Birsa Munda,Ranchi,India,23.314250,85.321675
+VTZ,Vishakhapatnam,Vishakhapatnam,India,17.721167,83.224483
+CXB,Coxs Bazar,Cox's Bazar,Bangladesh,21.452194,91.963889
+CGP,Shah Amanat Intl,Chittagong,Bangladesh,22.249611,91.813286
+JSR,Jessore,Jessore,Bangladesh,23.183800,89.160833
+RJH,Shah Mokhdum,Rajshahi,Bangladesh,24.437219,88.616511
+SPD,Saidpur,Saidpur,Bangladesh,25.759228,88.908869
+ZYL,Osmany Intl,Sylhet Osmani,Bangladesh,24.963242,91.866783
+DAC,Zia Intl,Dhaka,Bangladesh,23.843333,90.397781
+HKG,Hong Kong Intl,Hong Kong,Hong Kong,22.308919,113.914603
+AGR,Agra,Agra,India,27.155831,77.960892
+IXD,Allahabad,Allahabad,India,25.440064,81.733872
+ATQ,Amritsar,Amritsar,India,31.709594,74.797264
+VNS,Varanasi,Varanasi,India,25.452358,82.859342
+KUU,Kullu Manali,Kulu,India,31.876706,77.154367
+IXC,Chandigarh,Chandigarh,India,30.673469,76.788542
+DED,Dehradun,Dehra Dun,India,30.189689,78.180256
+DEL,Indira Gandhi Intl,Delhi,India,28.566500,77.103088
+GWL,Gwalior,Gwalior,India,26.293336,78.227753
+JDH,Jodhpur,Jodhpur,India,26.251092,73.048869
+JAI,Jaipur,Jaipur,India,26.824192,75.812161
+IXJ,Jammu,Jammu,India,32.689142,74.837389
+KNU,Kanpur,Kanpur,India,26.441444,80.364864
+LUH,Ludhiana,Ludhiaha,India,30.854681,75.952592
+IXL,Leh,Leh,India,34.135872,77.546514
+LKO,Lucknow,Lucknow,India,26.760594,80.889339
+SXR,Srinagar,Srinagar,India,33.987139,74.774250
+LPQ,Luang Phabang Intl,Luang Prabang,Laos,19.897914,102.160764
+PKZ,Pakse,Pakse,Laos,15.132053,105.781417
+ZVK,Savannakhet,Savannakhet,Laos,16.556594,104.759531
+VTE,Wattay Intl,Vientiane,Laos,17.988322,102.563256
+MFM,Macau Intl,Macau,Macau,22.149556,113.591558
+KTM,Tribhuvan Intl,Kathmandu,Nepal,27.696583,85.359100
+AGX,Agatti,Agatti Island,India,10.823656,72.176042
+BLR,Bangalore,Bangalore,India,12.949986,77.668206
+VGA,Vijayawada,Vijayawada,India,16.530433,80.796847
+CJB,Coimbatore,Coimbatore,India,11.030031,77.043383
+COK,Cochin,Kochi,India,10.155556,76.391389
+CCJ,Calicut,Calicut,India,11.136839,75.955300
+HYD,Hyderabad,Hyderabad,India,17.453117,78.467586
+IXM,Madurai,Madurai,India,9.834508,78.093378
+IXE,Mangalore,Mangalore,India,12.961267,74.890069
+MAA,Chennai Intl,Madras,India,12.994414,80.180517
+IXZ,Port Blair,Port Blair,India,11.641161,92.729744
+RJA,Rajahmundry,Rajahmundry,India,17.110361,81.818208
+TIR,Tirupati,Tirupeti,India,13.632492,79.543256
+TRZ,Trichy,Tiruchirappalli,India,10.765364,78.709722
+TRV,Thiruvananthapuram Intl,Trivandrum,India,8.482122,76.920114
+PBH,Paro,Thimphu,Bhutan,27.403192,89.424606
+MLE,Male Intl,Male,Maldives,4.191833,73.529128
+DMK,Don Muang Intl,Bangkok,Thailand,13.912583,100.606750
+UTP,U Taphao Intl,Pattaya,Thailand,12.679944,101.005028
+LPT,Lampang,Lampang,Thailand,18.270933,99.504167
+PRH,Phrae,Phrae,Thailand,18.132169,100.164664
+PHS,Phitsanulok,Phitsanulok,Thailand,16.782939,100.279122
+NAW,Narathiwat,Narathiwat,Thailand,6.519922,101.743400
+KBV,Krabi,Krabi,Thailand,8.095969,98.988764
+USM,Samui,Ko Samui,Thailand,9.547794,100.062272
+HKT,Phuket Intl,Phuket,Thailand,8.113200,98.316872
+HDY,Hat Yai Intl,Hat Yai,Thailand,6.933206,100.392975
+TST,Trang,Trang,Thailand,7.508744,99.616578
+UTH,Udon Thani,Udon Thani,Thailand,17.386436,102.788247
+SNO,Sakon Nakhon,Sakon Nakhon,Thailand,17.195142,104.118625
+LOE,Loei,Loei,Thailand,17.439133,101.722064
+DAD,Danang Intl,Danang,Vietnam,16.043917,108.199370
+HAN,Noibai Intl,Hanoi,Vietnam,21.221192,105.807178
+SGN,Tansonnhat Intl,Ho Chi Minh City,Vietnam,10.818797,106.651856
+HEH,Heho,Heho,Burma,20.747036,96.792044
+KET,Kengtung,Kengtung,Burma,21.301611,99.635997
+KYP,Kyaukpyu,Kyaukpyu,Burma,19.426447,93.534836
+MDL,Mandalay Intl,Mandalay,Burma,21.702156,95.977928
+MYT,Myitkyina,Myitkyina,Burma,25.383636,97.351919
+PBU,Putao,Putao,Burma,27.329922,97.426269
+AKY,Sittwe,Sittwe,Burma,20.132708,92.872628
+THL,Tachileik,Tachilek,Burma,20.483831,99.935353
+RGN,Yangon Intl,Yangon,Burma,16.907305,96.133222
+UPG,Hasanuddin,Ujung Pandang,Indonesia,-5.061631,119.554042
+BIK,Frans Kaisiepo,Biak,Indonesia,-1.190017,136.107997
+NBX,Nabire,Nabire,Indonesia,-3.368183,135.496406
+TIM,Moses Kilangin,Timika,Indonesia,-4.528275,136.887375
+DJJ,Sentani,Jayapura,Indonesia,-2.576953,140.516372
+MKQ,Mopah,Merauke,Indonesia,-8.520294,140.418453
+GTO,Jalaluddin,Gorontalo,Indonesia,0.637119,122.849858
+PLW,Mutiara,Palu,Indonesia,-0.918542,119.909642
+MDC,Sam Ratulangi,Manado,Indonesia,1.549447,124.925878
+PSJ,Kasiguncu,Poso,Indonesia,-1.416753,120.657669
+TTE,Sultan Babullah,Ternate,Indonesia,0.831414,127.381486
+LUW,Bubung,Luwuk,Indonesia,-1.038919,122.771906
+AMQ,Pattimura,Ambon,Indonesia,-3.710264,128.089136
+FKQ,Fak Fak,Fak Fak,Indonesia,-2.920192,132.267031
+KNG,Kaimana,Kaimana,Indonesia,-3.644517,133.695553
+BXB,Babo,Babo,Indonesia,-2.532242,133.438894
+MKW,Rendani,Manokwari,Indonesia,-0.891833,134.049183
+SOQ,Jefman,Sorong,Indonesia,-0.926358,131.121194
+BTU,Bintulu,Bintulu,Malaysia,3.123850,113.020472
+KCH,Kuching Intl,Kuching,Malaysia,1.484697,110.346933
+LMN,Limbang,Limbang,Malaysia,4.808303,115.010439
+MUR,Marudi,Marudi,Malaysia,4.177500,114.321944
+MYY,Miri,Miri,Malaysia,4.322014,113.986806
+SBW,Sibu,Sibu,Malaysia,2.261603,111.985322
+LDU,Lahad Datu,Lahad Datu,Malaysia,5.032247,118.324036
+BKI,Kota Kinabalu Intl,Kota Kinabalu,Malaysia,5.937208,116.051181
+LBU,Labuan,Labuan,Malaysia,5.300683,115.250181
+TWU,Tawau,Tawau,Malaysia,4.313369,118.121953
+BWN,Brunei Intl,Bandar Seri Begawan,Brunei,4.944200,114.928353
+PKU,Sultan Syarif Kasim Ii,Pekanbaru,Indonesia,0.460786,101.444539
+CGK,Soekarno Hatta Intl,Jakarta,Indonesia,-6.125567,106.655897
+PDG,Minangkabau,Padang,Indonesia,-0.874989,100.351881
+PNK,Supadio,Pontianak,Indonesia,-0.150711,109.403892
+DJB,Sultan Thaha,Jambi,Indonesia,-1.638017,103.644378
+BKS,Fatmawati Soekarno,Bengkulu,Indonesia,-3.863700,102.339036
+PLM,Sultan Mahmud Badaruddin Ii,Palembang,Indonesia,-2.898250,104.699903
+BTJ,Sultan Iskandarmuda,Banda Aceh,Indonesia,5.523522,95.420372
+AOR,Sultan Abdul Halim,Alor Setar,Malaysia,6.189667,100.398183
+KBR,Sultan Ismail Petra,Kota Bahru,Malaysia,6.166850,102.293014
+KUA,Kuantan,Kuantan,Malaysia,3.775389,103.209056
+KTE,Kerteh,Kerteh,Malaysia,4.537222,103.426756
+IPH,Sultan Azlan Shah,Ipoh,Malaysia,4.567972,101.092194
+JHB,Sultan Ismail,Johor Bahru,Malaysia,1.641308,103.669619
+KUL,Kuala Lumpur Intl,Kuala Lumpur,Malaysia,2.745578,101.709917
+LGK,Langkawi Intl,Pulau,Malaysia,6.329728,99.728667
+TGG,Sultan Mahmud,Kuala Terengganu,Malaysia,5.382639,103.103360
+PEN,Penang Intl,Penang,Malaysia,5.297139,100.276864
+DIL,Presidente Nicolau Lobato Intl,Dili,East Timor,-8.546553,125.524719
+SIN,Changi Intl,Singapore,Singapore,1.350189,103.994433
+ABM,Bamaga Injinoo,Amberley,Australia,-10.950833,142.459444
+ASP,Alice Springs,Alice Springs,Australia,-23.806667,133.902222
+BNE,Brisbane Intl,Brisbane,Australia,-27.384167,153.117500
+OOL,Gold Coast,Coolangatta,Australia,-28.164444,153.504722
+CNS,Cairns Intl,Cairns,Australia,-16.885833,145.755278
+CTL,Charleville,Charlieville,Australia,-26.413334,146.262500
+ISA,Mount Isa,Mount Isa,Australia,-20.663889,139.488611
+MCY,Sunshine Coast,Maroochydore,Australia,-26.603333,153.091111
+MKY,Mackay,Mackay,Australia,-21.171667,149.179722
+PPP,Proserpine Whitsunday Coast,Prosserpine,Australia,-20.495000,148.552222
+ROK,Rockhampton,Rockhampton,Australia,-23.381944,150.475278
+TSV,Townsville,Townsville,Australia,-19.252500,146.765278
+WEI,Weipa,Weipa,Australia,-12.678611,141.925278
+AVV,Avalon,Avalon,Australia,-38.039444,144.469444
+ABX,Albury,Albury,Australia,-36.067778,146.958056
+MEB,Melbourne Essendon,Melbourne,Australia,-37.728056,144.901944
+HBA,Hobart,Hobart,Australia,-42.836111,147.510278
+LST,Launceston,Launceston,Australia,-41.545278,147.214167
+MEL,Melbourne Intl,Melbourne,Australia,-37.673333,144.843333
+ADL,Adelaide Intl,Adelaide,Australia,-34.945000,138.530556
+KTA,Karratha,Karratha,Australia,-20.712222,116.773333
+KGI,Kalgoorlie Boulder,Kalgoorlie,Australia,-30.789444,121.461667
+KNX,Kununurra,Kununurra,Australia,-15.778056,128.707500
+LEA,Learmonth,Learmonth,Australia,-22.235556,114.088611
+PHE,Port Hedland Intl,Port Hedland,Australia,-20.377778,118.626389
+PER,Perth Intl,Perth,Australia,-31.940278,115.966944
+XCH,Christmas Island,Christmas Island,Christmas Island,-10.450556,105.690278
+CBR,Canberra,Canberra,Australia,-35.306944,149.195000
+CFS,Coffs Harbour,Coff's Harbour,Australia,-30.320556,153.116389
+DBO,Dubbo,Dubbo,Australia,-32.216667,148.574722
+NLK,Norfolk Island Intl,Norfolk Island,Norfolk Island,-29.041625,167.938742
+RCM,Richmond,Richmond,Australia,-33.600556,150.780833
+SYD,Sydney Intl,Sydney,Australia,-33.946111,151.177222
+TMW,Tamworth,Tamworth,Australia,-31.083889,150.846667
+WGA,Wagga Wagga,Wagga Wagga,Australia,-35.165278,147.466389
+PEK,Capital Intl,Beijing,China,40.080111,116.584556
+HLD,Dongshan,Hailar,China,49.204997,119.825000
+TSN,Binhai,Tianjin,China,39.124353,117.346183
+TYN,Wusu,Taiyuan,China,37.746897,112.628428
+CAN,Baiyun Intl,Guangzhou,China,23.392436,113.298786
+CSX,Huanghua,Changcha,China,28.189158,113.219633
+KWL,Liangjiang,Guilin,China,25.218106,110.039197
+NNG,Wuxu,Nanning,China,22.608267,108.172442
+SZX,Baoan Intl,Shenzhen,China,22.639258,113.810664
+CGO,Xinzheng,Zhengzhou,China,34.519672,113.840889
+WUH,Tianhe,Wuhan,China,30.783758,114.208100
+FNJ,Pyongyang Intl,Pyongyang,Korea,39.224061,125.670150
+XIY,Xianyang,Xi'an,China,34.447119,108.751592
+ULN,Chinggis Khaan Intl,Ulan Bator,Mongolia,47.843056,106.766639
+KMG,Wujiaba,Kunming,China,24.992364,102.743536
+XMN,Gaoqi,Xiamen,China,24.544036,118.127739
+KHN,Changbei Intl,Nanchang,China,28.865000,115.900000
+FOC,Changle,Fuzhou,China,25.935064,119.663272
+HGH,Xiaoshan,Hangzhou,China,30.229503,120.434453
+NGB,Lishe,Ninbo,China,29.826683,121.461906
+NKG,Lukou,Nanjing,China,31.742042,118.862025
+HFE,Luogang,Hefei,China,31.780019,117.298436
+TAO,Liuting,Qingdao,China,36.266108,120.374436
+SHA,Hongqiao Intl,Shanghai,China,31.197875,121.336319
+YNT,Laishan,Yantai,China,37.401667,121.371667
+CKG,Jiangbei,Chongqing,China,29.719217,106.641678
+KWE,Longdongbao,Guiyang,China,26.538522,106.800703
+CTU,Shuangliu,Chengdu,China,30.578528,103.947086
+XIC,Qingshan,Xichang,China,27.989083,102.184361
+KHG,Kashi,Kashi,China,39.542922,76.019956
+HTN,Hotan,Hotan,China,37.038522,79.864933
+URC,Diwopu,Urumqi,China,43.907106,87.474244
+HRB,Taiping,Harbin,China,45.623403,126.250328
+DLC,Zhoushuizi,Dalian,China,38.965667,121.538600
+PVG,Pudong,Shanghai,China,31.143378,121.805214
+SZB,Subang-Sultan Abdul Aziz Shah Intl,Kuala Lumpur,Malaysia,3.130583,101.549333
+NTQ,Noto,Wajima,Japan,37.293097,136.961853
+HBE,Borg El Arab Intl,Alexandria,Egypt,30.917669,29.696408
+BTI,Barter Island Lrrs,Barter Island,United States,70.133989,-143.581867
+LUR,Cape Lisburne Lrrs,Cape Lisburne,United States,68.875133,-166.110022
+PIZ,Point Lay Lrrs,Point Lay,United States,69.732875,-163.005342
+ITO,Hilo Intl,Hilo,United States,19.721375,-155.048469
+BTT,Bettles,Bettles,United States,66.913944,-151.529056
+FYU,Fort Yukon,Fort Yukon,United States,66.571492,-145.250417
+SNP,St Paul Island,St. Paul Island,United States,57.167333,-170.220444
+ILI,Iliamna,Iliamna,United States,59.754356,-154.910961
+FSM,Fort Smith Rgnl,Fort Smith,United States,35.336583,-94.367444
+GFK,Grand Forks Intl,Grand Forks,United States,47.949256,-97.176111
+HNM,Hana,Hana,United States,20.795636,-156.014439
+PRC,Ernest A Love Fld,Prescott,United States,34.654472,-112.419583
+TTN,Trenton Mercer,Trenton,United States,40.276692,-74.813469
+BOS,General Edward Lawrence Logan Intl,Boston,United States,42.364347,-71.005181
+OAK,Metropolitan Oakland Intl,Oakland,United States,37.721278,-122.220722
+OMA,Eppley Afld,Omaha,United States,41.303167,-95.894069
+OGG,Kahului,Kahului,United States,20.898650,-156.430458
+ICT,Wichita Mid Continent,Wichita,United States,37.649944,-97.433056
+MCI,Kansas City Intl,Kansas City,United States,39.297606,-94.713905
+MSN,Dane Co Rgnl Truax Fld,Madison,United States,43.139858,-89.337514
+DLG,Dillingham,Dillingham,United States,59.044667,-158.505500
+HRO,Boone Co,Harrison,United States,36.261519,-93.154728
+PHX,Phoenix Sky Harbor Intl,Phoenix,United States,33.434278,-112.011583
+BGR,Bangor Intl,Bangor,United States,44.807444,-68.828139
+GGG,East Texas Rgnl,Longview,United States,32.384014,-94.711486
+GEG,Spokane Intl,Spokane,United States,47.619861,-117.533833
+SFO,San Francisco Intl,San Francisco,United States,37.618972,-122.374889
+GNV,Gainesville Rgnl,Gainesville,United States,29.690056,-82.271778
+MEM,Memphis Intl,Memphis,United States,35.042417,-89.976667
+LAX,Los Angeles Intl,Los Angeles,United States,33.942536,-118.408075
+CLE,Cleveland Hopkins Intl,Cleveland,United States,41.411689,-81.849794
+CVG,Cincinnati Northern Kentucky Intl,Cincinnati,United States,39.048836,-84.667822
+HON,Huron Rgnl,Huron,United States,44.385200,-98.228542
+JNU,Juneau Intl,Juneau,United States,58.354972,-134.576278
+LFT,Lafayette Rgnl,Lafayette,United States,30.205278,-91.987611
+EWR,Newark Liberty Intl,Newark,United States,40.692500,-74.168667
+BOI,Boise Air Terminal,Boise,United States,43.564361,-116.222861
+GCK,Garden City Rgnl,Garden City,United States,37.927528,-100.724417
+MOT,Minot Intl,Minot,United States,48.259378,-101.280333
+DAL,Dallas Love Fld,Dallas,United States,32.847111,-96.851778
+HLN,Helena Rgnl,Helena,United States,46.606806,-111.982750
+LCH,Lake Charles Rgnl,Lake Charles,United States,30.126112,-93.223335
+KOA,Kona Intl At Keahole,Kona,United States,19.738767,-156.045631
+MYR,Myrtle Beach Intl,Myrtle Beach,United States,33.679750,-78.928333
+ACK,Nantucket Mem,Nantucket,United States,41.253053,-70.060181
+DCA,Ronald Reagan Washington Natl,Washington,United States,38.852083,-77.037722
+ACY,Atlantic City Intl,Atlantic City,United States,39.457583,-74.577167
+PUB,Pueblo Memorial,Pueblo,United States,38.289085,-104.496572
+PQI,Northern Maine Rgnl At Presque Isle,Presque Isle,United States,46.688958,-68.044797
+ADQ,Kodiak,Kodiak,United States,57.749967,-152.493856
+FLL,Fort Lauderdale Hollywood Intl,Fort Lauderdale,United States,26.072583,-80.152750
+INL,Falls Intl,International Falls,United States,48.566186,-93.403067
+SLC,Salt Lake City Intl,Salt Lake City,United States,40.788389,-111.977772
+MDT,Harrisburg Intl,Harrisburg,United States,40.193494,-76.763403
+LNK,Lincoln,Lincoln,United States,40.850971,-96.759250
+LAN,Capital City,Lansing,United States,42.778700,-84.587357
+MUE,Waimea Kohala,Kamuela,United States,20.001328,-155.668108
+MSS,Massena Intl Richards Fld,Massena,United States,44.935833,-74.845547
+IAH,George Bush Intercontinental,Houston,United States,29.984433,-95.341442
+BFL,Meadows Fld,Bakersfield,United States,35.433598,-119.056770
+ELP,El Paso Intl,El Paso,United States,31.807250,-106.377583
+HRL,Valley Intl,Harlingen,United States,26.228500,-97.654389
+CAE,Columbia Metropolitan,Columbia,United States,33.938833,-81.119528
+PNS,Pensacola Rgnl,Pensacola,United States,30.473425,-87.186611
+HOU,William P Hobby,Houston,United States,29.645419,-95.278889
+PIT,Pittsburgh Intl,Pittsburgh,United States,40.491467,-80.232872
+BRW,Wiley Post Will Rogers Mem,Barrow,United States,71.285446,-156.766003
+MIA,Miami Intl,Miami,United States,25.793250,-80.290556
+SEA,Seattle Tacoma Intl,Seattle,United States,47.449000,-122.309306
+CHA,Lovell Fld,Chattanooga,United States,35.035278,-85.203808
+JAN,Jackson Evers Intl,Jackson,United States,32.311167,-90.075889
+LGB,Long Beach,Long Beach,United States,33.817722,-118.151611
+IPT,Williamsport Rgnl,Williamsport,United States,41.241836,-76.921094
+IND,Indianapolis Intl,Indianapolis,United States,39.717331,-86.294383
+HPN,Westchester Co,White Plains,United States,41.066959,-73.707575
+YUM,Yuma Mcas Yuma Intl,Yuma,United States,32.656578,-114.605980
+CNM,Cavern City Air Terminal,Carlsbad,United States,32.337472,-104.263278
+DLH,Duluth Intl,Duluth,United States,46.842091,-92.193649
+BET,Bethel,Bethel,United States,60.779778,-161.838000
+LIH,Lihue,Lihue,United States,21.975983,-159.338958
+HVR,Havre City Co,Havre,United States,48.542983,-109.762342
+RIC,Richmond Intl,Richmond,United States,37.505167,-77.319667
+SHV,Shreveport Rgnl,Shreveport,United States,32.446629,-93.825600
+CDV,Merle K Mudhole Smith,Cordova,United States,60.491778,-145.477556
+ORF,Norfolk Intl,Norfolk,United States,36.894611,-76.201222
+BPT,Southeast Texas Rgnl,Beaumont,United States,29.950833,-94.020694
+SAV,Savannah Hilton Head Intl,Savannah,United States,32.127583,-81.202139
+OME,Nome,Nome,United States,64.512203,-165.445247
+PIE,St Petersburg Clearwater Intl,St. Petersburg,United States,27.910167,-82.687389
+SCC,Deadhorse,Deadhorse,United States,70.194750,-148.465167
+SAT,San Antonio Intl,San Antonio,United States,29.533694,-98.469778
+ROC,Greater Rochester Intl,Rochester,United States,43.118866,-77.672389
+TEB,Teterboro,Teterboro,United States,40.850103,-74.060837
+RDU,Raleigh Durham Intl,Raleigh-durham,United States,35.877639,-78.787472
+DAY,James M Cox Dayton Intl,Dayton,United States,39.902375,-84.219375
+ENA,Kenai Muni,Kenai,United States,60.573111,-151.245000
+IAG,Niagara Falls Intl,Niagara Falls,United States,43.107333,-78.946194
+PHF,Newport News Williamsburg Intl,Newport News,United States,37.131894,-76.492989
+TUS,Tucson Intl,Tucson,United States,32.116083,-110.941028
+PVD,Theodore Francis Green State,Providence,United States,41.732581,-71.420383
+SBY,Salisbury Ocean City Wicomico Rgnl,Salisbury,United States,38.340525,-75.510289
+BUR,Bob Hope,Burbank,United States,34.200667,-118.358667
+DTW,Detroit Metro Wayne Co,Detroit,United States,42.212444,-83.353389
+TPA,Tampa Intl,Tampa,United States,27.975472,-82.533250
+HIB,Chisholm Hibbing,Hibbing,United States,47.386600,-92.838994
+MAF,Midland Intl,Midland,United States,31.942528,-102.201914
+GRB,Austin Straubel Intl,Green Bay,United States,44.485072,-88.129589
+AGS,Augusta Rgnl At Bush Fld,Bush Field,United States,33.369944,-81.964500
+ISN,Sloulin Fld Intl,Williston,United States,48.177939,-103.642347
+LIT,Adams Fld,Little Rock,United States,34.729444,-92.224306
+SWF,Stewart Intl,Newburgh,United States,41.504094,-74.104839
+HOM,Homer,Homer,United States,59.645556,-151.476583
+TBN,Waynesville Rgnl Arpt At Forney Fld,Fort Leonardwood,United States,37.741631,-92.140736
+DFW,Dallas Fort Worth Intl,Dallas-Fort Worth,United States,32.896828,-97.037997
+MLB,Melbourne Intl,Melbourne,United States,28.102753,-80.645258
+AUS,Austin Bergstrom Intl,Austin,United States,30.194528,-97.669889
+LCK,Rickenbacker Intl,Columbus,United States,39.813786,-82.927822
+TYS,Mc Ghee Tyson,Knoxville,United States,35.810972,-83.994028
+STL,Lambert St Louis Intl,St. Louis,United States,38.748697,-90.370028
+SPS,Sheppard Afb Wichita Falls Muni,Wichita Falls,United States,33.988797,-98.491894
+ATL,Hartsfield Jackson Atlanta Intl,Atlanta,United States,33.636719,-84.428067
+GRR,Gerald R Ford Intl,Grand Rapids,United States,42.880833,-85.522806
+FAT,Fresno Yosemite Intl,Fresno,United States,36.776194,-119.718140
+IPL,Imperial Co,Imperial,United States,32.834219,-115.578744
+BNA,Nashville Intl,Nashville,United States,36.124472,-86.678194
+LRD,Laredo Intl,Laredo,United States,27.543750,-99.461556
+OTZ,Ralph Wien Mem,Kotzebue,United States,66.884678,-162.598550
+AOO,Altoona Blair Co,Altoona,United States,40.296372,-78.320022
+ELD,South Arkansas Rgnl At Goodwin Fld,El Dorado,United States,33.220972,-92.813278
+TLH,Tallahassee Rgnl,Tallahassee,United States,30.396528,-84.350333
+ACT,Waco Rgnl,Waco,United States,31.611289,-97.230519
+AUG,Augusta State,Augusta,United States,44.320647,-69.797317
+MKL,Mc Kellar Sipes Rgnl,Jackson,United States,35.599889,-88.915611
+MKK,Molokai,Molokai,United States,21.152886,-157.096256
+SJT,San Angelo Rgnl Mathis Fld,San Angelo,United States,31.357750,-100.496306
+CIC,Chico Muni,Chico,United States,39.795383,-121.858422
+BTV,Burlington Intl,Burlington,United States,44.471861,-73.153278
+JAX,Jacksonville Intl,Jacksonville,United States,30.494056,-81.687861
+DRO,Durango La Plata Co,Durango,United States,37.151516,-107.753770
+IAD,Washington Dulles Intl,Washington,United States,38.944533,-77.455811
+CLL,Easterwood Fld,College Station,United States,30.588583,-96.363833
+MKE,General Mitchell Intl,Milwaukee,United States,42.947222,-87.896583
+ABI,Abilene Rgnl,Abilene,United States,32.411319,-99.681897
+COU,Columbia Rgnl,Columbia,United States,38.818094,-92.219631
+PDX,Portland Intl,Portland,United States,45.588722,-122.597500
+PBI,Palm Beach Intl,West Palm Beach,United States,26.683161,-80.095589
+OGS,Ogdensburg Intl,Ogdensburg,United States,44.681854,-75.465500
+HNL,Honolulu Intl,Honolulu,United States,21.318681,-157.922428
+DSM,Des Moines Intl,Des Moines,United States,41.533972,-93.663083
+EWN,Craven Co Rgnl,New Bern,United States,35.072972,-77.042944
+SAN,San Diego Intl,San Diego,United States,32.733556,-117.189667
+MLU,Monroe Rgnl,Monroe,United States,32.510864,-92.037689
+ONT,Ontario Intl,Ontario,United States,34.056000,-117.601194
+ROW,Roswell Intl Air Center,Roswell,United States,33.301556,-104.530556
+BRO,Brownsville South Padre Island Intl,Brownsville,United States,25.906833,-97.425861
+DHN,Dothan Rgnl,Dothan,United States,31.321339,-85.449628
+FMN,Four Corners Rgnl,Farmington,United States,36.741250,-108.229944
+CRP,Corpus Christi Intl,Corpus Christi,United States,27.770361,-97.501222
+SYR,Syracuse Hancock Intl,Syracuse,United States,43.111187,-76.106311
+MDW,Chicago Midway Intl,Chicago,United States,41.785972,-87.752417
+SJC,Norman Y Mineta San Jose Intl,San Jose,United States,37.362600,-121.929022
+HOB,Lea Co Rgnl,Hobbs,United States,32.687528,-103.217028
+DEN,Denver Intl,Denver,United States,39.861656,-104.673178
+PHL,Philadelphia Intl,Philadelphia,United States,39.871944,-75.241139
+SUX,Sioux Gateway Col Bud Day Fld,Sioux City,United States,42.402603,-96.384367
+CMH,Port Columbus Intl,Columbus,United States,39.997972,-82.891889
+GAL,Edward G Pitka Sr,Galena,United States,64.736178,-156.937417
+TXK,Texarkana Rgnl Webb Fld,Texarkana,United States,33.453722,-93.991028
+PBG,Plattsburgh Intl,Plattsburgh,United States,44.650944,-73.468139
+ANC,Ted Stevens Anchorage Intl,Anchorage,United States,61.174361,-149.996361
+GRK,Robert Gray Aaf,Killeen,United States,31.067250,-97.828917
+BLI,Bellingham Intl,Bellingham,United States,48.792694,-122.537528
+MOB,Mobile Rgnl,Mobile,United States,30.691231,-88.242814
+SAF,Santa Fe Muni,Santa Fe,United States,35.617108,-106.089422
+BLV,Scott Afb Midamerica,Belleville,United States,38.545178,-89.835183
+RSW,Southwest Florida Intl,Fort Myers,United States,26.536167,-81.755167
+AKN,King Salmon,King Salmon,United States,58.676778,-156.649278
+JHM,Kapalua,Lahania-kapalua,United States,20.962936,-156.673031
+CYS,Cheyenne Rgnl Jerry Olson Fld,Cheyenne,United States,41.155722,-104.811839
+SCK,Stockton Metropolitan,Stockton,United States,37.894167,-121.238306
+CHS,Charleston Afb Intl,Charleston,United States,32.898647,-80.040528
+RNO,Reno Tahoe Intl,Reno,United States,39.499108,-119.768108
+KTN,Ketchikan Intl,Ketchikan,United States,55.355556,-131.713750
+BHM,Birmingham Intl,Birmingham,United States,33.562942,-86.753550
+MOD,Modesto City Co Harry Sham,Modesto,United States,37.625817,-120.954422
+SMF,Sacramento Intl,Sacramento,United States,38.695417,-121.590778
+COS,City Of Colorado Springs Muni,Colorado Springs,United States,38.805805,-104.700778
+BUF,Buffalo Niagara Intl,Buffalo,United States,42.940525,-78.732167
+CDC,Cedar City Rgnl,Cedar City,United States,37.700967,-113.098847
+BDL,Bradley Intl,Windsor Locks,United States,41.938889,-72.683222
+MFE,Mc Allen Miller Intl,Mcallen,United States,26.175833,-98.238611
+LBB,Lubbock Preston Smith Intl,Lubbock,United States,33.663639,-101.822778
+ORD,Chicago Ohare Intl,Chicago,United States,41.978603,-87.904842
+FAI,Fairbanks Intl,Fairbanks,United States,64.815114,-147.856267
+ART,Watertown Intl,Watertown,United States,43.991922,-76.021739
+PSP,Palm Springs Intl,Palm Springs,United States,33.829667,-116.506694
+AMA,Rick Husband Amarillo Intl,Amarillo,United States,35.219369,-101.705931
+FOE,Forbes Fld,Topeka,United States,38.950944,-95.663611
+ILM,Wilmington Intl,Wilmington,United States,34.270615,-77.902569
+BTR,Baton Rouge Metro Ryan Fld,Baton Rouge,United States,30.533167,-91.149639
+TYR,Tyler Pounds Rgnl,Tyler,United States,32.354139,-95.402386
+BWI,Baltimore Washington Intl,Baltimore,United States,39.175361,-76.668333
+LNY,Lanai,Lanai,United States,20.785611,-156.951419
+AEX,Alexandria Intl,Alexandria,United States,31.327400,-92.549833
+CDB,Cold Bay,Cold Bay,United States,55.206061,-162.725436
+TUL,Tulsa Intl,Tulsa,United States,36.198389,-95.888111
+SIT,Sitka Rocky Gutierrez,Sitka,United States,57.047138,-135.361611
+ISP,Long Island Mac Arthur,Islip,United States,40.795250,-73.100222
+MSP,Minneapolis St Paul Intl,Minneapolis,United States,44.881956,-93.221767
+ILG,New Castle,Wilmington,United States,39.678722,-75.606528
+MSY,Louis Armstrong New Orleans Intl,New Orleans,United States,29.993389,-90.258028
+PWM,Portland Intl Jetport,Portland,United States,43.646161,-70.309281
+OKC,Will Rogers World,Oklahoma City,United States,35.393089,-97.600733
+ALB,Albany Intl,Albany,United States,42.748267,-73.801692
+VDZ,Valdez Pioneer Fld,Valdez,United States,61.133949,-146.248342
+SNA,John Wayne Arpt Orange Co,Santa Ana,United States,33.675667,-117.868222
+CPR,Natrona Co Intl,Casper,United States,42.908000,-106.464417
+VPS,Eglin Afb,Valparaiso,United States,30.483250,-86.525400
+EYW,Key West Intl,Key West,United States,24.556111,-81.759556
+CLT,Charlotte Douglas Intl,Charlotte,United States,35.214000,-80.943139
+LAS,Mc Carran Intl,Las Vegas,United States,36.080056,-115.152250
+MCO,Orlando Intl,Orlando,United States,28.429394,-81.308994
+FLO,Florence Rgnl,Florence,United States,34.185361,-79.723889
+GTF,Great Falls Intl,Great Falls,United States,47.482000,-111.370689
+YNG,Youngstown Warren Rgnl,Youngstown,United States,41.260736,-80.679097
+BKK,Suvarnabhumi Intl,Bangkok,Thailand,13.681108,100.747283
+NAH,Naha,Naha,Indonesia,3.683214,125.528019
+KDI,Wolter Monginsidi,Kendari,Indonesia,-4.081608,122.418231
+MLG,Abdul Rachman Saleh,Malang,Indonesia,-7.926556,112.714514
+BDO,Husein Sastranegara,Bandung,Indonesia,-6.900625,107.576294
+JOG,Adi Sutjipto,Yogyakarta,Indonesia,-7.788181,110.431758
+SRG,Achmad Yani,Semarang,Indonesia,-6.971447,110.374122
+BTH,Hang Nadim,Batam,Indonesia,1.121028,104.118753
+TJQ,H As Hanandjoeddin,Tanjung Pandan,Indonesia,-2.745722,107.754917
+PGK,Depati Amir,Pangkal Pinang,Indonesia,-2.162200,106.139064
+TNJ,Kijang,Tanjung Pinang,Indonesia,0.922683,104.532311
+BDJ,Syamsudin Noor,Banjarmasin,Indonesia,-3.442356,114.762553
+PKY,Tjilik Riwut,Palangkaraya,Indonesia,-2.225128,113.942661
+MOF,Wai Oti,Maumere,Indonesia,-8.640647,122.236889
+ENE,H Hasan Aroeboesman,Ende,Indonesia,-8.849294,121.660644
+KOE,El Tari,Kupang,Indonesia,-10.171583,123.671136
+LBJ,Mutiara Ii,Labuhan Bajo,Indonesia,-8.486656,119.889050
+BPN,Sepinggan,Balikpapan,Indonesia,-1.268272,116.894478
+TRK,Juwata,Taraken,Indonesia,3.326694,117.565569
+BMU,Muhammad Salahuddin,Bima,Indonesia,-8.539647,118.687322
+WGP,Mau Hau,Waingapu,Indonesia,-9.669217,120.302006
+SUB,Juanda,Surabaya,Indonesia,-7.379831,112.786858
+SOC,Adi Sumarmo Wiryokusumo,Solo City,Indonesia,-7.516089,110.756892
+ICN,Incheon Intl,Seoul,South Korea,37.469075,126.450517
+CNX,Chiang Mai Intl,Chiang Mai,Thailand,18.766847,98.962644
+CEI,Chiang Rai Intl,Chiang Rai,Thailand,19.952342,99.882928
+NST,Nakhon Si Thammarat,Nakhon Si Thammarat,Thailand,8.539617,99.944725
+KOP,Nakhon Phanom,Nakhon Phanom,Thailand,17.383794,104.643022
+UBP,Ubon Ratchathani,Ubon Ratchathani,Thailand,15.251278,104.870231
+KKC,Khon Kaen,Khon Kaen,Thailand,16.466628,102.783661
+THS,Sukhothai,Sukhothai,Thailand,17.237992,99.818183
+DPS,Bali Ngurah Rai,Denpasar,Indonesia,-8.748169,115.167172
+ATH,Eleftherios Venizelos Intl,Athens,Greece,37.936358,23.944467
+NGO,Chubu Centrair Intl,Nagoya,Japan,34.858414,136.805408
+UKB,Kobe,Kobe,Japan,34.632778,135.223889
+PUW,Pullman-Moscow Rgnl,Pullman,United States,46.743861,-117.109583
+LWS,Lewiston Nez Perce Co,Lewiston,United States,46.374500,-117.015389
+ELM,Elmira Corning Rgnl,Elmira,United States,42.159889,-76.891611
+ITH,Ithaca Tompkins Rgnl,Ithaca,United States,42.491028,-76.458444
+MRY,Monterey Peninsula,Monterey,United States,36.587000,-121.842944
+SBA,Santa Barbara Muni,Santa Barbara,United States,34.426211,-119.840372
+DAB,Daytona Beach Intl,Daytona Beach,United States,29.179917,-81.058056
+RIX,Riga Intl,Riga,Latvia,56.923611,23.971111
+KUN,Kaunas Intl,Kaunas,Lithuania,54.963919,24.084778
+PLQ,Palanga Intl,Palanga,Lithuania,55.973228,21.093856
+VNO,Vilnius Intl,Vilnius,Lithuania,54.634133,25.285767
+EVN,Zvartnots,Yerevan,Armenia,40.147275,44.395881
+LWN,Gyumri,Gyumri,Armenia,40.750369,43.859342
+ASM,Asmara Intl,Asmara,Eritrea,15.291853,38.910667
+MSW,Massawa Intl,Massawa,Eritrea,15.669989,39.370103
+BUS,Batumi,Batumi,Georgia,41.610278,41.599694
+KUT,Kopitnari,Kutaisi,Georgia,42.176653,42.482583
+TBS,Tbilisi,Tbilisi,Georgia,41.669167,44.954722
+RIY,Riyan,Mukalla,Yemen,14.662639,49.375028
+TAI,Taiz Intl,Taiz,Yemen,13.685964,44.139056
+HOD,Hodeidah Intl,Hodeidah,Yemen,14.753000,42.976336
+ADE,Aden Intl,Aden,Yemen,12.829542,45.028792
+AXK,Ataq,Ataq,Yemen,14.551322,46.826183
+AAY,Al Ghaidah Intl,Al Ghaidah Intl,Yemen,16.191667,52.175000
+SAH,Sanaa Intl,Sanaa,Yemen,15.476258,44.219739
+SCT,Socotra Intl,Socotra,Yemen,12.630672,53.905778
+FMM,Allgau,Memmingen,Germany,47.988758,10.239500
+NAV,Kapadokya,Nevsehir,Turkey,38.771867,34.534550
+EZE,Ministro Pistarini,Buenos Aires,Argentina,-34.822222,-58.535833
+EBL,Erbil Intl,Erbil,Iraq,36.237611,43.963158
+EMD,Emerald,Emerald,Australia,-23.567500,148.179167
+KIX,Kansai,Osaka,Japan,34.434722,135.244167
+TAG,Tagbilaran,Tagbilaran,Philippines,9.664081,123.853247
+JAV,Ilulissat,Ilulissat,Greenland,69.234440,-51.051110
+JEG,Aasiaat,Aasiaat,Greenland,68.700000,-52.750000
+PMI,Son Sant Joan,Palma de Mallorca,Spain,39.553610,2.727778
+DRW,Darwin Intl,Darwin,Australia,-12.408333,130.872660
+URT,Surat Thani,Surat Thani,Thailand,9.132500,99.135556
+NYU,Bagan Intl,Nyuang U,Burma,21.173833,94.924667
+MPH,Godofredo P,Caticlan,Philippines,11.921500,121.953000
+HVN,Tweed-New Haven Airport,New Haven,United States,41.263750,-72.886806
+AVL,Asheville Regional Airport,Asheville,United States,35.436194,-82.541806
+GSO,Piedmont Triad,Greensboro,United States,36.097750,-79.937306
+FSD,Sioux Falls,Sioux Falls,United States,43.582014,-96.741914
+AYQ,Ayers Rock,Uluru,Australia,-25.186111,130.975556
+MHT,Manchester Regional Airport,Manchester NH,United States,42.932556,-71.435667
+RDN,Redang,Redang,Malaysia,5.765280,103.007000
+SDF,Louisville International Airport,Louisville,United States,38.174086,-85.736499
+CHO,Charlottesville-Albemarle,Charlottesville VA,United States,38.138639,-78.452861
+ROA,Roanoke Regional,Roanoke VA,United States,37.325472,-79.975417
+LEX,Blue Grass,Lexington KY,United States,38.036500,-84.605889
+EVV,Evansville Regional,Evansville,United States,38.036997,-87.532364
+ABQ,Albuquerque International Sunport,Albuquerque,United States,35.040222,-106.609194
+BZN,Gallatin Field,Bozeman,United States,45.777643,-111.160151
+BIL,Billings Logan International Airport,Billings,United States,45.809210,-108.537654
+BTM,Bert Mooney Airport,Butte,United States,45.954806,-112.497472
+TVC,Cherry Capital Airport,Traverse City,United States,44.741445,-85.582235
+BHB,Hancock County - Bar Harbor,Bar Harbor,United States,44.449769,-68.361565
+RKD,Knox County Regional Airport,Rockland,United States,44.060111,-69.099230
+JAC,Jackson Hole Airport,Jacksn Hole,United States,43.607333,-110.737750
+RFD,Chicago Rockford International Airport,Rockford,United States,42.195361,-89.097222
+DME,Domododevo,Moscow,Russia,55.408611,37.906111
+SYX,Phoenix International,Sanya,China,18.302897,109.412272
+LJG,Lijiang Airport,Lijiang,China,26.883333,100.233330
+GSP,Greenville-Spartanburg International,Greenville,United States,34.895556,-82.218889
+BMI,Central Illinois Rgnl,Bloomington,United States,40.477111,-88.915917
+GPT,Gulfport-Biloxi,Gulfport,United States,30.407278,-89.070111
+AZO,Kalamazoo,Kalamazoo,United States,42.234875,-85.552058
+TOL,Toledo,Toledo,United States,41.586806,-83.807833
+FWA,Fort Wayne,Fort Wayne,United States,40.978472,-85.195139
+CID,Cedar Rapids,Cedar Rapids,United States,41.884694,-91.710806
+LSE,La Crosse Municipal,La Crosse,United States,43.878986,-91.256711
+CWA,Central Wisconsin,Wassau,United States,44.772726,-89.646635
+PIA,Peoria Regional,Peoria,United States,40.664203,-89.693258
+ATW,Appleton,Appleton,United States,44.257526,-88.507576
+RST,Rochester,Rochester,United States,43.908283,-92.500014
+CMI,Champaign,Champaign,United States,40.039250,-88.278056
+MHK,Manhattan Reigonal,Manhattan,United States,39.140972,-96.670833
+KGC,Kingscote Airport,Kingscote,Australia,-35.713889,137.521389
+HVB,Hervey Bay Airport,Hervey Bay,Australia,-25.318889,152.880278
+BSL,EuroAirport Basel-Mulhouse-Freiburg,Basel,Switzerland,47.590000,7.529167
+DLU,Dali,Dali,China,25.649444,100.319444
+JHG,Jinghong,Jinghong,China,21.973914,100.759611
+MZV,Mulu,Mulu,Malaysia,4.048333,114.805000
+SSH,Sharm El Sheikh Intl,Sharm El Sheikh,Egypt,27.977222,34.394722
+FKL,Franklin,Franklin,United States,41.377874,-79.860362
+NBO,Jomo Kenyatta International,Nairobi,Kenya,-1.319167,36.927500
+FTE,El Calafate,El Calafate,Argentina,-50.280322,-72.053103
+ARM,Armidale,Armidale,Australia,-30.528056,151.617222
+GJT,Grand Junction Regional,Grand Junction,United States,39.122413,-108.526735
+SGU,St George Muni,Saint George,United States,37.090583,-113.593056
+SRQ,Sarasota Bradenton Intl,Sarasota,United States,27.395444,-82.554389
+BDA,Bermuda Intl,Bermuda,Bermuda,32.364042,-64.678703
+MLI,Quad City Intl,Moline,United States,41.448528,-90.507539
+HIR,Honiara International,Honiara,Solomon Islands,-9.428000,160.054789
+PPT,Faa\'a International,Papeete,French Polynesia,-17.556667,-149.611389
+INU,Nauru Intl,Nauru,Nauru,-0.547458,166.919100
+FUN,Funafuti International,Funafuti,Tuvalu,-8.525000,179.196389
+OVB,Tolmachevo,Novosibirsk,Russia,55.012622,82.650656
+XKH,Xieng Khouang,Phon Savan,Laos,19.449997,103.158333
+HUI,Phu Bai,Hue,Vietnam,16.401499,107.702614
+BIS,Bismarck Municipal Airport,Bismarck,United States,46.775842,-100.757931
+INC,Yinchuan,Yinchuan,China,38.481944,106.009167
+RAP,Rapid City Regional Airport,Rapid City,United States,44.045278,-103.057222
+CLD,McClellan-Palomar Airport,Carlsbad,United States,33.074200,-117.164800
+FNT,Bishop International,Flint,United States,42.965424,-83.743629
+DVO,Francisco Bangoy International,Davao,Philippines,7.125522,125.645778
+FNC,Madeira,Funchal,Portugal,32.697889,-16.774453
+STM,Santarem,Santarem,Brazil,-2.422431,-54.792789
+NPE,Napier,NAPIER,New Zealand,-39.465833,176.870000
+LXA,Lhasa-Gonggar,Lhasa,China,29.297778,90.911944
+RDD,Redding Muni,Redding,United States,40.509000,-122.293389
+EUG,Mahlon Sweet Fld,Eugene,United States,44.124583,-123.211972
+IDA,Idaho Falls Rgnl,Idaho Falls,United States,43.514556,-112.070750
+MFR,Rogue Valley Intl Medford,Medford,United States,42.374228,-122.873500
+RDM,Roberts Fld,Redmond-Bend,United States,44.254066,-121.149964
+WDH,Windhoek Hosea Kutako International Airport,Windhoek,Namibia,-22.486667,17.462500
+YWH,Victoria Inner Harbour Airport,Victoria,Canada,48.422778,-123.387500
+CXH,Vancouver Coal Harbour,Vancouver,Canada,49.289722,-123.115833
+TNA,Jinan,Jinan,China,36.857214,117.215992
+CZX,Changzhou,Changzhou,China,31.941667,119.711667
+YBP,Yibin,Yibin,China,28.800278,104.544444
+TJM,Roschino,Tyumen,Russia,57.189567,65.324300
+CAK,Akron Canton Regional Airport,Akron,United States,40.916083,-81.442194
+HSV,Huntsville International Airport-Carl T Jones Field,Huntsville,United States,34.637194,-86.775056
+PKB,Mid-Ohio Valley Regional Airport,PARKERSBURG,United States,39.345104,-81.439203
+MGM,Montgomery Regional Airport,MONTGOMERY,United States,32.300639,-86.393972
+TRI,Tri-Cities Regional Airport,BRISTOL,United States,36.475222,-82.407417
+PAH,Barkley Regional Airport,PADUCAH,United States,37.060288,-88.772958
+KUF,Kurumoch,Samara,Russia,53.500000,50.150000
+JIB,Ambouli International Airport,Djibouti,Djibouti,11.547200,43.159400
+HAK,Meilan,Haikou,China,19.934856,110.458961
+PGA,Page Municipal Airport,Page,United States,36.926100,-111.448300
+SNV,Santa Elena Airport,Santa Elena de Uairen,Venezuela,4.554722,-61.144922
+FCA,Glacier Park Intl,Kalispell,United States,48.310472,-114.256000
+MBS,Mbs Intl,Saginaw,United States,43.532913,-84.079647
+BGM,Greater Binghamton Edwin A Link Fld,Binghamton,United States,42.208689,-75.979839
+BGW,Baghdad International Airport,Baghdad,Iraq,33.262539,44.234578
+NNT,Nan,Nan,Thailand,18.807914,100.783419
+ROI,Roi Et,Roi Et,Thailand,16.116761,103.773797
+BFV,Buri Ram,Buri Ram,Thailand,15.229539,103.253231
+UNN,Ranong,Ranong,Thailand,9.777622,98.585483
+TDX,Trat,Trat,Thailand,12.274572,102.318958
+CRK,Diosdado Macapagal International,Angeles City,Philippines,15.185833,120.560278
+SDK,Sandakan,Sandakan,Malaysia,5.900897,118.059486
+LXG,Luang Namtha,Luang Namtha,Laos,20.960556,101.402500
+ODY,Oudomxay,Muang Xay,Laos,20.682700,101.994000
+SHE,Shenyang Taoxian International Airport,Shenyang,China,41.382400,123.290100
+DOY,Dongying Airport,Dongying,China,37.271600,118.281900
+PSG,Petersburg James A. Johnson,Petersburg,United States,56.801667,-132.945278
+LYA,Luoyang Airport,Luoyang,China,34.410000,112.280000
+XUZ,Xuzhou Guanyin Airport,Xuzhou,China,34.160000,117.110000
+IFN,Esfahan Shahid Beheshti Intl,Isfahan,Iran,32.750836,51.861267
+DLI,Dalat,Dalat,Vietnam,11.750000,108.367000
+VDH,Dong Hoi,Dong Hoi,Vietnam,17.515000,106.590556
+VKG,Rach Gia,Rach Gia,Vietnam,9.949676,105.133659
+CAH,Ca Mau,Ca Mau,Vietnam,9.188049,105.174721
+VCL,Chu Lai,Chu Lai,Vietnam,15.405944,108.705889
+TBB,Dong Tac,Tuy Hoa,Vietnam,13.049550,109.333706
+BWK,Brac,Brac,Croatia,43.285719,16.679719
+NSI,Yaounde Nsimalen,Yaounde,Cameroon,3.722556,11.553269
+CKY,Conakry,Conakry,Guinea,9.576889,-13.611961
+FKB,Baden Airpark,Karlsruhe/Baden-Baden,Germany,48.779300,8.080480
+SFB,Orlando Sanford Intl,Sanford,United States,28.777639,-81.237489
+PQC,Duong Dong Airport,Phu Quoc,Vietnam,10.227025,103.967169
+JST,John Murtha Johnstown-Cambria County Airport,Johnstown,United States,40.316111,-78.833889
+MWX,Muan,Muan,South Korea,34.991389,126.382778
+JTY,Astypalaia,Astypalaia,Greece,36.579886,26.375822
+JIK,Ikaria,Ikaria,Greece,37.682717,26.347061
+JKL,Kalymnos Island,Kalymnos,Greece,36.963333,26.940556
+MLO,Milos,Milos,Greece,36.696111,24.477500
+JNX,Naxos,Cyclades Islands,Greece,37.080556,25.368056
+PAS,Paros,Paros,Greece,37.010278,25.127778
+KZS,Kastelorizo,Kastelorizo,Greece,36.127777,29.566656
+RMF,Marsa Alam Intl,Marsa Alam,Egypt,25.557111,34.583711
+NRN,Niederrhein,Weeze,Germany,51.602222,6.141944
+USU,Busuanga,Busuanga,Philippines,12.121458,120.100031
+BXU,Butuan,Butuan,Philippines,8.951322,125.477972
+DPL,Dipolog,Dipolog,Philippines,8.601261,123.334481
+LAO,Laoag Intl,Laoag,Philippines,18.178092,120.531522
+LGP,Legazpi,Legazpi,Philippines,13.157064,123.746247
+OZC,Ozamis,Ozamis,Philippines,8.178508,123.841731
+CEB,Mactan Cebu Intl,Cebu,Philippines,10.307542,123.979439
+BPS,Aeroporto de Porto Seguro,Porto Seguro,Brazil,-16.438611,-39.080833
+PMW,Palmas,Palmas,Brazil,-10.241667,-48.352780
+CLV,Caldas Novas,Caldas Novas,Brazil,-17.726700,-48.611400
+MSO,Missoula Intl,Missoula,United States,46.916306,-114.090556
+BKQ,Blackall,Blackall,Australia,-24.427778,145.428611
+BDB,Bundaberg,Bundaberg,Australia,-24.903889,152.318611
+YWJ,Deline,Deline,Canada,65.183333,-125.416667
+ZFN,Tulita,Tulita,Canada,64.083333,-125.583333
+YGH,Fort Good Hope,Fort Good Hope,Canada,66.266667,-128.650000
+TAH,Tanna island,Tanna,Vanuatu,-19.455198,169.223940
+SRZ,Santa Cruz,Santa Cruz,Bolivia,-17.800000,-63.166667
+KUS,Kulusuk,Kulusuk,Greenland,65.566667,-37.116667
+EGE,Eagle Co Rgnl,Vail,United States,39.642556,-106.917694
+SKN,Skagen,Stokmarknes,Norway,68.580833,15.026111
+CSG,Columbus Metropolitan Airport,Columbus,United States,32.516333,-84.938861
+LAW,Lawton-Fort Sill Regional Airport,Lawton,United States,34.567714,-98.416637
+FLG,Flagstaff Pulliam Airport,Flagstaff,United States,35.140318,-111.669239
+TWF,Magic Valley Regional Airport,Twin Falls,United States,42.481803,-114.487733
+MCM,Monaco,Monaco,Monaco,43.733333,7.416667
+MVY,Martha\'s Vineyard,Vineyard Haven MA,United States,41.391667,-70.615278
+STC,Saint Cloud Regional Airport,Saint Cloud,United States,45.546556,-94.059889
+GTR,Golden Triangle Regional Airport,Columbus Mississippi,United States,33.450333,-88.591361
+GOJ,Nizhny Novgorod,Nizhniy Novgorod,Russia,56.230119,43.784042
+ERI,Erie Intl Tom Ridge Fld,Erie,United States,42.082022,-80.176217
+HYA,Barnstable Muni Boardman Polando Fld,Barnstable,United States,41.669336,-70.280356
+SPR,San Pedro,San Pedro,Belize,17.913936,-87.971075
+MGW,Morgantown Muni Walter L Bill Hart Fld,Morgantown,United States,39.642908,-79.916314
+CRW,Yeager,Charleston,United States,38.373147,-81.593189
+AVP,Wilkes Barre Scranton Intl,Scranton,United States,41.338478,-75.723403
+BJI,Bemidji Regional Airport,Bemidji,United States,47.510722,-94.934722
+BNK,Ballina Byron Gateway,Ballina Byron Bay,Australia,-28.833889,153.562500
+FAR,Hector International Airport,Fargo,United States,46.920650,-96.815764
+GCC,Gillette-Campbell County Airport,Gillette,United States,44.348917,-105.539361
+TOF,Tomsk Bogashevo Airport,Tomsk,Russia,56.380278,85.208333
+CJM,Chumphon,Chumphon,Thailand,10.711200,99.361706
+JZH,Jiuzhaigou Huanglong,Jiuzhaigou,China,32.857000,103.683000
+SWA,Wai Sha Airport,Shantou,China,23.400000,116.683000
+GEO,Cheddi Jagan Intl,Georgetown,Guyana,6.498553,-58.254119
+AGT,Ciudad del Este,Ciudad del Este,Paraguay,-25.455500,-54.843592
+OGL,Ogle,Georgetown,Guyana,6.806944,-58.104444
+DNH,Dunhuang Airport,Dunhuang,China,40.094000,94.481800
+AOI,Falconara,Ancona,Italy,43.616389,13.362222
+CPO,Copiapo,Copiapo,Chile,-27.000000,-70.000000
+LYB,Edward Bodden Airfield,Little Cayman,Cayman Islands,19.659167,-80.090833
+BJV,Bodrum - Milas,Bodrum,Turkey,37.249000,27.667000
+SAW,Sabiha Gokcen,Istanbul,Turkey,40.898553,29.309219
+SCE,University Park Airport,State College Pennsylvania,United States,40.849278,-77.848694
+BME,Broome,Broome,Australia,-17.800000,122.200000
+NTL,Newcastle Airport,Newcastle,Australia,-32.780000,151.830000
+KLU,Woerthersee International Airport,Klagenfurt,Austria,46.642514,14.337739
+HFT,Hammerfest Airport,Hammerfest,Norway,70.679722,23.668889
+HVG,Valan,Honningsvag,Norway,70.990000,25.830000
+MEH,Mehamn,Mehamn,Norway,71.029722,27.826667
+VDS,Airport,Vadso,Norway,70.065000,29.844000
+IKA,Imam Khomeini,Tehran,Iran,35.416111,51.152222
+MHD,Mashhad,Mashhad,Iran,36.234000,59.643000
+MDG,Mudanjiang,Mudanjiang,China,44.523889,129.568889
+SPI,Abraham Lincoln Capital,Springfield,United States,39.844100,-89.677889
+CEZ,Cortez Muni,Cortez,United States,37.303000,-108.628056
+HDN,Yampa Valley,Hayden,United States,40.481181,-107.217660
+LBL,Liberal Muni,Liberal,United States,37.044222,-100.959860
+COD,Yellowstone Rgnl,Cody,United States,44.520194,-109.023806
+HOV,Hovden,Orsta-Volda,Norway,62.180000,6.074200
+SGF,Springfield Branson Natl,Springfield,United States,37.245667,-93.388639
+NVK,Framnes,Narvik,Norway,68.435833,17.388056
+BVG,Berlevag,Berlevag,Norway,70.866667,29.000000
+NSK,Alykel,Norilsk,Russia,69.311053,87.332183
+AAQ,Vityazevo,Anapa,Russia,45.002097,37.347272
+JLN,Joplin Rgnl,Joplin,United States,37.151814,-94.498269
+ABE,Lehigh Valley Intl,Allentown,United States,40.652083,-75.440806
+XNA,NW Arkansas Regional,Bentonville,United States,36.281869,-94.306811
+GUW,Atyrau,Atyrau,Kazakhstan,47.121944,51.821389
+KZO,Kzyl-Orda,Kzyl-Orda,Kazakhstan,44.709000,65.591000
+SBN,South Bend Rgnl,South Bend,United States,41.708661,-86.317250
+ARH,Talagi,Arkhangelsk,Russia,64.360281,40.430167
+RTW,Central,Saratov,Russia,51.334366,46.022952
+NUX,Novyi Urengoy,Novy Urengoy,Russia,66.041811,76.313938
+NOJ,Noyabrsk,Noyabrsk,Russia,63.110079,75.162243
+SCO,Aktau,Aktau,Kazakhstan,43.860050,51.091978
+UCT,Ukhta,Ukhta,Russia,63.340297,53.482592
+USK,Usinsk,Usinsk,Russia,66.000770,57.221113
+NNM,Naryan-Mar,Naryan-Mar,Russia,67.380537,53.051016
+KGP,Kogalym International,Kogalym,Russia,62.180000,74.530000
+KJA,Emelyanovo,Krasnoyarsk,Russia,56.180000,92.475000
+KGF,Sary-Arka,Karaganda,Kazakhstan,49.670833,73.334444
+CGQ,Changchun,Changchun,China,43.541200,125.120100
+KIJ,Niigata,Niigata,Japan,37.571100,139.064600
+ACV,Arcata,Arcata CA,United States,40.978111,-124.108611
+ATT,Camp Mabry Austin City,Austin TX,United States,30.316660,-97.766600
+OAJ,Albert J Ellis,Jacksonville NC,United States,34.829164,-77.612139
+DBQ,Dubuque Rgnl,Dubuque IA,United States,42.402000,-90.709472
+FDE,Forde Bringeland,Forde,Norway,61.392000,5.763000
+ATD,Uru Harbour Airport,Atoifi,Solomon Islands,-8.873330,161.011000
+FRE,Fera/Maringe Airport,Fera Island,Solomon Islands,-8.107500,159.577000
+IRA,Ngorangora Airport,Kirakira,Solomon Islands,-10.449700,161.898000
+SCZ,Santa Cruz/Graciosa Bay/Luova Airport,Santa Cruz/Graciosa Bay/Luova,Solomon Islands,-10.720300,165.795000
+MUA,Munda Airport,Munda,Solomon Islands,-8.327970,157.263000
+GZO,Nusatupe Airport,Gizo,Solomon Islands,-8.097780,156.864000
+RNL,Rennell/Tingoa Airport,Rennell Island,Solomon Islands,-11.533900,160.063000
+RUS,Marau Airport,Marau,Solomon Islands,-9.861670,160.825000
+VAO,Suavanao Airport,Suavanao,Solomon Islands,-7.585560,158.731000
+KGE,Kagau Island Airport,Kagau Island,Solomon Islands,-7.333000,157.583000
+RBV,Ramata Airport,Ramata,Solomon Islands,-8.168060,157.643000
+BUA,Buka Airport,Buka Island,Papua New Guinea,-5.422320,154.673000
+CMU,Chimbu Airport,Kundiawa,Papua New Guinea,-6.024290,144.971000
+DAU,Daru Airport,Daru,Papua New Guinea,-9.086760,143.208000
+GUR,Gurney Airport,Gurney,Papua New Guinea,-10.311500,150.334000
+PNP,Girua Airport,Girua,Papua New Guinea,-8.804540,148.309000
+HKN,Kimbe Airport,Hoskins,Papua New Guinea,-5.462170,150.405000
+UNG,Kiunga Airport,Kiunga,Papua New Guinea,-6.125710,141.282000
+KVG,Kavieng Airport,Kavieng,Papua New Guinea,-2.579400,150.808000
+MDU,Mendi Airport,Mendi,Papua New Guinea,-6.147740,143.657000
+MAS,Momote Airport,Momote,Papua New Guinea,-2.061890,147.424000
+MXH,Moro Airport,Moro,Papua New Guinea,-6.363330,143.238000
+MIS,Misima Island Airport,Misima Island,Papua New Guinea,-10.689200,152.838000
+TIZ,Tari Airport,Tari,Papua New Guinea,-5.845000,142.948000
+TBG,Tabubil Airport,Tabubil,Papua New Guinea,-5.278610,141.226000
+RAB,Tokua Airport,Tokua,Papua New Guinea,-4.340460,152.380000
+VAI,Vanimo Airport,Vanimo,Papua New Guinea,-2.697170,141.302000
+WBM,Wapenamanda Airport,Wapenamanda,Papua New Guinea,-5.643300,143.895000
+LLU,Alluitsup Paa Heliport,Alluitsup Paa,Greenland,60.464400,-45.577800
+CNP,Neerlerit Inaat Airport,Neerlerit Inaat,Greenland,70.743300,-22.660600
+JFR,Paamiut Heliport,Paamiut,Greenland,61.992200,-49.662500
+JJU,Qaqortoq Heliport,Qaqortoq,Greenland,60.715800,-46.029400
+JSU,Maniitsoq Airport,Maniitsoq,Greenland,65.412500,-52.939400
+JNN,Nanortalik Heliport,Nanortalik,Greenland,60.140000,-45.231700
+JNS,Narsaq Heliport,Narsaq,Greenland,60.916700,-46.058600
+NAQ,Qaanaaq Airport,Qaanaaq,Greenland,77.488600,-69.388700
+JHS,Sisimiut Airport,Sisimiut,Greenland,66.951300,-53.729300
+JUV,Upernavik Airport,Upernavik,Greenland,72.790200,-56.130600
+JQA,Qaarsut Airport,Uummannaq,Greenland,70.734200,-52.696200
+CUK,Caye Caulker Airport,Caye Caulker,Belize,17.734700,-88.032500
+PND,Punta Gorda Airport,Punta Gorda,Belize,16.102400,-88.808300
+YAA,Anahim Lake Airport,Anahim Lake,Canada,52.452500,-125.303000
+YRG,Rigolet Airport,Rigolet,Canada,54.179700,-58.457500
+ZTB,Tete-a-la-Baleine Airport,Tete-a-la-Baleine,Canada,50.674400,-59.383600
+ZLT,La Tabatiere Airport,La Tabatiere,Canada,50.830800,-58.975600
+NTG,Nantong Airport,Nantong,China,32.070800,120.976000
+APO,Apartado Airport,Apartado,Colombia,7.033000,-77.200000
+TCD,Tarapaca Airport,Tarapaca,Colombia,-2.867000,-69.733000
+YAG,Fort Frances Municipal Airport,Fort Frances,Canada,48.654200,-93.439700
+YBX,Lourdes De Blanc Sablon Airport,Lourdes-De-Blanc-Sablon,Canada,51.443600,-57.185300
+YCS,Chesterfield Inlet Airport,Chesterfield Inlet,Canada,63.346900,-90.731100
+YDP,Nain Airport,Nain,Canada,56.549200,-61.680300
+YMN,Makkovik Airport,Makkovik,Canada,55.076900,-59.186400
+YGT,Igloolik Airport,Igloolik,Canada,69.364700,-81.816100
+YGX,Gillam Airport,Gillam,Canada,56.357500,-94.710600
+YGZ,Grise Fiord Airport,Grise Fiord,Canada,76.426100,-82.909200
+YHO,Hopedale Airport,Hopedale,Canada,55.448300,-60.228600
+YHR,Chevery Airport,Chevery,Canada,50.468900,-59.636700
+YLC,Kimmirut Airport,Kimmirut,Canada,62.850000,-69.883300
+YPW,Powell River Airport,Powell River,Canada,49.834200,-124.500000
+YQD,The Pas Airport,The Pas,Canada,53.971400,-101.091000
+YRL,Red Lake Airport,Red Lake,Canada,51.066900,-93.793100
+YSK,Sanikiluaq Airport,Sanikiluaq,Canada,56.537800,-79.246700
+YXN,Whale Cove Airport,Whale Cove,Canada,62.240000,-92.598100
+ZBF,Bathurst Airport,Bathurst,Canada,47.629700,-65.738900
+ZMT,Masset Airport,Masset,Canada,54.027500,-132.125000
+BLJ,Batna Airport,Batna,Algeria,35.752106,6.308589
+CBH,Bechar Boudghene Ben Ali Lotfi Airport,Bechar,Algeria,31.645700,-2.269860
+BMW,Bordj Badji Mokhtar Airport,Bordj Badji Mokhtar,Algeria,21.375000,0.923889
+ELU,Guemar Airport,Guemar,Algeria,33.511400,6.776790
+KMS,Kumasi Airport,Kumasi,Ghana,6.714560,-1.590820
+HDF,Heringsdorf Airport,Heringsdorf,Germany,53.878706,14.152347
+DSA,Robin Hood Doncaster Sheffield Airport, Sheffield,United Kingdom,53.474722,-1.004444
+CAL,Campbeltown Airport,Campbeltown,United Kingdom,55.437200,-5.686390
+EOI,Eday Airport,Eday,United Kingdom,59.190600,-2.772220
+NRL,North Ronaldsay Airport,North Ronaldsay,United Kingdom,59.367500,-2.434440
+PPW,Papa Westray Airport,Papa Westray,United Kingdom,59.351700,-2.900280
+SOY,Stronsay Airport,Stronsay,United Kingdom,59.155300,-2.641390
+NDY,Sanday Airport,Sanday,United Kingdom,59.250300,-2.576670
+WRY,Westray Airport,Westray,United Kingdom,59.350300,-2.950000
+BRR,Barra Airport,Barra,United Kingdom,57.022800,-7.443060
+CFN,Donegal Airport,Dongloe,Ireland,55.044192,-8.341000
+LKN,Leknes Airport,Leknes,Norway,68.152500,13.609400
+OSY,Namsos Hoknesora Airport,Namsos,Norway,64.472200,11.578600
+MQN,Rossvoll Airport,Mo i Rana,Norway,66.363900,14.301400
+RVK,Ryum Airport,Rorvik,Norway,64.838300,11.146100
+RET,Rost Airport,Rost,Norway,67.527800,12.103300
+SDN,Anda Airport,Sandane,Norway,61.830000,6.105830
+SOG,Sogndal Airport,Sogndal,Norway,61.156100,7.137780
+SVJ,Svolvaer Helle Airport,Svolvaer,Norway,68.243300,14.669200
+SOJ,Sorkjosen Airport,Sorkjosen,Norway,69.786800,20.959400
+VAW,Svartnes Airport,Vardo,Norway,70.355392,31.044889
+BZG,Bydgoszcz Ignacy Jan Paderewski Airport,Bydgoszcz,Poland,53.096800,17.977700
+OSD,Ostersund Airport,Ostersund,Sweden,63.194400,14.500300
+KSD,Karlstad Airport,Karlstad,Sweden,59.444700,13.337400
+AGH,Angelholm-Helsingborg Airport,Angelholm,Sweden,56.296100,12.847100
+HMV,Hemavan Airport,Hemavan,Sweden,65.806111,15.082778
+SHC,Shire Inda Selassie Airport,Shire Indasilase,Ethiopia,14.078100,38.272500
+MQP,Kruger Mpumalanga International Airport,Mpumalanga,South Africa,-25.383200,31.105600
+CBT,Catumbela Airport,Catumbela,Angola,-12.479200,13.486900
+VPE,Ondjiva Pereira Airport,Ondjiva,Angola,-17.043464,15.683822
+MSZ,Namibe Airport,Mocamedes,Angola,-15.261222,12.146756
+LUD,Luderitz Airport,Luderitz,Namibia,-26.687400,15.242900
+OMD,Oranjemund Airport,Oranjemund,Namibia,-28.584700,16.446700
+TSH,Tshikapa Airport,Tshikapa,Congo (Kinshasa),-6.438330,20.794700
+LJA,Lodja Airport,Lodja,Congo (Kinshasa),-3.417000,23.450000
+GMZ,La Gomera Airport,La Gomera,Spain,28.029600,-17.214600
+OXB,Osvaldo Vieira International Airport,Bissau,Guinea-Bissau,11.894850,-15.653681
+VIL,Dakhla Airport,Dakhla,Western Sahara,23.718300,-15.932000
+ESU,Mogador Airport,Essadouira,Morocco,31.397500,-9.681667
+EUN,Hassan I Airport,El Aaiun,Western Sahara,27.151700,-13.219200
+NDR,El Aroui Airport,El Aroui,Morocco,34.988800,-3.028210
+RAI,Praia International Airport,Praia,Cape Verde,14.924500,-23.493500
+SFL,Sao Filipe Airport,Sao Filipe,Cape Verde,14.885000,-24.480000
+GDE,Gode Airport,Gode,Ethiopia,5.935128,43.578567
+MGQ,Aden Adde International Airport,Mogadishu,Somalia,2.014440,45.304700
+ATZ,Asyut International Airport,Asyut,Egypt,27.046508,31.011983
+ASV,Amboseli Airport,Amboseli National Park,Kenya,-2.645050,37.253100
+LKG,Lokichoggio Airport,Lokichoggio,Kenya,4.204117,34.348186
+MYD,Malindi Airport,Malindi,Kenya,-3.229310,40.101700
+SRX,Gardabya Airport,Sirt,Libya,31.063500,16.595000
+TOB,Gamal Abdel Nasser Airport,Tobruk,Libya,31.861000,23.907000
+LAQ,La Abraq Airport,Al Bayda',Libya,32.788673,21.964333
+UYL,Nyala Airport,Nyala,Sudan,12.053500,24.956200
+PZU,Port Sudan New International Airport,Port Sudan,Sudan,19.433600,37.234100
+BKZ,Bukoba Airport,Bukoba,Tanzania,-1.300000,31.800000
+DIU,Diu Airport,Diu,India,20.713100,70.921100
+GSM,Gheshm Airport,Gheshm,Iran,26.948700,56.268800
+ABR,Aberdeen Regional Airport,Aberdeen,United States,45.449100,-98.421800
+ABY,Southwest Georgia Regional Airport,Albany,United States,31.535500,-84.194500
+AHN,Athens Ben Epps Airport,Athens,United States,33.948600,-83.326300
+ALO,Waterloo Regional Airport,Waterloo,United States,42.557100,-92.400300
+ALW,Walla Walla Regional Airport,Walla Walla,United States,46.094900,-118.288000
+APN,Alpena County Regional Airport,Alpena,United States,45.078100,-83.560300
+ATY,Watertown Regional Airport,Watertown,United States,44.914000,-97.154700
+BFD,Bradford Regional Airport,Bradford,United States,41.803100,-78.640100
+BFF,Western Nebraska Regional Airport,Scottsbluff,United States,41.874000,-103.596000
+BKW,Raleigh County Memorial Airport,Beckley,United States,37.787300,-81.124200
+BQK,Brunswick Golden Isles Airport,Brunswick,United States,31.258800,-81.466500
+CEC,Del Norte County Airport,Crescent City,United States,41.780200,-124.237000
+CGI,Cape Girardeau Regional Airport,Cape Girardeau,United States,37.225300,-89.570800
+CIU,Chippewa County International Airport,Sault Ste Marie,United States,46.250800,-84.472400
+CKB,Harrison Marion Regional Airport,Clarksburg,United States,39.296600,-80.228100
+CMX,Houghton County Memorial Airport,Hancock,United States,47.168400,-88.489100
+DDC,Dodge City Regional Airport,Dodge City,United States,37.763400,-99.965600
+DUJ,DuBois Regional Airport,Du Bois,United States,41.178300,-78.898700
+EAU,Chippewa Valley Regional Airport,Eau Claire,United States,44.865800,-91.484300
+EKO,Elko Regional Airport,Elko,United States,40.824900,-115.792000
+EWB,New Bedford Regional Airport,New Bedford,United States,41.676100,-70.956900
+FAY,Fayetteville Regional Grannis Field,Fayetteville,United States,34.991200,-78.880300
+GGW,Wokal Field Glasgow International Airport,Glasgow,United States,48.212500,-106.615000
+GRI,Central Nebraska Regional Airport,Grand Island,United States,40.967500,-98.309600
+HOT,Memorial Field,Hot Springs,United States,34.478000,-93.096200
+HTS,Tri State Milton J Ferguson Field,Huntington,United States,38.366700,-82.558000
+IRK,Kirksville Regional Airport,Kirksville,United States,40.093500,-92.544900
+LAR,Laramie Regional Airport,Laramie,United States,41.312100,-105.675000
+LBE,Arnold Palmer Regional Airport,Latrobe,United States,40.275900,-79.404800
+LBF,North Platte Regional Airport Lee Bird Field,North Platte,United States,41.126200,-100.684000
+LEB,Lebanon Municipal Airport,Lebanon,United States,43.626100,-72.304200
+LMT,Klamath Falls Airport,Klamath Falls,United States,42.156100,-121.733000
+LNS,Lancaster Airport,Lancaster,United States,40.121700,-76.296100
+LYH,Lynchburg Regional Preston Glenn Field,Lynchburg,United States,37.326700,-79.200400
+MKG,Muskegon County Airport,Muskegon,United States,43.169500,-86.238200
+OTH,Southwest Oregon Regional Airport,North Bend,United States,43.417100,-124.246000
+OWB,Owensboro Daviess County Airport,Owensboro,United States,37.740100,-87.166800
+PIH,Pocatello Regional Airport,Pocatello,United States,42.909800,-112.596000
+PIR,Pierre Regional Airport,Pierre,United States,44.382700,-100.286000
+PLN,Pellston Regional Airport of Emmet County Airport,Pellston,United States,45.570900,-84.796700
+PSM,Pease International Tradeport,Portsmouth,United States,43.077900,-70.823300
+RHI,Rhinelander Oneida County Airport,Rhinelander,United States,45.631200,-89.467500
+RKS,Rock Springs Sweetwater County Airport,Rock Springs,United States,41.594200,-109.065000
+RUT,Rutland State Airport,Rutland,United States,43.529400,-72.949600
+SBP,San Luis County Regional Airport,San Luis Obispo,United States,35.236800,-120.642000
+SHR,Sheridan County Airport,Sheridan,United States,44.769200,-106.980000
+SLK,Adirondack Regional Airport,Saranac Lake,United States,44.385300,-74.206200
+SLN,Salina Municipal Airport,Salina,United States,38.791000,-97.652200
+SMX,Santa Maria Pub Cpt G Allan Hancock Airport,Santa Maria,United States,34.898900,-120.457000
+UIN,Quincy Regional Baldwin Field,Quincy,United States,39.942700,-91.194600
+VCT,Victoria Regional Airport,Victoria,United States,28.852600,-96.918500
+VLD,Valdosta Regional Airport,Valdosta,United States,30.782500,-83.276700
+WRL,Worland Municipal Airport,Worland,United States,43.965700,-107.951000
+YKM,Yakima Air Terminal McAllister Field,Yakima,United States,46.568200,-120.544000
+ECN,Ercan International Airport,Nicosia,Cyprus,35.154700,33.496100
+RJL,Logrono-Agoncillo Airport,Logrono-Agoncillo,Spain,42.454200,-2.320830
+JSY,Syros Airport,Syros Island,Greece,37.422792,24.950936
+CVU,Corvo Airport,Corvo,Portugal,39.671500,-31.113600
+BNX,Banja Luka International Airport,Banja Luka,Bosnia and Herzegovina,44.941444,17.297501
+KSY,Kars Airport,Kars,Turkey,40.562222,43.115002
+KCM,Kahramanmaras Airport,Kahramanmaras,Turkey,37.539000,36.953400
+AJI,Agri Airport,Agri,Turkey,39.654600,43.027100
+ADF,Adiyaman Airport,Adiyaman,Turkey,37.731400,38.468900
+ISE,Isparta Suleyman Demirel Airport,Isparta,Turkey,37.855400,30.368400
+EDO,Balikesir Korfez Airport,Balikesir Korfez,Turkey,39.554600,27.013800
+MRA,Misratah Airport,Misratah,Libya,32.325000,15.061000
+QUB,Ubari Airport,Ubari,Libya,26.567500,12.823100
+GDT,JAGS McCartney International Airport,Cockburn Town,Turks and Caicos Islands,21.444500,-71.142300
+SLX,Salt Cay Airport,Salt Cay,Turks and Caicos Islands,21.333000,-71.200000
+AZS,Samana El Catey International Airport,Samana,Dominican Republic,19.267000,-69.742000
+PEU,Puerto Lempira Airport,Puerto Lempira,Honduras,15.262200,-83.781200
+JAL,Lencero Airport,Jalapa,Mexico,19.475083,-96.797506
+JQE,Jaque Airport,Jaque,Panama,7.517780,-78.157200
+TTQ,Aerotortuguero Airport,Roxana,Costa Rica,10.569000,-83.514800
+TNO,Cabo Velas Airport,Nicoya,Costa Rica,10.355700,-85.852892
+PJM,Puerto Jimenez Airport,Puerto Jimenez,Costa Rica,8.533330,-83.300000
+SYQ,Tobias Bolanos International Airport,San Jose,Costa Rica,9.957053,-84.139797
+CCC,Cayo Coco Airport,Cayo Coco,Cuba,22.513200,-78.511000
+LBP,Long Banga Airport,Long Banga,Malaysia,3.184950,115.454000
+ATC,Arthurs Town Airport,Arthur's Town,Bahamas,24.629417,-75.673775
+CRI,Colonel Hill Airport,Colonel Hill,Bahamas,22.745561,-74.182353
+AIU,Atiu Island Airport,Atiu Island,Cook Islands,-19.967800,-158.119000
+MGS,Mangaia Island Airport,Mangaia Island,Cook Islands,-21.895600,-157.905000
+MUK,Mauke Airport,Mauke Island,Cook Islands,-20.136100,-157.345000
+MOI,Mitiaro Island Airport,Mitiaro Island,Cook Islands,-19.842500,-157.703000
+ICI,Cicia Airport,Cicia,Fiji,-17.743300,-179.342000
+KDV,Vunisea Airport,Vunisea,Fiji,-19.058100,178.157000
+LKB,Lakeba Island Airport,Lakeba Island,Fiji,-18.199200,-178.817000
+LBS,Labasa Airport,Lambasa,Fiji,-16.466749,179.339860
+TVU,Matei Airport,Matei,Fiji,-16.690600,-179.877000
+RTA,Rotuma Airport,Rotuma,Fiji,-12.482500,177.071000
+SVU,Savusavu Airport,Savusavu,Fiji,-16.802800,179.341000
+VBV,Vanua Balavu Airport,Vanua Balavu,Fiji,-17.269000,-178.976000
+IUE,Niue International Airport,Alofi,Niue,-19.080028,-169.925639
+FUT,Pointe Vele Airport,Futuna Island,Wallis and Futuna,-14.311400,-178.066000
+AHE,Ahe Airport,Ahe,French Polynesia,-14.428100,-146.257000
+AUQ,Hiva Oa-Atuona Airport,Hiva-oa,French Polynesia,-9.768794,-139.011256
+UAP,Ua Pou Airport,Ua Pou,French Polynesia,-9.351670,-140.078000
+UAH,Ua Huka Airport,Ua Huka,French Polynesia,-8.936110,-139.552000
+MTV,Mota Lava Airport,Ablow,Vanuatu,-13.666000,167.712000
+SLH,Sola Airport,Sola,Vanuatu,-13.851700,167.537000
+TOH,Torres Airstrip,Loh/Linua,Vanuatu,-13.328000,166.638000
+EAE,Sangafa Airport,Sangafa,Vanuatu,-17.090300,168.343000
+CCV,Craig Cove Airport,Craig Cove,Vanuatu,-16.265000,167.924000
+LOD,Longana Airport,Longana,Vanuatu,-15.306700,167.967000
+SSR,Sara Airport,Pentecost Island,Vanuatu,-15.470800,168.152000
+PBJ,Tavie Airport,Paama Island,Vanuatu,-16.439000,168.257000
+LPM,Lamap Airport,Lamap,Vanuatu,-16.454000,167.823000
+LNB,Lamen Bay Airport,Lamen Bay,Vanuatu,-16.584200,168.159000
+MWF,Naone Airport,Maewo Island,Vanuatu,-15.000000,168.083000
+LNE,Lonorore Airport,Lonorore,Vanuatu,-15.865600,168.172000
+NUS,Norsup Airport,Norsup,Vanuatu,-16.079700,167.401000
+ZGU,Gaua Island Airport,Gaua Island,Vanuatu,-14.218100,167.587000
+SON,Santo Pekoa International Airport,Santo,Vanuatu,-15.505033,167.219742
+TGH,Tongoa Island Airport,Tongoa Island,Vanuatu,-16.891100,168.551000
+ULB,Ulei Airport,Ambryn Island,Vanuatu,-16.333000,168.283000
+VLS,Valesdir Airport,Valesdir,Vanuatu,-16.796100,168.177000
+SWJ,Southwest Bay Airport,Malekula Island,Vanuatu,-16.495000,167.438000
+AUY,Anelghowhat Airport,Anelghowhat,Vanuatu,-20.249200,169.771000
+AWD,Aniwa Airport,Aniwa,Vanuatu,-19.240000,169.605000
+DLY,Dillon's Bay Airport,Dillon's Bay,Vanuatu,-18.769400,169.001000
+FTA,Futuna Airport,Futuna Island,Vanuatu,-19.516400,170.232000
+IPA,Ipota Airport,Ipota,Vanuatu,-18.878300,169.308000
+DWD,Dawadmi Domestic Airport,Dawadmi,Saudi Arabia,24.500000,44.400000
+AJF,Al-Jawf Domestic Airport,Al-Jawf,Saudi Arabia,29.785133,40.100006
+KHD,Khoram Abad Airport,Khorram Abad,Iran,33.435378,48.282889
+BXR,Bam Airport,Bam,Iran,29.084169,58.450042
+BJB,Bojnourd Airport,Bojnourd,Iran,37.492958,57.308219
+AFZ,Sabzevar National Airport,Sabzevar,Iran,36.168083,57.595183
+NSH,Noshahr Airport,Noshahr,Iran,36.663333,51.464722
+SRY,Sari Dasht E Naz Airport,Dasht-e-naz,Iran,36.635833,53.193611
+LRR,Lar Airport,Lar,Iran,27.674725,54.383278
+ADU,Ardabil Airport,Ardabil,Iran,38.325678,48.424356
+OMH,Uromiyeh Airport,Uromiyeh,Iran,37.668100,45.068700
+AAN,Al Ain International Airport,Al Ain,United Arab Emirates,24.261667,55.609167
+BHV,Bahawalpur Airport,Bahawalpur,Pakistan,29.348100,71.717981
+CJL,Chitral Airport,Chitral,Pakistan,35.886592,71.800578
+DBA,Dalbandin Airport,Dalbandin,Pakistan,28.878300,64.399800
+DEA,Dera Ghazi Khan Airport,Dera Ghazi Khan,Pakistan,29.961011,70.485925
+DSK,Dera Ismael Khan Airport,Dera Ismael Khan,Pakistan,31.909422,70.896639
+KDU,Skardu Airport,Skardu,Pakistan,35.335508,75.536047
+TUK,Turbat International Airport,Turbat,Pakistan,25.986369,63.030167
+ISU,Sulaymaniyah International Airport,Sulaymaniyah,Iraq,35.560800,45.314700
+GXF,Sayun International Airport,Sayun Intl,Yemen,15.966111,48.788300
+BFQ,Bahia Pina Airport,Bahia Pina,Panama,7.583000,-78.200000
+OTD,Contadora Airport,Contadora Island,Panama,8.628760,-79.034700
+SAX,Sambu Airport,Boca de Sabalo,Panama,8.017000,-78.200000
+ADK,Adak Airport,Adak Island,United States,51.878000,-176.646000
+GST,Gustavus Airport,Gustavus,United States,58.425300,-135.707000
+SGY,Skagway Airport,Skagway,United States,59.460100,-135.316000
+HCR,Holy Cross Airport,Holy Cross,United States,62.188300,-159.775000
+HNS,Haines Airport,Haines,United States,59.243800,-135.524000
+KLG,Kalskag Airport,Kalskag,United States,61.536300,-160.341000
+MCG,McGrath Airport,Mcgrath,United States,62.952900,-155.606000
+MOU,Mountain Village Airport,Mountain Village,United States,62.095400,-163.682000
+ANI,Aniak Airport,Aniak,United States,61.581600,-159.543000
+VAK,Chevak Airport,Chevak,United States,61.533800,-165.584000
+WRG,Wrangell Airport,Wrangell,United States,56.484300,-132.370000
+LNV,Londolovit Airport,Londolovit,Papua New Guinea,-3.043610,152.629000
+LSA,Losuia Airport,Losuia,Papua New Guinea,-8.505820,151.081000
+TFI,Tufi Airport,Tufi,Papua New Guinea,-9.075950,149.320000
+KUH,Kushiro Airport,Kushiro,Japan,43.041000,144.193000
+HSG,Saga Airport,Saga,Japan,33.149700,130.302000
+IWJ,Iwami Airport,Iwami,Japan,34.676400,131.790000
+FKS,Fukushima Airport,Fukushima,Japan,37.227400,140.431000
+ONJ,Odate Noshiro Airport,Odate Noshiro,Japan,40.191900,140.371000
+SYO,Shonai Airport,Shonai,Japan,38.812222,139.787222
+KUV,Kunsan Air Base,Kunsan,South Korea,35.903756,126.615906
+WJU,Wonju Airport,Wonju,South Korea,37.438081,127.960383
+YNY,Yangyang International Airport,Sokcho / Gangneung,South Korea,38.061311,128.669164
+HIN,Sacheon Air Base,Sacheon,South Korea,35.088543,128.070370
+CJJ,Cheongju International Airport,Chongju,South Korea,36.716600,127.499119
+GES,General Santos International Airport,General Santos City,Philippines,6.106439,125.235300
+CGM,Camiguin Airport,Camiguin,Philippines,9.253520,124.707000
+JOL,Jolo Airport,Jolo,Philippines,6.053670,121.011000
+SUG,Surigao Airport,Sangley Point,Philippines,9.757567,125.479328
+WNP,Naga Airport,Naga,Philippines,13.584886,123.270239
+BSO,Basco Airport,Basco,Philippines,20.451322,121.979883
+TUG,Tuguegarao Airport,Tuguegarao,Philippines,17.638311,121.730614
+VRC,Virac Airport,Virac,Philippines,13.576439,124.205672
+CYP,Calbayog Airport,Calbayog City,Philippines,12.072706,124.545092
+CRM,Catarman National Airport,Catarman,Philippines,12.502417,124.635778
+MBT,Masbate Airport,Masbate,Philippines,12.369400,123.629000
+RXS,Roxas Airport,Roxas City,Philippines,11.597669,122.751669
+JDO,Orlando Bezerra de Menezes Airport,Juazeiro Do Norte,Brazil,-7.218958,-39.270100
+LEC,Chapada Diamantina Airport,Lencois,Brazil,-12.482300,-41.277000
+MEA,Macae Airport,Macae,Brazil,-22.343000,-41.766000
+MII,Marilia Airport,Marilia,Brazil,-22.196892,-49.926400
+VDC,Vitoria da Conquista Airport,Vitoria Da Conquista,Brazil,-14.862761,-40.863106
+RIA,Santa Maria Airport,Santa Maria,Brazil,-29.711358,-53.688153
+SCY,San Cristobal Airport,San Cristobal,Ecuador,-0.910206,-89.617450
+LOH,Camilo Ponce Enriquez Airport,La Toma (Catamayo),Ecuador,-3.995890,-79.371900
+ESM,General Rivadeneira Airport,Esmeraldas,Ecuador,0.978519,-79.626600
+LQM,Caucaya Airport,Puerto Leguizamo,Colombia,-0.180000,-74.770000
+LPD,La Pedrera Airport,La Pedrera,Colombia,-1.330000,-69.580000
+NQU,Reyes Murillo Airport,Nuqui,Colombia,5.700000,-77.280000
+PDA,Obando Airport,Puerto Inirida,Colombia,3.850000,-67.910000
+EYP,El Alcaravan Airport,Yopal,Colombia,5.319114,-72.383975
+GYA,Capitan de Av. Emilio Beltran Airport,Guayaramerin,Bolivia,-10.820600,-65.345600
+RIB,Capitan Av. Selin Zeitun Lopez Airport,Riberalta,Bolivia,-11.000000,-66.000000
+CJA,Mayor General FAP Armando Revoredo Iglesias Airport,Cajamarca,Peru,-7.139183,-78.489400
+HUU,Alferez Fap David Figueroa Fernandini Airport,Huanuco,Peru,-9.878811,-76.204797
+VIG,Juan Pablo Perez Alfonso Airport,El Vigia,Venezuela,8.624100,-71.672819
+JPR,Ji-Parana Airport,Ji-Parana,Brazil,-10.870800,-61.846500
+NEV,Vance Winkworth Amory International Airport,Charlestown,Saint Kitts and Nevis,17.205678,-62.589869
+VIJ,Virgin Gorda Airport,Spanish Town,British Virgin Islands,18.446400,-64.427500
+KOV,Kokshetau Airport,Kokshetau,Kazakhstan,53.329100,69.594600
+PPK,Petropavlosk South Airport,Petropavlosk,Kazakhstan,54.774700,69.183900
+DZN,Zhezkazgan Airport,Zhezkazgan,Kazakhstan,47.708333,67.733333
+UKK,Ust Kamenogorsk Airport,Ust Kamenogorsk,Kazakhstan,50.036600,82.494200
+KSN,Kostanay West Airport,Kostanay,Kazakhstan,53.206944,63.550278
+KVD,Ganja Airport,Ganja,Azerbaijan,40.737700,46.317600
+NAJ,Nakhchivan Airport,Nakhchivan,Azerbaijan,39.188800,45.458400
+PYJ,Poliarny Airport,Yakutia,Russia,66.400431,112.030325
+CKH,Chokurdakh Airport,Chokurdah,Russia,70.623100,147.902000
+CYX,Cherskiy Airport,Cherskiy,Russia,68.740600,161.338000
+IKS,Tiksi Airport,Tiksi,Russia,71.697700,128.903000
+DYR,Ugolny Airport,Anadyr,Russia,64.734950,177.741483
+OZH,Zaporizhzhia International Airport,Zaporozhye,Ukraine,47.867000,35.315700
+HRK,Osnova International Airport,Kharkov,Ukraine,49.924786,36.289986
+IFO,Ivano Frankivsk International Airport,Ivano-Frankivsk,Ukraine,48.884167,24.686111
+UDJ,Uzhhorod International Airport,Uzhgorod,Ukraine,48.634278,22.263356
+CSH,Solovki Airport,Solovetsky Islands,Russia,65.030000,35.733300
+NOZ,Spichenkovo Airport,Novokuznetsk,Russia,53.811400,86.877200
+OGZ,Beslan Airport,Beslan,Russia,43.205100,44.606600
+EAR,Kearney Municipal Airport,Kearney,United States,40.727000,-99.006800
+IGM,Kingman Airport,Kingman,United States,35.259500,-113.938000
+PSC,Tri Cities Airport,Pasco,United States,46.264700,-119.119000
+SVC,Grant County Airport,Silver City,United States,32.636500,-108.156000
+SLY,Salekhard Airport,Salekhard,Russia,66.590753,66.611042
+HMA,Khanty Mansiysk Airport,Khanty-Mansiysk,Russia,61.028479,69.086067
+NYA,Nyagan Airport,Nyagan,Russia,62.110000,65.615000
+OVS,Sovetsky Tyumenskaya Airport,Sovetskiy,Russia,61.320000,63.604400
+NYM,Nadym Airport,Nadym,Russia,65.480900,72.698900
+LBD,Khudzhand Airport,Khudzhand,Tajikistan,40.215400,69.694700
+AZN,Andizhan Airport,Andizhan,Uzbekistan,40.727700,72.294000
+FEG,Fergana Airport,Fergana,Uzbekistan,40.358800,71.745000
+NMA,Namangan Airport,Namangan,Uzbekistan,40.984600,71.556700
+NCU,Nukus Airport,Nukus,Uzbekistan,42.488400,59.623300
+UGC,Urgench Airport,Urgench,Uzbekistan,41.584300,60.641700
+KSQ,Karshi Khanabad Airport,Khanabad,Uzbekistan,38.833600,65.921500
+TMJ,Termez Airport,Termez,Uzbekistan,37.286667,67.310000
+EGO,Belgorod International Airport,Belgorod,Russia,50.643800,36.590100
+UUA,Bugulma Airport,Bugulma,Russia,54.640000,52.801700
+OSW,Orsk Airport,Orsk,Russia,51.072500,58.595600
+HBX,Hubli Airport,Hubli,India,15.361700,75.084900
+KCT,Koggala Airport,Koggala,Sri Lanka,5.993680,80.320300
+SHL,Shillong Airport,Shillong,India,25.703600,91.978700
+GAU,Lokpriya Gopinath Bordoloi International Airport,Guwahati,India,26.106092,91.585939
+DMU,Dimapur Airport,Dimapur,India,25.883900,93.771100
+BZL,Barisal Airport,Barisal,Bangladesh,22.801000,90.301200
+MAQ,Mae Sot Airport,Tak,Thailand,16.699856,98.545056
+BMV,Buon Ma Thuot Airport,Buonmethuot,Vietnam,12.668311,108.120272
+HPH,Cat Bi International Airport,Haiphong,Vietnam,20.819386,106.724989
+CXR,Cam Ranh Airport,Nha Trang,Vietnam,11.998153,109.219372
+VCS,Co Ong Airport,Conson,Vietnam,8.731831,106.632589
+VCA,Tra Noc Airport,Can Tho,Vietnam,10.085119,105.711922
+DIN,Dien Bien Phu Airport,Dienbienphu,Vietnam,21.397481,103.007831
+UIH,Phu Cat Airport,Phucat,Vietnam,13.954986,109.042267
+PXU,Pleiku Airport,Pleiku,Vietnam,14.004522,108.017158
+VII,Vinh Airport,Vinh,Vietnam,18.737569,105.670764
+TMC,Tambolaka Airport,Waikabubak-Sumba Island,Indonesia,-9.409717,119.244494
+BEJ,Barau(Kalimaru) Airport,Tanjung Redep-Borneo Island,Indonesia,2.155497,117.432256
+LUV,Dumatubun Airport,Langgur-Kei Islands,Indonesia,-5.661619,132.731431
+LGL,Long Lellang Airport,Long Datih,Malaysia,3.421000,115.154000
+ODN,Long Seridan Airport,Long Seridan,Malaysia,3.967000,115.050000
+MKM,Mukah Airport,Mukah,Malaysia,2.906390,112.080000
+BKM,Bakalalan Airport,Bakalalan,Malaysia,3.974000,115.618000
+LWY,Lawas Airport,Lawas,Malaysia,4.849170,115.408000
+BBN,Bario Airport,Bario,Malaysia,3.733890,115.479000
+KUD,Kudat Airport,Kudat,Malaysia,6.922500,116.836000
+TKG,Radin Inten II (Branti) Airport,Bandar Lampung-Sumatra Island,Indonesia,-5.242339,105.178939
+NTX,Ranai Airport,Ranai-Natuna Besar Island,Indonesia,3.908714,108.387897
+KBU,Stagen Airport,Laut Island,Indonesia,-3.294720,116.165000
+ALH,Albany Airport,Albany,Australia,-34.943300,117.809000
+AUU,Aurukun Airport,Aurukun,Australia,-13.353900,141.721000
+BCI,Barcaldine Airport,Barcaldine,Australia,-23.565300,145.307000
+BVI,Birdsville Airport,Birdsville,Australia,-25.897500,139.348000
+BHQ,Broken Hill Airport,Broken Hill,Australia,-32.001400,141.472000
+HTI,Hamilton Island Airport,Hamilton Island,Australia,-20.358100,148.952000
+BEU,Bedourie Airport,Bedourie,Australia,-24.346100,139.460000
+BUC,Burketown Airport,Burketown,Australia,-17.748600,139.534000
+BQL,Boulia Airport,Boulia,Australia,-22.913300,139.900000
+BHS,Bathurst Airport,Bathurst,Australia,-33.409400,149.652000
+CPD,Coober Pedy Airport,Coober Pedy,Australia,-29.040000,134.721000
+CNJ,Cloncurry Airport,Cloncurry,Australia,-20.668600,140.504000
+CED,Ceduna Airport,Ceduna,Australia,-32.130600,133.710000
+CMA,Cunnamulla Airport,Cunnamulla,Australia,-28.030000,145.622000
+CUQ,Coen Airport,Coen,Australia,-13.760800,143.114000
+DMD,Doomadgee Airport,Doomadgee,Australia,-17.940300,138.822000
+DPO,Devonport Airport,Devonport,Australia,-41.169700,146.430000
+ELC,Elcho Island Airport,Elcho Island,Australia,-12.019400,135.571000
+EPR,Esperance Airport,Esperance,Australia,-33.684400,121.823000
+FLS,Flinders Island Airport,Flinders Island,Australia,-40.091700,147.993000
+GET,Geraldton Airport,Geraldton,Australia,-28.796100,114.707000
+GLT,Gladstone Airport,Gladstone,Australia,-23.869700,151.223000
+GTE,Groote Eylandt Airport,Groote Eylandt,Australia,-13.975000,136.460000
+GFF,Griffith Airport,Griffith,Australia,-34.250800,146.067000
+HID,Horn Island Airport,Horn Island,Australia,-10.586400,142.290000
+JCK,Julia Creek Airport,Julia Creek,Australia,-20.668300,141.723000
+KNS,King Island Airport,King Island,Australia,-39.877500,143.878000
+KWM,Kowanyama Airport,Kowanyama,Australia,-15.485600,141.751000
+LDH,Lord Howe Island Airport,Lord Howe Island,Australia,-31.538300,159.077000
+IRG,Lockhart River Airport,Lockhart River,Australia,-12.786900,143.305000
+LSY,Lismore Airport,Lismore,Australia,-28.830300,153.260000
+LRE,Longreach Airport,Longreach,Australia,-23.434200,144.280000
+MIM,Merimbula Airport,Merimbula,Australia,-36.908600,149.901000
+MGT,Milingimbi Airport,Milingimbi,Australia,-12.094400,134.894000
+MNG,Maningrida Airport,Maningrida,Australia,-12.056100,134.234000
+MCV,McArthur River Mine Airport,McArthur River Mine,Australia,-16.442500,136.084000
+MQL,Mildura Airport,Mildura,Australia,-34.229200,142.086000
+MRZ,Moree Airport,Moree,Australia,-29.498900,149.845000
+MOV,Moranbah Airport,Moranbah,Australia,-22.057800,148.077000
+MYA,Moruya Airport,Moruya,Australia,-35.897800,150.144000
+MGB,Mount Gambier Airport,Mount Gambier,Australia,-37.745600,140.785000
+ONG,Mornington Island Airport,Mornington Island,Australia,-16.662500,139.178000
+NRA,Narrandera Airport,Narrandera,Australia,-34.702200,146.512000
+NTN,Normanton Airport,Normanton,Australia,-17.683600,141.070000
+ZNE,Newman Airport,Newman,Australia,-23.417800,119.803000
+OLP,Olympic Dam Airport,Olympic Dam,Australia,-30.485000,136.877000
+PUG,Port Augusta Airport,Argyle,Australia,-32.506944,137.716667
+PBO,Paraburdoo Airport,Paraburdoo,Australia,-23.171100,117.745000
+CCK,Cocos Keeling Island Airport,Cocos Keeling Island,Cocos (Keeling) Islands,-12.188300,96.833900
+GOV,Gove Airport,Gove,Australia,-12.269400,136.818000
+PKE,Parkes Airport,Parkes,Australia,-33.131400,148.239000
+PLO,Port Lincoln Airport,Port Lincoln,Australia,-34.605300,135.880000
+EDR,Pormpuraaw Airport,Pormpuraaw,Australia,-14.896700,141.609000
+PQQ,Port Macquarie Airport,Port Macquarie,Australia,-31.435800,152.863000
+PTJ,Portland Airport,Portland,Australia,-38.318100,141.471000
+ULP,Quilpie Airport,Quilpie,Australia,-26.612200,144.253000
+RMA,Roma Airport,Roma,Australia,-26.545000,148.775000
+SGO,St George Airport,St George,Australia,-28.049700,148.595000
+XTG,Thargomindah Airport,Thargomindah,Australia,-27.986400,143.811000
+WNR,Windorah Airport,Windorah,Australia,-25.413100,142.667000
+WYA,Whyalla Airport,Whyalla,Australia,-33.058900,137.514000
+WIN,Winton Airport,Winton,Australia,-22.363600,143.086000
+BWT,Wynyard Airport,Burnie,Australia,-40.998900,145.731000
+NAY,Beijing Nanyuan Airport,Beijing,China,39.782500,116.387778
+CIF,Chifeng Airport,Chifeng,China,42.235000,118.908000
+CIH,Changzhi Airport,Changzhi,China,36.247500,113.126000
+DAT,Datong Airport,Datong,China,40.060300,113.482000
+HET,Baita Airport,Hohhot,China,40.851422,111.824103
+BAV,Baotou Airport,Baotou,China,40.560000,109.997000
+SJW,Shijiazhuang Daguocun International Airport,Shijiazhuang,China,38.280686,114.697300
+TGO,Tongliao Airport,Tongliao,China,43.556700,122.200000
+HLH,Ulanhot Airport,Ulanhot,China,46.083000,122.017000
+XIL,Xilinhot Airport,Xilinhot,China,43.915600,115.964000
+BHY,Beihai Airport,Beihai,China,21.539400,109.294000
+CGD,Changde Airport,Changde,China,28.918900,111.640000
+DYG,Dayong Airport,Dayong,China,29.102800,110.443000
+MXZ,Meixian Airport,Meixian,China,24.350000,116.133000
+ZUH,Zhuhai Airport,Zhuhai,China,22.006400,113.376000
+LZH,Bailian Airport,Liuzhou,China,24.207500,109.391000
+ZHA,Zhanjiang Airport,Zhanjiang,China,21.214400,110.358000
+ENH,Enshi Airport,Enshi,China,30.320300,109.485000
+NNY,Nanyang Airport,Nanyang,China,32.980800,112.615000
+XFN,Xiangfan Airport,Xiangfan,China,32.150600,112.291000
+YIH,Yichang Airport,Yichang,China,30.671000,111.441000
+GOQ,Golmud Airport,Golmud,China,34.633000,98.867000
+IQN,Qingyang Airport,Qingyang,China,35.799700,107.603000
+XNN,Xining Caojiabu Airport,Xining,China,36.527500,102.043000
+ENY,Yan'an Airport,Yan'an,China,36.636900,109.554000
+UYN,Yulin Airport,Yulin,China,38.269200,109.731000
+LTI,Altai Airport,Altai,Mongolia,46.376400,96.221100
+BYN,Bayankhongor Airport,Bayankhongor,Mongolia,46.163300,100.704000
+DLZ,Dalanzadgad Airport,Dalanzadgad,Mongolia,43.591700,104.430000
+HVD,Khovd Airport,Khovd,Mongolia,47.954100,91.628200
+MXV,Muren Airport,Muren,Mongolia,49.663300,100.099000
+DIG,Diqing Airport,Shangri-La,China,27.793600,99.677200
+LUM,Mangshi Airport,Luxi,China,24.401100,98.531700
+SYM,Simao Airport,Simao,China,22.793300,100.959000
+ZAT,Zhaotong Airport,Zhaotong,China,27.325600,103.755000
+KOW,Ganzhou Airport,Ganzhou,China,25.825800,114.912000
+JDZ,Jingdezhen Airport,Jingdezhen,China,29.338600,117.176000
+JIU,Jiujiang Lushan Airport,Jiujiang,China,29.733000,115.983000
+JUZ,Quzhou Airport,Quzhou,China,28.965800,118.899000
+LYG,Lianyungang Airport,Lianyungang,China,34.550000,119.250000
+HYN,Huangyan Luqiao Airport,Huangyan,China,28.562200,121.429000
+LYI,Shubuling Airport,Linyi,China,35.046100,118.412000
+JJN,Quanzhou Airport,Quanzhou,China,24.796400,118.590000
+TXN,Tunxi International Airport,Huangshan,China,29.733300,118.256000
+WEF,Weifang Airport,Weifang,China,36.646700,119.119000
+WUX,Wuxi Airport,Wuxi,China,31.494400,120.429000
+WUS,Nanping Wuyishan Airport,Wuyishan,China,27.701900,118.001000
+WNZ,Wenzhou Yongqiang Airport,Wenzhou,China,27.912200,120.852000
+YNZ,Yancheng Airport,Yancheng,China,33.385600,120.125000
+YIW,Yiwu Airport,Yiwu,China,29.344700,120.032000
+HSN,Zhoushan Airport,Zhoushan,China,29.934200,122.362000
+BPX,Qamdo Bangda Airport,Bangda,China,30.553600,97.108300
+DAX,Dachuan Airport,Dazhou,China,31.300000,107.500000
+GYS,Guangyuan Airport,Guangyuan,China,32.391100,105.702000
+LZO,Luzhou Airport,Luzhou,China,28.852200,105.393000
+MIG,Mianyang Airport,Mianyang,China,31.428100,104.741000
+NAO,Nanchong Airport,Nanchong,China,30.754000,106.062000
+LZY,Nyingchi Airport,Nyingchi,China,29.303300,94.335300
+WXN,Wanxian Airport,Wanxian,China,30.836100,108.406000
+AKU,Aksu Airport,Aksu,China,41.262500,80.291700
+KCA,Kuqa Airport,Kuqa,China,41.718100,82.986900
+KRL,Korla Airport,Korla,China,41.697800,86.128900
+KRY,Karamay Airport,Karamay,China,45.617000,84.883000
+YIN,Yining Airport,Yining,China,43.955800,81.330300
+HEK,Heihe Airport,Heihe,China,50.250000,127.300000
+JMU,Jiamusi Airport,Jiamusi,China,46.843394,130.465389
+JNZ,Jinzhou Airport,Jinzhou,China,41.101400,121.062000
+NDG,Qiqihar Sanjiazi Airport,Qiqihar,China,47.239628,123.918131
+YNJ,Yanji Airport,Yanji,China,42.882800,129.451258
+ORH,Worcester Regional Airport,Worcester,United States,42.267300,-71.875700
+AQG,Anqing Airport,Anqing,China,30.582200,117.050200
+JGS,Jing Gang Shan Airport,Ji An,China,26.899700,114.737500
+SHP,Shanhaiguan Airport,Qinhuangdao,China,39.968100,119.731000
+YCU,Zhangxiao,Yuncheng,China,35.018000,110.993000
+LHW,Lanzhou Airport,Lanzhou,China,36.117000,103.617000
+JGN,Jiayuguan Airport,Jiayuguan,China,39.856900,98.341400
+DDG,Dandong,Dandong,China,40.025500,124.286600
+DSN,Ordos Ejin Horo,Dongsheng,China,39.850000,110.033000
+PZI,Panzhihua,Panzhihua,China,26.540000,101.799000
+DIB,Dibrugarh Airport,Dibrugarh,India,27.483900,95.016900
+PVC,Provincetown Muni,Provincetown,United States,42.071945,-70.221390
+LKE,Kenmore Air Harbor Seaplane Base,Seattle,United States,47.629000,-122.339000
+SBH,Saint Barthelemy,Gustavia,France,17.902300,-62.832400
+TZA,Belize City Municipal Airport,Belize,Belize,17.534400,-88.298000
+FSZ,Mt. Fuji Shizuoka Airport,Shizuoka,Japan,34.796111,138.189444
+NVI,Navoi Airport,Navoi,Uzbekistan,40.117200,65.170800
+QSF,Ain Arnat Airport,Setif,Algeria,36.178100,5.324490
+LRH,La Rochelle-Ile de Re,La Rochelle,France,46.179200,-1.195280
+AZA,Phoenix-Mesa Gateway,Mesa,United States,33.307833,-111.655000
+ZQW,Zweibruecken,Zweibruecken,Germany,49.209445,7.401323
+AKP,Anaktuvuk Pass Airport,Anaktuvuk Pass,United States,68.133600,-151.743000
+ANV,Anvik Airport,Anvik,United States,62.646700,-160.191000
+ATK,Atqasuk Edward Burnell Sr Memorial Airport,Atqasuk,United States,70.467300,-157.436000
+GAM,Gambell Airport,Gambell,United States,63.766800,-171.733000
+HPB,Hooper Bay Airport,Hooper Bay,United States,61.523900,-166.147000
+KAL,Kaltag Airport,Kaltag,United States,64.319100,-158.741000
+KSM,St Marys Airport,St Mary's,United States,62.060500,-163.302000
+KVL,Kivalina Airport,Kivalina,United States,67.736200,-164.563000
+MYU,Mekoryuk Airport,Mekoryuk,United States,60.371400,-166.271000
+PHO,Point Hope Airport,Point Hope,United States,68.348800,-166.799000
+RBY,Ruby Airport,Ruby,United States,64.727200,-155.470000
+SHH,Shishmaref Airport,Shishmaref,United States,66.249600,-166.089000
+SVA,Savoonga Airport,Savoonga,United States,63.686400,-170.493000
+WTK,Noatak Airport,Noatak,United States,67.566100,-162.975000
+ARC,Arctic Village Airport,Arctic Village,United States,68.114700,-145.579000
+FON,Arenal Airport,La Fortuna/San Carlos,Costa Rica,10.478000,-84.634500
+TMU,Tambor Airport,Nicoya,Costa Rica,9.738520,-85.013800
+CYZ,Cauayan Airport,Cauayan,Philippines,16.929861,121.753036
+GVR,Governador Valadares Airport,Governador Valadares,Brazil,-18.895200,-41.982200
+QBC,Bella Coola Airport,Bella Coola,Canada,52.387500,-126.596000
+HGR,Hagerstown Regional Richard A Henson Field,Hagerstown,United States,39.707900,-77.729500
+ACR,Araracuara Airport,Araracuara,Colombia,-0.580000,-72.410000
+GOP,Gorakhpur Airport,Gorakhpur,India,26.739708,83.449708
+SDP,Sand Point Airport,Sand Point,United States,55.315000,-160.523000
+HMI,Hami Airport,Hami,China,42.841400,93.669200
+GBT,Gorgan Airport,Gorgan,Iran,36.909381,54.401339
+IIL,Ilam Airport,Ilam,Iran,33.586606,46.404842
+PFQ,Parsabade Moghan Airport,Parsabad,Iran,39.603606,47.881500
+LGQ,Nueva Loja Airport,Lago Agrio,Ecuador,0.093056,-76.867500
+TCG,Tacheng Airport,Tacheng,China,46.672500,83.340800
+MQM,Mardin Airport,Mardin,Turkey,37.223300,40.631700
+DRG,Deering Airport,Deering,United States,66.069600,-162.766000
+LEN,Leon Airport,Leon,Spain,42.589000,-5.655556
+RGS,Burgos Airport,Burgos,Spain,42.357628,-3.620764
+EGM,Sege Airport,Sege,Solomon Islands,-8.578890,157.876000
+DHM,Kangra Airport,Kangra,India,32.165100,76.263400
+IGG,Igiugig Airport,Igiugig,United States,59.324000,-155.902000
+KVC,King Cove Airport,King Cove,United States,55.116300,-162.266000
+PTH,Port Heiden Airport,Port Heiden,United States,56.959100,-158.633000
+TOG,Togiak Airport,Togiak Village,United States,59.052800,-160.397000
+EGN,Geneina Airport,Geneina,Sudan,13.481700,22.467200
+LKH,Long Akah Airport,Long Akah,Malaysia,3.300000,114.783000
+TGC,Tanjung Manis Airport,Tanjung Manis,Malaysia,2.177840,111.202000
+WLH,Walaha Airport,Walaha,Vanuatu,-15.412000,167.691000
+CHG,Chaoyang Airport,Chaoyang,China,41.538100,120.435000
+SKT,Sialkot Airport,Sialkot,Pakistan,32.535600,74.363900
+PDP,Capitan Corbeta C A Curbelo International Airport,Punta del Este,Uruguay,-34.855139,-55.094278
+WVB,Walvis Bay Airport,Walvis Bay,Namibia,-22.979900,14.645300
+AOE,Anadolu Airport,Eskissehir,Turkey,39.809858,30.519378
+CKZ,Canakkale Airport,Canakkale,Turkey,40.137722,26.426777
+MSR,Mus Airport,Mus,Turkey,38.747769,41.661236
+SIC,Sinop Airport,Sinop,Turkey,42.015800,35.066400
+TEQ,Tekirdag Corlu Airport,Corlu,Turkey,41.138250,27.919094
+VQS,Vieques Airport,Vieques Island,Puerto Rico,18.115800,-65.422700
+YIF,St Augustin Airport,St-Augustin,Canada,51.211700,-58.658300
+HDM,Hamadan Airport,Hamadan,Iran,34.869167,48.552500
+GFN,Grafton Airport,Grafton,Australia,-29.759400,153.030000
+OAG,Orange Airport,Orange,Australia,-33.381700,149.133000
+TRO,Taree Airport,Taree,Australia,-31.888600,152.514000
+COQ,Choibalsan Airport,Choibalsan,Mongolia,48.135700,114.646000
+ESC,Delta County Airport,Escanaba,United States,45.722778,-87.093611
+YAK,Yakutat,Yakutat,United States,59.301200,-139.393700
+CPX,Culebra Airport,Culebra Island,Puerto Rico,18.312700,-65.303400
+MWA,Williamson Country Regional Airport,Marion,United States,37.754957,-89.011094
+IMT,Ford Airport,Iron Mountain,United States,45.818361,-88.114556
+MQT,Sawyer International Airport,Marquette,United States,46.353611,-87.395278
+AET,Allakaket Airport,Allakaket,United States,66.551900,-152.622200
+MTJ,Montrose Regional Airport,Montrose CO,United States,38.509794,-107.894242
+RIW,Riverton Regional,Riverton WY,United States,43.064167,-108.459722
+PDT,Eastern Oregon Regional Airport,Pendleton,United States,45.695000,-118.841389
+EAT,Pangborn Field,Wenatchee,United States,47.398000,-120.206000
+BNY,Bellona,Bellona,Solomon Islands,-11.302000,159.800000
+RMT,Rimatara,Rimatara,French Polynesia,-22.637253,-152.805192
+OHE,Heilongjiang Mohe Airport,Mohe County,China,52.915000,122.427000
+JNG,Jining Airport,Jining,China,35.417000,116.533000
+DRK,Drake Bay Airport,Puntarenas,Costa Rica,8.718890,-83.641700
+AAT,Altay Airport,Altay,China,47.866667,88.116667
+NZH,Manzhouli,Manzhouli,China,49.566667,117.329444
+WUA,Wuhai,Wuhai,China,39.794444,106.799444
+BRD,Brainerd Lakes Rgnl,Brainerd,United States,46.398308,-94.138078
+LWB,Greenbrier Valley Airport,Lewisburg,United States,37.858333,-80.399444
+PGV,Pitt-Greenville Airport,Greenville,United States,35.635278,-77.385278
+CYF,Chefornak Airport,Chefornak,United States,60.149167,-164.285556
+BKG,Branson LLC,Branson,United States,36.531994,-93.200556
+TEN,Tongren,Tongren,China,27.884000,109.310000
+NBC,Begishevo,Nizhnekamsk,Russia,55.340000,52.060000
+UST,St. Augustine Airport,St. Augustine Airport,United States,29.959167,-81.339722
+STS,Charles M Schulz Sonoma Co,Santa Rosa,United States,38.508978,-122.812880
+ASE,Aspen Pitkin County Sardy Field,Aspen,United States,39.223200,-106.869000
+HHH,Hilton Head,Hilton Head,United States,32.216000,-80.752000
+TVF,Thief River Falls,Thief River Falls,United States,48.065556,-96.185000
+CZH,Municipal,Corozal,Belize,18.382200,-88.411900
+GDZ,Gelendzik,Gelendzik,Russia,44.566667,38.016667
+GUC,Gunnison - Crested Butte,Gunnison,United States,38.533889,-106.933056
+PGD,Charlotte County-Punta Gorda Airport,Punta Gorda,United States,26.919722,-81.990556
+JHW,Chautauqua County-Jamestown,Jamestown,United States,42.153333,-79.258056
+SHD,Shenandoah Valley Regional Airport,Weyers Cave,United States,38.263889,-78.896389
+DIK,Dickinson Theodore Roosevelt Regional Airport,Dickinson,United States,46.797500,-102.801944
+SDY,Sidney-Richland Municipal Airport,Sidney,United States,47.706944,-104.192500
+CDR,Chadron Municipal Airport,Chadron,United States,42.837500,-103.095556
+AIA,Alliance Municipal Airport,Alliance,United States,42.053333,-102.803889
+MCK,McCook Regional Airport,McCook,United States,40.206389,-100.592222
+GDV,Dawson Community Airport,Glendive,United States,47.138611,-104.807222
+OLF,LM Clayton Airport,Wolf Point,United States,48.094444,-105.575000
+ALS,San Luis Valley Regional Airport,Alamosa,United States,37.435000,-105.866667
+CNY,Canyonlands Field,Moab,United States,38.755000,-109.754722
+VEL,Vernal Regional Airport,Vernal,United States,40.440833,-109.510000
+SOW,Show Low Regional Airport,Show Low,United States,34.265556,-110.005556
+MMH,Mammoth Yosemite Airport,Mammoth Lakes,United States,37.624049,-118.837772
+EMK,Emmonak Airport,Emmonak,United States,62.786111,-164.490833
+UNK,Unalakleet Airport,Unalakleet,United States,63.888333,-160.798889
+SHX,Shageluk Airport,Shageluk,United States,62.692222,-159.569167
+CHU,Chuathbaluk Airport,Chuathbaluk,United States,61.579167,-159.215556
+NUI,Nuiqsut Airport,Nuiqsut,United States,70.210000,-151.005556
+EEK,Eek Airport,Eek,United States,60.213611,-162.043889
+KUK,Kasigluk Airport,Kasigluk,United States,60.873333,-162.524444
+KWT,Kwethluk Airport,Kwethluk,United States,60.790278,-161.443611
+KWK,Kwigillingok Airport,Kwigillingok,United States,59.876389,-163.168611
+MLL,Marshall Don Hunter Sr. Airport,Marshall,United States,61.864642,-162.026111
+RSH,Russian Mission Airport,Russian Mission,United States,61.775000,-161.319444
+WTL,Tuntutuliak Airport,Tuntutuliak,United States,60.335278,-162.666944
+KLL,Levelock Airport,Levelock,United States,59.128056,-156.858611
+HUS,Hughes Airport,Hughes,United States,66.039167,-154.264722
+HSL,Huslia Airport,Huslia,United States,65.697778,-156.351389
+NUL,Nulato Airport,Nulato,United States,64.729444,-158.074167
+TAL,Tanana Airport,Tanana,United States,65.179556,-152.075833
+VEE,Venetie Airport,Venetie,United States,67.008611,-146.366389
+SHG,Shungnak Airport,Shungnak,United States,66.888056,-157.162500
+KBC,Birch Creek Airport,Brich Creek,United States,66.256708,-145.815319
+VIS,Visalia Municipal Airport,Visalia,United States,36.318611,-119.392778
+MCE,Merced Municipal Airport,Merced,United States,37.284722,-120.513889
+TWB,Toowoomba,Toowoomba,Australia,-27.542778,151.916389
+HNH,Hoonah Airport,Hoonah,United States,58.096111,-135.409722
+CGA,Craig Seaplane Base,Craig,United States,55.478889,-133.147778
+HYL,Hollis Seaplane Base,Hollis,United States,55.481667,-132.646111
+MTM,Metlakatla Seaplane Base,Metakatla,United States,55.131111,-131.578056
+KTB,Thorne Bay Seaplane Base,Thorne Bay,United States,55.688056,-132.536667
+KCQ,Chignik Lake Airport,Chignik Lake,United States,56.255000,-158.775278
+EGX,Egegik Airport,Egegik,United States,58.185556,-157.375556
+KCL,Chignik Lagoon Airport,Chignik Lagoon,United States,56.311111,-158.534167
+KPV,Perryville Airport,Perryville,United States,55.906667,-159.160833
+PIP,Pilot Point Airport,Pilot Point,United States,57.585393,-157.571944
+WSN,South Naknek Airport,South Naknek,United States,58.702222,-157.002500
+ABL,Ambler Airport,Ambler,United States,67.106389,-157.857500
+BKC,Buckland Airport,Buckland,United States,65.981667,-161.149167
+IAN,Bob Baker Memorial Airport,Kiana,United States,66.975833,-160.436667
+OBU,Kobuk Airport,Kobuk,United States,66.912222,-156.897222
+ORV,Robert Curtis Memorial Airport,Noorvik,United States,66.817500,-161.022222
+WLK,Selawik Airport,Selawik,United States,66.600000,-159.985833
+KTS,Brevig Mission Airport,Brevig Mission,United States,65.331389,-166.465833
+ELI,Elim Airport,Elim,United States,64.615000,-162.270556
+GLV,Golovin Airport,Golovin,United States,64.550556,-163.007222
+TLA,Teller Airport,Teller,United States,65.240278,-166.339444
+WAA,Wales Airport,Wales,United States,65.622500,-168.095000
+WMO,White Mountain Airport,White Mountain,United States,64.689167,-163.412778
+KKA,Koyuk Alfred Adams Airport,Koyuk,United States,64.939444,-161.154167
+SMK,St. Michael Airport,St. Michael,United States,63.490000,-162.110278
+SKK,Shaktoolik Airport,Shaktoolik,United States,64.371111,-161.223889
+WBB,Stebbins Airport,Stebbins,United States,63.515833,-162.278056
+TNC,Tin City LRRS Airport,Tin City,United States,65.563056,-167.921667
+AUK,Alakanuk Airport,Alakanuk,United States,62.680000,-164.660000
+SXP,Sheldon Point Airport,Nunam Iqua,United States,62.520556,-164.847778
+KPN,Kipnuk Airport,Kipnuk,United States,59.933056,-164.030556
+KFP,False Pass Airport,False Pass,United States,54.847500,-163.410278
+NLG,Nelson Lagoon,Nelson Lagoon,United States,56.007500,-161.160278
+KLW,Klawock Airport,Klawock,United States,55.579167,-133.076111
+KWN,Quinhagak Airport,Quinhagak,United States,59.755000,-161.845278
+KOT,Kotlik Airport,Kotlik,United States,63.030556,-163.532778
+KYU,Koyukuk Airport,Koyukuk,United States,64.875833,-157.730556
+SCM,Scammon Bay Airport,Scammon Bay,United States,61.845278,-165.571389
+NUP,Nunapitchuk Airport,Nunapitchuk,United States,60.905833,-162.439167
+KKH,Kongiganak Airport,Kongiganak,United States,59.960833,-162.881111
+PQS,Pilot Station Airport,Pilot Station,United States,61.934444,-162.899444
+AKI,Akiak Airport,Akiak,United States,60.902778,-161.230556
+TLT,Tuluksak Airport,Tuluksak,United States,61.096944,-160.969444
+KGX,Grayling Airport,Grayling,United States,62.894444,-160.065000
+AIN,Wainwright Airport,Wainwright,United States,70.638056,-159.994722
+CKD,Crooked Creek Airport,Crooked Creek,United States,61.867778,-158.135000
+RDV,Red Devil Airport,Red Devil,United States,61.788056,-157.350278
+SLQ,Sleetmute Airport,Sleetmute,United States,61.700566,-157.165833
+SRV,Stony River 2 Airport,Stony River,United States,61.787500,-156.591111
+HKB,Healy River Airport,Healy,United States,63.867500,-148.968889
+STG,St. George Airport,St. George,United States,56.577222,-169.663611
+YSO,Postville Airport,Postville,Canada,54.910278,-59.785278
+YGV,Havre Saint-Pierre Airport,Havre-Saint-Pierre,Canada,50.281944,-63.611389
+ZEL,Bella Bella Airport,Bella Bella,Canada,52.139722,-128.063611
+DGA,Dangriga Airport,Dangriga,Belize,16.966667,-88.216667
+PLJ,Placencia Airport,Placencia,Belize,16.536944,-88.361667
+UYU,Uyuni Airport,Uyuni,Bolivia,-20.466667,-66.833333
+RBQ,Rurrenabaque Airport,Rerrenabaque,Bolivia,-14.427500,-67.498056
+RVE,Los Colonizadores Airport,Saravena,Colombia,6.916667,-71.900000
+LCR,La Chorrera Airport,La Chorrera,Colombia,-0.733333,-73.016667
+LMC,La Macarena,La Macarena,Colombia,2.179167,-73.787500
+VGZ,Villa Garzon Airport,Villa Garzon,Colombia,0.978889,-76.605556
+CFB,Cabo Frio International Airport,Cabo Frio,Brazil,-22.921667,-42.074167
+OPS,Sinop Airport,Sinop,Brazil,-11.885000,-55.586000
+GRP,Gurupi Airport,Gurupi,Brazil,-11.728889,-49.068889
+CMP,Campo Alegre Airport,Santana do Araguaia,Brazil,-9.505000,-50.625000
+PIN,Julio Belem Airport,Parintins,Brazil,-2.627778,-56.735833
+BRA,Barreiras Airport,Barreiras,Brazil,-12.083333,-45.000000
+STZ,Confresa Airport,Santa Terezinha,Brazil,-10.470000,-50.502778
+MQH,Minacu Airport,Minacu,Brazil,-13.526944,-48.220556
+AUX,Araguaina Airport,Araguaina,Brazil,-7.228333,-48.240833
+DOU,Dourados Airport,Dourados,Brazil,-22.220833,-54.805833
+ROO,Rondonopolis Airport,Rondonopolis,Brazil,-16.466667,-54.633333
+RVD,General leite de Castro Airport,Rio Verde,Brazil,-17.790278,-50.918333
+AAX,Araxa Airport,Araxa,Brazil,-19.563056,-46.960278
+CIZ,Coari Airport,Coari,Brazil,-4.085000,-63.140833
+BAZ,Barcelos Airport,Barcelos,Brazil,-0.975000,-62.923889
+JIJ,Jijiga Airport,Jijiga,Ethiopia,9.359722,42.787500
+MRE,Mara Serena Airport,Masai Mara,Kenya,-1.406111,35.008056
+NBE,Enfidha - Zine El Abidine Ben Ali International Airport,Enfidha,Tunisia,36.075833,10.438611
+HTY,Hatay Airport,Hatay,Turkey,36.362778,36.282222
+RVV,Raivavae Airport,Raivavae,French Polynesia,-23.870000,-147.670000
+FUO,Foshan,Foshan,China,23.133333,113.283330
+ILD,Lleida-Alguaire Airport,Lleida,Spain,41.727778,0.535833
+ULG,Olgii Airport,Olgii,Mongolia,48.991667,89.919722
+BVV,Burevestnik Airport,Iturup Island,Russia,44.920000,147.621667
+OHH,Okha Airport,Okha,Russia,53.583333,142.933333
+NJF,Al Najaf International Airport,Najaf,Iraq,31.991667,44.404167
+FUG,Fuyang Airport,Fuyang,China,32.900000,115.816667
+LCX,Longyan Airport,Longyan,China,25.674167,116.746389
+BSD,Baoshan Airport,Baoshan,China,25.053333,99.168333
+ACX,Xingyi Airport,Xingyi,China,25.088200,104.958700
+HZH,Liping Airport,Liping,China,26.206000,109.039000
+HJJ,Zhijiang Airport,Zhijiang,China,27.441389,109.699722
+LNJ,Lincang Airport,Lincang,China,23.738333,100.025000
+WNH,Wenshan Airport,Wenshan,China,23.375833,104.243056
+SJL,Sao Gabriel da Cachoeira Airport,Sao Gabriel da Cachoeira,Brazil,-0.148056,-66.985800
+CKS,Carajas Airport,Parauapebas,Brazil,-6.117810,-50.003500
+ITB,Cachimbo,Itaituba,Brazil,-4.244600,-56.003840
+PGU,Persian Gulf Airport,Khalije Fars,Iran,27.379444,52.737500
+YES,Yasuj Airport,Yasuj,Iran,30.700556,51.545000
+ULO,Ulaangom Airport,Ulaangom,Mongolia,49.973333,92.079722
+DIW,Dickwella Airport,Dickwella,Sri Lanka,5.966667,80.683333
+TJU,Kulob Airport,Kulyab,Tajikistan,37.981667,69.799444
+RVT,Ravensthorpe Airport,Ravensthorpe,Australia,-33.797222,120.208056
+PVU,Provo Municipal Airport,Provo,United States,40.218056,-111.722222
+LAM,Los Alamos Airport,Los Alamos,United States,35.879802,-106.269415
+RNA,Ulawa Airport,Ulawa,Solomon Islands,-9.854722,161.979167
+CHY,Choiseul Bay Airport,Choiseul Bay,Solomon Islands,-6.711944,156.396111
+NNB,Santa Ana Airport,Santa Ana,Solomon Islands,-10.848056,162.454167
+AGM,Tasiilaq,Angmagssalik,Greenland,65.612222,-37.618333
+ECP,Panama City-NW Florida Bea.,Panama City,United States,30.341700,-85.797300
+LTX,Cotopaxi International Airport,Latacunga,Ecuador,-0.542500,-78.365700
+MYQ,Mysore Airport,Mysore,India,12.307200,76.649700
+OAL,Marktoberdorf BF,Marktoberdorf,Germany,47.780000,10.627000
+ONQ,Zonguldak,Zonguldak,Turkey,41.506111,32.088611
+TCZ,Tengchong Tuofeng Airport,Tengchong,China,24.938651,98.483591
+UKS,Belbek Sevastopol International Airport,Sevastopol,Ukraine,44.691431,33.575670
+YUS,Yushu Batang,Yushu,China,32.825000,97.125000
+PYC,Playon Chico,Playon Chico,Panama,9.303333,-78.236111
+HIA,Huai An Lianshui Airport,Huai An,China,33.777200,119.147800
+PVE,El Porvenir,El Porvenir,Panama,9.559167,-78.971111
+NGQ,Gunsa,Shiquanhe,China,32.100270,80.052778
+PUE,Puerto Obaldia,Puerto Obaldia,Panama,8.683330,-77.533300
+UKA,Ukunda Airport,Ukunda,Kenya,-4.296940,39.571400
+YZY,Mackenzie Airport,Mackenzie British Columbia,Canada,55.299440,-123.083330
+ZHY,Zhongwei Xiangshan Airport,Zhongwei,China,37.572800,105.154400
+DWC,Dubai Al Maktoum,Dubai,United Arab Emirates,24.550560,55.103174
+AEB,Tianyang,Baise,China,23.720000,106.960000
+NYT,NAYPYITAW,NAYPYITAW,Burma,19.374000,96.121000
+RCE,Roche Harbor Seaplane Base,Roche Harbor,United States,48.608056,-123.159722
+FBS,Friday Harbor Seaplane Base,Friday Harbor,United States,48.537222,-123.009722
+IZA,Zona da Mata Regional Airport,Juiz de Fora,Brazil,-21.513056,-43.173058
+NME,Nightmute Airport,Nightmute,United States,60.471111,-164.700833
+OOK,Toksook Bay Airport,Toksook Bay,United States,60.541389,-165.087222
+TNK,Tununak Airport,Tununak,United States,60.575556,-165.271667
+WWT,Newtok Airport,Newtok,United States,60.939167,-164.641111
+ACU,Achutupo Airport,Achutupo,Panama,9.200000,-77.980000
+GHE,Garachine Airport,Garachine,Panama,8.060000,-78.360000
+MPP,Mulatupo Airport,Mulatupo,Panama,8.950000,-77.750000
+OBY,Ittoqqortoormiit Heliport,Ittoqqortoormiit,Greenland,70.485278,-21.966667
+ZKG,Kegaska Airport,Kegaska,Canada,50.195833,-61.265833
+YZZ,Trail Airport,Trail,Canada,49.055556,-117.609167
+YAB,Arctic Bay Airport,Arctic Bay,Canada,73.006389,-85.047222
+HMB,Sohag International,Sohag,Egypt,26.341189,31.742983
+POJ,Patos de Minas Airport,Patos de Minas,Brazil,-18.672778,-46.491111
+JTC,Bauru-Arealva,Bauru,Brazil,-22.157778,-49.068333
+OIA,Ourilandia do Norte Airport,Ourilandia do Norte,Brazil,-6.763056,-51.050000
+RDC,Redencao Airport,Redencao,Brazil,-8.033333,-49.980000
+SXX,Sao Felix do Xingu Airport,Sao Felix do Xingu,Brazil,-6.641389,-51.952222
+BYO,Bonito Airport,Bointo,Brazil,-21.247222,-56.452500
+SXO,Sao Felix do Araguaia Airport,Sao Felix do Araguaia,Brazil,-11.632500,-50.689444
+ERN,Amaury Feitosa Tomaz Airport,Eirunepe,Brazil,-6.639444,-69.879722
+OLC,Senadora Eunice Micheles Airport,Sao Paulo de Olivenca,Brazil,-3.465556,-68.918889
+IRZ,Tapuruquara Airport,Santa Isabel do Rio Negro,Brazil,-0.416944,-65.033889
+GZP,Gazipasa Airport,Alanya,Turkey,36.299300,32.301400
+ULH,Prince Abdul Majeed Airport,Al-Ula,Saudi Arabia,26.636718,37.908018
+LOP,Lombok International Airport,Praya,Indonesia,-8.757322,116.276675
+HDG,Hebei Handan Airport,Handan,China,36.524000,114.430000
+WMI,Warsaw Modlin,Warsaw,Poland,52.451111,20.651667
+JXA,Jixi Airport,Jixi,China,45.306110,130.996670
+EYK,Beloyarsky,Beloyarsky,Russia,63.683056,66.683056
+ELL,Ellisras,Lephalale,South Africa,-23.666667,27.750000
+UMD,Uummannaq Heliport,Uummannaq,Greenland,70.404700,52.070200
+RLK,Bayannur,Bayannur,China,40.926389,107.738889
+PUM,Pomalaa,Pomalaa,Indonesia,-4.183333,121.616670
+RGK,Gorno-Altaysk Airport,Gorno-Altaysk,Russia,51.966667,85.833333
+LLK,Lankaran International Airport,Lankaran,Azerbaijan,38.746389,48.817778
+GBB,Qabala Airport,Qabala,Azerbaijan,40.826667,47.712500
+JIQ,Zhoubai,Qianjiang,China,29.515000,108.830000
+DEE,Mendeleevo,Yuzhno-Kurilsk,Russia,43.573900,145.410700
+NBS,Changbaishan Airport,Baishan,China,42.088056,127.548889
+LUZ,Lublin,Lublin,Poland,51.239333,22.714083
+LLF,Yongzhou Lingling Airport,Yongzhou,China,26.345556,111.612222
+TVS,Sannvhe,Tangshan,China,39.717444,118.002389
+YTY,Yangzhou Taizhou Airport,Yangzhou,China,32.561700,119.715000
+RHD,Termal,Rio Hondo,Argentina,-27.509946,-64.936666
+KGT,Kangding Airport,Kangding,China,30.157500,101.734722
+HRI,Mattala Rajapaksa Intl.,Mattala,Sri Lanka,6.284467,81.124128
+XSB,Sir Bani Yas Island,Sir Bani Yas Island,United Arab Emirates,24.285608,52.578347
+ZDY,Dalma Airport,Dalma Island,United Arab Emirates,24.503383,52.336053
+JGD,Jiagedaqi Airport,Jiagedaqi District,China,50.375000,124.117000
+BFJ,Bijie Feixiong Airport,Bijie,China,27.253000,105.426000
+ULK,Lensk,Lensk,Russia,60.723000,114.825000
+IGD,Igdir,Igdir,Turkey,39.983056,43.866389
+GNY,Sanliurfa GAP,Sanliurfa,Turkey,37.450000,38.900000
+KZR,Zafer,Kutahya,Turkey,39.111389,30.130000
+BQB,Brusselton,Brusselton,Australia,-33.687222,115.400278
+YIC,Yichun Mingyueshan Airport,Yichun,China,27.803300,114.308100
+THD,Tho Xuan Airport,Thanh Hoa,Vietnam,19.901670,105.467780
+MJU,Tampa Padang,Mamuju,Indonesia,-2.583333,119.033333
+GIU,Sigiriya Airport,Sigiriya,Sri Lanka,7.572120,80.434120
+BGG,Bingol,Bingol,Turkey,38.861110,40.592500
+KFS,Uzunyazi,Kastamonu,Turkey,41.316944,33.796111
+DCY,Yading Daocheng,Daocheng,China,29.323100,100.053300
+GXH,Gannan,Xiahe city,China,34.490900,102.371900
+CIY,Comiso,Comiso,Italy,37.000000,14.614400

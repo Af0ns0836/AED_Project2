@@ -1,6 +1,8 @@
-#include <iostream>
+#include "FlightManager.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    FlightManager fm;
+    fm.readFiles();
+    fm.menu();
     return 0;
 }
