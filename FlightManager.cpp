@@ -4,14 +4,10 @@
 #include <vector>
 #include "FlightManager.h"
 
-FlightManager::FlightManager() = default;
+FlightManager::FlightManager(): airports_({}), cities_({}), countries_({}), airlines_({}), flights_(Graph(63832, false)) {}
 
 void FlightManager::menu() {
-    int i = 2;
-    for (Flight* f : flights_) {
-        cout << i << ' ' << f->getSource()->getCode() << ' ' << f->getTarget()->getCode() << ' ' << f->getAirline()->getCode() << '\n';
-        i++;
-    }
+    findFlightRoutes("JFK", "CDG");
 }
 
 void FlightManager::readFiles() {
@@ -42,7 +38,12 @@ void FlightManager::readAirports() {
         country = row[3];
         latitude = row[4];
         longitude = row[5];
-        airports_.push_back(new Airport(code, name, city, country, stod(latitude), stod(longitude)));
+        pair<string, Airport*> p;
+        p.first = code;
+        p.second = new Airport(code, name, city, country, stod(latitude), stod(longitude));
+        airports_.insert(p);
+        cities_.insert(city);
+        countries_.insert(country);
     }
     file.close();
 }
@@ -67,7 +68,10 @@ void FlightManager::readAirlines() {
         name = row[1];
         callsign = row[2];
         country = row[3];
-        airlines_.push_back(new Airline(code, name, callsign, country));
+        pair<string, Airline*> p;
+        p.first = code;
+        p.second = new Airline(code, name, callsign, country);
+        airlines_.insert(p);
     }
     file.close();
 }
@@ -78,6 +82,12 @@ void FlightManager::readFlights() {
         cout << "Error opening file. " << endl;
     }
     file.ignore(150, '\n');
+    string current_source = "GKA";
+    int source_node = 1, target_node = 1;
+    pair<string, int> p;
+    p.first = "GKA";
+    p.second = 1;
+    node_keys_.insert(p);
     vector<string> row;
     string line, word;
     while (file.peek() != EOF) {
@@ -92,24 +102,30 @@ void FlightManager::readFlights() {
         target = row[1];
         airline = row[2];
 
-        Airport* a1;
-        Airport* a2;
-        Airline* a3;
-        for (Airport* a : airports_) {
-            if (a->getCode() == source) {
-                a1 = a;
-            }
-            if (a->getCode() == target) {
-                a2 = a;
-            }
-        }
-        for (Airline* a : airlines_) {
-            if (a->getCode() == airline) {
-                a3 = a;
-            }
+        if (current_source != source) {
+            current_source = source;
+            source_node = target_node;
+            p.first = current_source;
+            p.second = source_node;
+            node_keys_.insert(p);
         }
 
-        flights_.push_back(new Flight(a1, a2, a3));
+        Airport* a1 = airports_.find(source)->second;
+        Airport* a2 = airports_.find(target)->second;
+        Airline* a3 = airlines_.find(airline)->second;
+
+        flights_.addEdge(source_node, target_node);
+        flights_.setFlight(target_node, new Flight(a1, a2, a3));
+        target_node++;
     }
     file.close();
+}
+
+void FlightManager::findFlightRoutes(const string& SourceAirportCode, const string& TargetAirportCode) {
+    auto search = node_keys_.find(SourceAirportCode);
+    vector<Flight*> found = flights_.bfsGetVector((*search).second);
+    for (auto f : found) {
+        bool check = f->getTarget()->getCode() == TargetAirportCode;
+        if (check) cout << f->getSource()->getCode() << ' ' << f->getTarget()->getCode() << ' ' << f->getAirline()->getCode() << '\n';
+    }
 }

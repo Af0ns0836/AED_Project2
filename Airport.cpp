@@ -5,11 +5,13 @@
 
 Airport::Airport(): latitude_(0.0), longitude_(0.0) {}
 
+Airport::Airport(string code): code_(std::move(code)) {}
+
 Airport::Airport(string code, string name, string city, string country, float latitude, float longitude):
 code_(std::move(code)), name_(std::move(name)), city_(std::move(city)), country_(std::move(country)),
 latitude_(latitude), longitude_(longitude) {}
 
-string Airport::getCode() {
+string Airport::getCode() const {
     return code_;
 }
 

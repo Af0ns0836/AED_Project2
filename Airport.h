@@ -8,8 +8,9 @@ using namespace std;
 class Airport {
     public:
         Airport();
+        explicit Airport(string code); //for searching only
         Airport(string code, string  name, string  city, string  country, float latitude, float longitude);
-        string getCode();
+        string getCode() const;
         string getName();
         string getCity();
         string getCountry();
