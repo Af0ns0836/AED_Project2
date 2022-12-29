@@ -27,7 +27,7 @@ class Graph {
         void addEdge(int src, int dest, int weight = 1);
         void setFlight(int node, Flight* f);
         void bfsPrint(int v);
-        vector<Flight*> bfsGetVector(int v);
+        list<Flight *> bfsGetList(int v);
         int connectedComponents();
 
     private:

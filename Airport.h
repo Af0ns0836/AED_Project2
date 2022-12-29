@@ -16,7 +16,7 @@ class Airport {
         string getCountry();
         double getLatitude() const;
         double getLongitude() const;
-        double calculateDistance(const Airport& a2) const;
+        double calculateDistance(Airport* a2) const;
 
     private:
         string code_;

@@ -35,10 +35,10 @@ void Graph::bfsPrint(int v) {
     }
 }
 
-vector<Flight*> Graph::bfsGetVector(int v) {
+list<Flight*> Graph::bfsGetList(int v) {
     // initialize all nodes as unvisited
     for (int v = 1; v <= n; v++) {nodes[v].visited = false;}
-    vector<Flight*> vector;
+    list<Flight*> list1;
     queue<int> q; // queue of unvisited nodes
     q.push(v);
     nodes[v].visited = true;
@@ -46,7 +46,7 @@ vector<Flight*> Graph::bfsGetVector(int v) {
     while (!q.empty ()) { // while there are still unprocessed nodes
         int u = q.front();
         q.pop (); // remove first element of q
-        vector.push_back(nodes[u].flight);
+        list1.push_back(nodes[u].flight);
         if (i == 1) {
             pair<string, int> p;
             p.first = nodes[u].flight->getSource()->getCode();
@@ -61,7 +61,7 @@ vector<Flight*> Graph::bfsGetVector(int v) {
         }
         i++;
     }
-    return vector;
+    return list1;
 }
 
 int Graph::connectedComponents() {

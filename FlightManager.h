@@ -2,6 +2,7 @@
 #define AED_PROJECT2_FLIGHTMANAGER_H
 
 
+#include <map>
 #include <unordered_map>
 #include <unordered_set>
 #include <list>
@@ -20,6 +21,9 @@ class FlightManager {
         void readAirlines();
         void readFlights();
         void findFlightRoutes(const string& SourceAirportCode, const string& TargetAirportCode);
+        void findFlightRoutesCity(const string& SourceAirportCity, const string& TargetAirportCity);
+        void sortFlights(list<vector<Flight*>> &l);
+        double getScaleDistance(const vector<Flight*>& v);
 
     private:
         unordered_map<string, Airport*> airports_;
@@ -27,7 +31,8 @@ class FlightManager {
         unordered_set<string> countries_;
         unordered_map<string, Airline*> airlines_;
         unordered_map<string, int> node_keys_;
-        Graph flights_;
+        unordered_map<string, int> node_keys_city_;
+        Graph flights_, flightsCity_;
 };
 
 
