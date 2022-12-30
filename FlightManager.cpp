@@ -8,7 +8,49 @@ FlightManager::FlightManager(): airports_({}), cities_({}), countries_({}), airl
                                 flightsCity_(Graph(63832, false)) {}
 
 void FlightManager::menu() {
-    findFlightRoutesCity("Porto", "Dubai");
+    char userchoice;
+    bool done = false;
+    while(!done){
+        cout << "==================================== \n";
+        cout << "\t\tMENU \t \n";
+        cout << "==================================== \n";
+        cout << "1.Menor numero de voos entre dois locais\n";
+        cout << "2.Informacoes sobre um determinado aeroporto\n";
+        cout << "Introduza o respetivo numero ou 'q/Q' para terminar: ";
+        cin >> userchoice;
+        switch (userchoice) {
+            case 'q': done = true;
+                break;
+            case 'Q': done = true;
+                break;
+            case '1' : {
+                string local1;
+                string local2;
+                char redeVoos;
+                cout << "Indique um aeroporto, cidade ou uma localizacao(coordenadas):  "; cin >> local1; cout << "\n";
+                cout << "Faca o mesmo para o segundo local: "; cin >> local2;
+                cout << "Escolha a rede de voos(companhia aera ou um conjunto de companhias: ", //cin >> redeVoos;
+
+                menuOption1(local1,local2);
+                break;
+
+            }
+            case '2' : {
+                string aeroporto;
+                int info;
+                cout << "Introduza o aeroporto que deseja saber as seguintes informacoes: "; cin >> aeroporto; cout << "\n";
+                cout << "1.Quantos voos existem\n"
+                        "2.Voos das companhias aereas\n"
+                        "3.Os destinos desse aeroporto\n"
+                        "4.Paises diferentes\n"
+                        "5.Quantos aeroportos, cidades ou paises sao atingiveis usando um maximo de Y voos\n"
+                        "Introduza o numero sobre o que deseja saber: "; cin >> info;
+                //menuOption2();
+                break;
+            }
+
+        }
+    }
 }
 
 void FlightManager::readFiles() {
@@ -222,4 +264,8 @@ double FlightManager::getScaleDistance(const vector<Flight*>& v) {
         result += f->getSource()->calculateDistance(f->getTarget());
     }
     return result;
+}
+
+void FlightManager::menuOption1(string local1, string local2) {
+    findFlightRoutesCity(local1, local2);
 }

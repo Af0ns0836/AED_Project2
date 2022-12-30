@@ -24,6 +24,8 @@ class FlightManager {
         void findFlightRoutesCity(const string& SourceAirportCity, const string& TargetAirportCity);
         void sortFlights(list<vector<Flight*>> &l);
         double getScaleDistance(const vector<Flight*>& v);
+        void menuOption1(string local1, string local2);
+        void menuOption2(string);
 
     private:
         unordered_map<string, Airport*> airports_;
