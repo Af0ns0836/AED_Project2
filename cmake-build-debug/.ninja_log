@@ -1,18 +1,8 @@
 # ninja log v5
-3	1236	6939843132989851	CMakeFiles/AED_Project2.dir/main.cpp.obj	a16ba1d6c3545ec0
-1916	2261	6939854958913060	AED_Project2.exe	f3d0dbc92a8ea173
-3	412	6939683664429560	CMakeFiles/AED_Project2.dir/Airport.cpp.obj	5cdbe48f1aaa5c3f
-9	478	6939686893042161	CMakeFiles/AED_Project2.dir/Flight.cpp.obj	95aa905148e7951
-3	1915	6939854955472288	CMakeFiles/AED_Project2.dir/FlightManager.cpp.obj	94e74d45a7505ac6
-11	426	6937861709584192	CMakeFiles/AED_Project2.dir/Airline.cpp.obj	ecc4ddc9e8011603
-19	936	6939686897910716	CMakeFiles/AED_Project2.dir/Graph.cpp.obj	a85d6d692c6c605c
-3	1946	6939855096926192	CMakeFiles/AED_Project2.dir/FlightManager.cpp.obj	94e74d45a7505ac6
-1946	2306	6939855100496988	AED_Project2.exe	f3d0dbc92a8ea173
-3	2002	6939855360068841	CMakeFiles/AED_Project2.dir/FlightManager.cpp.obj	94e74d45a7505ac6
-2003	2343	6939855363449597	AED_Project2.exe	f3d0dbc92a8ea173
-3	2049	6939855510092414	CMakeFiles/AED_Project2.dir/FlightManager.cpp.obj	94e74d45a7505ac6
-2049	2401	6939855513603191	AED_Project2.exe	f3d0dbc92a8ea173
-3	1757	6939856239051256	CMakeFiles/AED_Project2.dir/FlightManager.cpp.obj	94e74d45a7505ac6
-1757	2095	6939856242411188	AED_Project2.exe	f3d0dbc92a8ea173
-3	1471	6939856507433590	CMakeFiles/AED_Project2.dir/FlightManager.cpp.obj	94e74d45a7505ac6
-1471	1783	6939856510550570	AED_Project2.exe	f3d0dbc92a8ea173
+3	853	6943213627977786	CMakeFiles/AED_Project2.dir/main.cpp.obj	a16ba1d6c3545ec0
+11	549	6941363086130449	CMakeFiles/AED_Project2.dir/Airport.cpp.obj	5cdbe48f1aaa5c3f
+1790	2138	6943243495801392	AED_Project2.exe	f3d0dbc92a8ea173
+23	476	6941363085390280	CMakeFiles/AED_Project2.dir/Airline.cpp.obj	ecc4ddc9e8011603
+3	1790	6943243492333692	CMakeFiles/AED_Project2.dir/FlightManager.cpp.obj	94e74d45a7505ac6
+17	423	6941363084870171	CMakeFiles/AED_Project2.dir/Flight.cpp.obj	95aa905148e7951
+35	891	6941363089541241	CMakeFiles/AED_Project2.dir/Graph.cpp.obj	a85d6d692c6c605c

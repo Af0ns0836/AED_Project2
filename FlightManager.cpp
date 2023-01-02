@@ -14,26 +14,56 @@ void FlightManager::menu() {
         cout << "==================================== \n";
         cout << "\t\tMENU \t \n";
         cout << "==================================== \n";
-        cout << "1.Menor numero de voos entre dois locais\n";
+        cout << "1.Pesquisa de voos\n";
         cout << "2.Informacoes sobre um determinado aeroporto\n";
         cout << "Introduza o respetivo numero ou 'q/Q' para terminar: ";
-        cin >> userchoice;
+        cin >> userchoice; cout << '\n';
         switch (userchoice) {
             case 'q': done = true;
                 break;
             case 'Q': done = true;
                 break;
             case '1' : {
+                char userchoice2;
                 string local1;
                 string local2;
-                char redeVoos;
-                cout << "Indique um aeroporto, cidade ou uma localizacao(coordenadas):  "; cin >> local1; cout << "\n";
-                cout << "Faca o mesmo para o segundo local: "; cin >> local2;
-                cout << "Escolha a rede de voos(companhia aera ou um conjunto de companhias: ", //cin >> redeVoos;
-
-                menuOption1(local1,local2);
+                vector<string> airlines;
+                string airline = "...";
+                cout << "1.Aeroporto -> Aeroporto (sigla)\n";
+                cout << "2.Cidade -> Cidade\n";
+                cout << "Escolha o formato de pesquisa que pretende:  "; cin >> userchoice2; cout << "\n";
+                switch (userchoice2) {
+                    case '1': {
+                        cout << "Indique a sigla do aeroporto de origem:  "; cin >> local1; cout << "\n";
+                        cout << "Faca o mesmo para o aeroporto de destino:  "; cin >> local2; cout << '\n';
+                        cout << "Se pretender, indique as siglas de companhias aereas nas quais pretende voar (digite 'q' quando tiver concluido):  ";
+                        while (airline.length() == 3) {
+                            airline.clear();
+                            cin >> airline;
+                            airlines.push_back(airline);
+                        }
+                        airlines.pop_back();
+                        cout << '\n';
+                        findFlightRoutes(local1, local2, airlines);
+                        break;
+                    }
+                    case '2': {
+                        cout << "Indique o nome em ingles da cidade de origem:  "; cin >> local1; cout << "\n";
+                        cout << "Faca o mesmo para a cidade de destino:  "; cin >> local2; cout << '\n';
+                        cout << "Se pretender, indique as siglas de companhias aereas nas quais pretende voar (digite 'q' quando tiver concluido):  ";
+                        while (airline.length() == 3) {
+                            airline.clear();
+                            cin >> airline;
+                            airlines.push_back(airline);
+                        }
+                        airlines.pop_back();
+                        cout << '\n';
+                        findFlightRoutesCity(local1, local2, airlines);
+                        break;
+                    }
+                }
+                cout << "\n\n";
                 break;
-
             }
             case '2' : {
                 string aeroporto;
@@ -178,7 +208,7 @@ void FlightManager::readFlights() {
     file.close();
 }
 
-void FlightManager::findFlightRoutes(const string& SourceAirportCode, const string& TargetAirportCode) {
+void FlightManager::findFlightRoutes(const string& SourceAirportCode, const string& TargetAirportCode, const vector<string>& airlines) {
     auto search = node_keys_.find(SourceAirportCode);
     list<Flight*> found = flights_.bfsGetList((*search).second);
     list<Flight*> copy = found;
@@ -186,6 +216,16 @@ void FlightManager::findFlightRoutes(const string& SourceAirportCode, const stri
         return f->getTarget()->getCode() != TargetAirportCode;
     });
     cout << "Voos diretos:\n";
+    if (!airlines.empty()) {
+        for (Flight* f : found) {
+            for (const auto& a : airlines) {
+                if (a == f->getAirline()->getCode()) {
+                    cout << f->getSource()->getCode() << ' ' << f->getTarget()->getCode() << ' ' << f->getAirline()->getCode() << " / Distance = " << f->getSource()->calculateDistance(f->getTarget()) << " km\n";
+                }
+            }
+        }
+        return;
+    }
     for (Flight* f : found) {
         cout << f->getSource()->getCode() << ' ' << f->getTarget()->getCode() << ' ' << f->getAirline()->getCode() << " / Distance = " << f->getSource()->calculateDistance(f->getTarget()) << " km\n";
     }
@@ -206,6 +246,26 @@ void FlightManager::findFlightRoutes(const string& SourceAirportCode, const stri
             }
         }
         sortFlights(scales);
+        if (!airlines.empty()) {
+            for (const auto& v : scales) {
+                int count = 0;
+                for (auto f : v) {
+                    for (const auto& a : airlines) {
+                        if (a == f->getAirline()->getCode()) {
+                            count++;
+                        }
+                    }
+                    if (count == v.size()) {
+                        vector<Flight*> copy = v;
+                        for (auto f : copy) {
+                            cout << f->getSource()->getCode() << ' ' << f->getTarget()->getCode() << ' ' << f->getAirline()->getCode() << " -> ";
+                        }
+                        cout << " / " << getScaleDistance(v) << " km\n";
+                    }
+                }
+            }
+            return;
+        }
         for (const auto& v : scales) {
             for (auto f : v) {
                 cout << f->getSource()->getCode() << ' ' << f->getTarget()->getCode() << ' ' << f->getAirline()->getCode() << " -> ";
@@ -215,7 +275,7 @@ void FlightManager::findFlightRoutes(const string& SourceAirportCode, const stri
     }
 }
 
-void FlightManager::findFlightRoutesCity(const string& SourceAirportCity, const string& TargetAirportCity) {
+void FlightManager::findFlightRoutesCity(const string& SourceAirportCity, const string& TargetAirportCity, const vector<string>& airlines) {
     auto search = node_keys_city_.find(SourceAirportCity);
     list<Flight*> found = flightsCity_.bfsGetList((*search).second);
     list<Flight*> copy = found;
@@ -223,6 +283,16 @@ void FlightManager::findFlightRoutesCity(const string& SourceAirportCity, const 
         return f->getTarget()->getCity() != TargetAirportCity;
     });
     cout << "Voos diretos:\n";
+    if (!airlines.empty()) {
+        for (Flight* f : found) {
+            for (const auto& a : airlines) {
+                if (a == f->getAirline()->getCode()) {
+                    cout << f->getSource()->getCode() << ' ' << f->getTarget()->getCode() << ' ' << f->getAirline()->getCode() << " / Distance = " << f->getSource()->calculateDistance(f->getTarget()) << " km\n";
+                }
+            }
+        }
+        return;
+    }
     for (Flight* f : found) {
         cout << f->getSource()->getCode() << ' ' << f->getTarget()->getCode() << ' ' << f->getAirline()->getCode() << " / Distance = " << f->getSource()->calculateDistance(f->getTarget()) << " km\n";
     }
@@ -243,6 +313,26 @@ void FlightManager::findFlightRoutesCity(const string& SourceAirportCity, const 
             }
         }
         sortFlights(scales);
+        if (!airlines.empty()) {
+            for (const auto& v : scales) {
+                int count = 0;
+                for (auto f : v) {
+                    for (const auto& a : airlines) {
+                        if (a == f->getAirline()->getCode()) {
+                            count++;
+                        }
+                    }
+                    if (count == v.size()) {
+                        vector<Flight*> copy = v;
+                        for (auto f : copy) {
+                            cout << f->getSource()->getCode() << ' ' << f->getTarget()->getCode() << ' ' << f->getAirline()->getCode() << " -> ";
+                        }
+                        cout << " / " << getScaleDistance(v) << " km\n";
+                    }
+                }
+            }
+            return;
+        }
         for (const auto& v : scales) {
             for (auto f : v) {
                 cout << f->getSource()->getCode() << ' ' << f->getTarget()->getCode() << ' ' << f->getAirline()->getCode() << " -> ";
@@ -266,6 +356,6 @@ double FlightManager::getScaleDistance(const vector<Flight*>& v) {
     return result;
 }
 
-void FlightManager::menuOption1(string local1, string local2) {
-    findFlightRoutesCity(local1, local2);
+void FlightManager::menuOption1(const string& local1, const string& local2, const vector<string>& airlines) {
+    findFlightRoutesCity(local1, local2, airlines);
 }
