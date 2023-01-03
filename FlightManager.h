@@ -22,6 +22,7 @@ class FlightManager {
         void readFlights();
         void findFlightRoutes(const string& SourceAirportCode, const string& TargetAirportCode, const vector<string>& airlines);
         void findFlightRoutesCity(const string& SourceAirportCity, const string& TargetAirportCity, const vector<string>& airlines);
+        void sortDirectFlights(list<Flight*> &l);
         void sortFlights(list<vector<Flight*>> &l);
         double getScaleDistance(const vector<Flight*>& v);
         void menuOption1(const string& local1, const string& local2, const vector<string>& airlines);
