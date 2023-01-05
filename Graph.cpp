@@ -8,32 +8,55 @@ void Graph::addEdge(int src, int dest, int weight) {
     if (!hasDir) {nodes[dest].adj.push_back({src, weight});}
 }
 
-void Graph::bfsPrint(int v) {
-    // initialize all nodes as unvisited
-    for (int v=1; v<=n; v++) nodes[v].visited = false;
-    queue<int> q; // queue of unvisited nodes
-    q.push(v);
-    nodes[v].visited = true;
-    int i = 1;
-    while (!q.empty ()) { // while there are still unprocessed nodes
-        int u = q.front();
-        q.pop (); // remove first element of q
-        cout << u << ":  " << nodes[u].flight->getSource()->getCode() << " " << nodes[u].flight->getTarget()->getCode() << " " << nodes[u].flight->getAirline()->getCode() << "\n"; // show node order
-        if (i == 1) {
-            pair<string, int> p;
-            p.first = nodes[u].flight->getSource()->getCode();
-            p.second = u;
+vector<string> Graph::dfs(int v,string partida,string destino) {
+    cout << v << " "; // show node order
+    nodes[v].visited = true ;
+    scales.push_back(nodes[v].flight->getSource()->getCode());
+    for (auto e : nodes[v]. adj) {
+        string test = nodes[v].flight->getSource()->getCode();
+        if(nodes[v].flight->getSource()->getCode() == destino){
+            return scales;
         }
-        for (auto e : nodes[u]. adj) {
-            int w = e.dest;
-            if (!nodes[w].visited) { // new node!
-                q.push(w);
-                nodes[w].visited = true;
-            }
-        }
-        i++;
+        int w = e.dest;
+        if (!nodes[w].visited)
+            dfs(w,partida,destino);
     }
 }
+/*
+void Graph::DFS(int s)
+{
+    // Initially mark all vertices as not visited
+    vector<bool> visited(V, false);
+
+    // Create a stack for DFS
+    stack<int> stack;
+
+    // Push the current source node.
+    stack.push(s);
+
+    while (!stack.empty())
+    {
+        // Pop a vertex from stack and print it
+        int s = stack.top();
+        stack.pop();
+
+        // Stack may contain same vertex twice. So
+        // we need to print the popped item only
+        // if it is not visited.
+        if (!visited[s])
+        {
+            cout << s << " ";
+            visited[s] = true;
+        }
+
+        // Get all adjacent vertices of the popped vertex s
+        // If a adjacent has not been visited, then push it
+        // to the stack.
+        for (auto i = adj[s].begin(); i != adj[s].end(); ++i)
+            if (!visited[*i])
+                stack.push(*i);
+    }
+}*/
 
 list<Flight*> Graph::bfsGetList(int v) {
     // initialize all nodes as unvisited
@@ -64,19 +87,7 @@ list<Flight*> Graph::bfsGetList(int v) {
     return list1;
 }
 
-int Graph::connectedComponents() {
-    int counter = 0;
-    for (int v = 1; v <= n; v++) {
-        if (!nodes[v].visited) {
-            counter++;
-            cout << "connected component: \n";
-            bfsPrint(v);
-            cout << endl;
-        }
-    }
-    return counter;
-}
-
 void Graph::setFlight(int node, Flight* f) {
     nodes[node].flight = f;
 }
+

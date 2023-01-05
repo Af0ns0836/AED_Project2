@@ -26,11 +26,11 @@ class Graph {
         // Add edge from source to destination with a certain weight
         void addEdge(int src, int dest, int weight = 1);
         void setFlight(int node, Flight* f);
-        void bfsPrint(int v);
+        vector<string> dfs(int v,string partida,string destino);
         list<Flight *> bfsGetList(int v);
-        int connectedComponents();
 
     private:
+        vector<string> scales;
         int n; // Graph size (vertices are numbered from 1 to n)
         bool hasDir; // false: undirect; true: directed
         vector<Node> nodes; // The list of nodes being represented
