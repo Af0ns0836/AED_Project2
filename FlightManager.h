@@ -30,11 +30,12 @@ class FlightManager {
     private:
         unordered_map<string, Airport*> airports_;
         unordered_set<string> cities_;
-        unordered_set<string> countries_;
         unordered_map<string, Airline*> airlines_;
+        unordered_set<string> countries_;
         unordered_map<string, int> node_keys_;
         unordered_map<string, int> node_keys_city_;
-        Graph flights_, flightsCity_;
+        vector<Flight> flights;
+        Graph graphAirports;
 };
 
 

@@ -4,8 +4,7 @@
 #include <vector>
 #include "FlightManager.h"
 
-FlightManager::FlightManager(): airports_({}), cities_({}), countries_({}), airlines_({}), flights_(Graph(63832, false)),
-                                flightsCity_(Graph(63832, false)) {}
+FlightManager::FlightManager(): graphAirports(3019){}
 
 void FlightManager::menu() {
     char userchoice;
@@ -17,6 +16,8 @@ void FlightManager::menu() {
         cout << "1.Pesquisa de voos\n";
         cout << "2.Informacoes sobre um determinado aeroporto\n";
         cout << "Introduza o respetivo numero ou 'q/Q' para terminar: ";
+        vector<string> airlin;
+        findFlightRoutes("OPO","DXB", airlin);
         cin >> userchoice; cout << '\n';
         switch (userchoice) {
             case 'q': done = true;
@@ -263,7 +264,6 @@ void FlightManager::readFlights() {
         source = row[0];
         target = row[1];
         airline = row[2];
-
         if (current_source != source) {
             current_source = source;
             source_node = target_node;
@@ -271,11 +271,9 @@ void FlightManager::readFlights() {
             p.second = source_node;
             node_keys_.insert(p);
         }
-
         Airport* a1 = airports_.find(source)->second;
         Airport* a2 = airports_.find(target)->second;
         Airline* a3 = airlines_.find(airline)->second;
-
         if (current_city != a1->getCity()) {
             current_city = a1->getCity();
             source_node2 = target_node2;
@@ -283,112 +281,12 @@ void FlightManager::readFlights() {
             p2.second = source_node2;
             node_keys_city_.insert(p2);
         }
-
-        flights_.addEdge(source_node, target_node);
-        flights_.setFlight(target_node, new Flight(a1, a2, a3));
+        graphAirports.addEdge(source_node, target_node);
+        graphAirports.setFlight(target_node, new Flight(a1, a2, a3));
         flightsCity_.addEdge(source_node2, target_node2);
         flightsCity_.setFlight(target_node2, new Flight(a1, a2, a3));
         target_node++;
         target_node2++;
     }
     file.close();
-}
-
-void FlightManager::findFlightRoutes(const string& SourceAirportCode, const string& TargetAirportCode, const vector<string>& airlines) {
-    auto search = node_keys_.find(SourceAirportCode);
-     vector<string> escalas;
-     escalas = flights_.dfs((*search).second,SourceAirportCode,TargetAirportCode);
-    //cout << "Escalas: " << escalas.size();
-    for(auto airport : escalas){
-        cout << airport;
-    }
-}
-
-void FlightManager::findFlightRoutesCity(const string& SourceAirportCity, const string& TargetAirportCity, const vector<string>& airlines) {
-    auto search = node_keys_city_.find(SourceAirportCity);
-    list<Flight*> found = flightsCity_.bfsGetList((*search).second);
-    list<Flight*> copy = found;
-    found.remove_if([TargetAirportCity](Flight* f){
-        return f->getTarget()->getCity() != TargetAirportCity;
-    });
-    sortDirectFlights(found);
-    if (found.empty()) {
-        list<vector<Flight*>> scales;
-        cout << "\nVoos com 1 escala:\n";
-        for (Flight* f : copy) {
-            auto search2 = node_keys_city_.find(f->getTarget()->getCity());
-            list<Flight*> found2 = flightsCity_.bfsGetList((*search2).second);
-            found2.remove_if([TargetAirportCity](Flight* f){
-                return f->getTarget()->getCity() != TargetAirportCity;
-            });
-            for (Flight* f2 : found2) {
-                vector<Flight*> v;
-                v.push_back(f);
-                v.push_back(f2);
-                scales.push_back(v);
-            }
-        }
-        sortFlights(scales);
-        if (!airlines.empty()) {
-            for (const auto& v : scales) {
-                int count = 0;
-                for (auto f : v) {
-                    for (const auto& a : airlines) {
-                        if (a == f->getAirline()->getCode()) {
-                            count++;
-                        }
-                    }
-                    if (count == v.size()) {
-                        vector<Flight*> copy = v;
-                        for (auto f : copy) {
-                            cout << f->getSource()->getCode() << ' ' << f->getTarget()->getCode() << ' ' << f->getAirline()->getCode() << " -> ";
-                        }
-                        cout << " / " << getScaleDistance(v) << " km\n";
-                    }
-                }
-            }
-            return;
-        }
-        for (const auto& v : scales) {
-            for (auto f : v) {
-                cout << f->getSource()->getCode() << ' ' << f->getTarget()->getCode() << ' ' << f->getAirline()->getCode() << " -> ";
-            }
-            cout << " / " << getScaleDistance(v) << " km\n";
-        }
-    } else {
-        cout << "\nVoos diretos:\n";
-        if (!airlines.empty()) {
-            for (Flight* f : found) {
-                for (const auto& a : airlines) {
-                    if (a == f->getAirline()->getCode()) {
-                        cout << f->getSource()->getCode() << ' ' << f->getTarget()->getCode() << ' ' << f->getAirline()->getCode() << " / Distance = " << f->getSource()->calculateDistance(f->getTarget()) << " km\n";
-                    }
-                }
-            }
-        } else {
-            for (Flight* f : found) {
-                cout << f->getSource()->getCode() << ' ' << f->getTarget()->getCode() << ' ' << f->getAirline()->getCode() << " / Distance = " << f->getSource()->calculateDistance(f->getTarget()) << " km\n";
-            }
-        }
-    }
-}
-
-void FlightManager::sortDirectFlights(list<Flight*> &l) {
-    l.sort([](Flight *v1, Flight* v2){
-        return v1->getSource()->calculateDistance(v1->getTarget()) < v2->getSource()->calculateDistance(v2->getTarget());
-    });
-}
-
-void FlightManager::sortFlights(list<vector<Flight*>> &l) {
-    l.sort([this](const vector<Flight*>& v1, const vector<Flight*>& v2){
-        return getScaleDistance(v1) < getScaleDistance(v2);
-    });
-}
-
-double FlightManager::getScaleDistance(const vector<Flight*>& v) {
-    double result = 0;
-    for (auto f : v) {
-        result += f->getSource()->calculateDistance(f->getTarget());
-    }
-    return result;
 }
