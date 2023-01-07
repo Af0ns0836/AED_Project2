@@ -11,7 +11,7 @@ class Flight {
     public:
         Flight();
         Flight(Airport* source, Airport* target, Airline* airline);
-        Airport* getSource();
+        Airport * getSource();
         Airport* getTarget();
         Airline* getAirline();
 

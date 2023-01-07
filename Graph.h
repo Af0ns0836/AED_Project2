@@ -8,23 +8,13 @@
 #include <cmath>
 #include <set>
 #include <queue>
+#include "Airport.h"
+#include "Flight.h"
+
 using namespace std;
 
 #define INF (INT_MAX/2)
-    struct Flight{
-        /**
-        * @var departure - departure airport code
-        */
-        string departure;
-        /**
-        * @var arrival - arrival airport code
-        */
-        string arrival;
-        /**
-        * @var airline - airline code
-        */
-        string airline;
-    };
+
     struct CustomWeight {
         /**
          * @var km - a double which contains the distance between current node and departure
@@ -73,32 +63,10 @@ using namespace std;
  * Struct that represents a Airport
  */
     struct Node {
-
         /**
-         * @var code - a string that represents airport code
-         */
-        string code;
-
-        /**
-         * @var name - a string that represents airport name
-         */
-        string name;
-
-        /**
-         * @var city - a string that represents the airports city
-         */
-        string city;
-
-        /**
-         * @var country - a string that represents the airports country
-         */
-        string country;
-
-        /**
-         * @var coordinate - a Coordinate struct type that represents airport coordinate
-         */
-        Coordinate coordinate;
-
+        * @var airport - contem todas as informacoes sobre o aeroporto
+        */
+       Airport airport;
         /**
          * @var available - a boolean attribute that represents the current state of airport
          */
@@ -147,6 +115,7 @@ using namespace std;
          * @var n - number of nodes/airports
          */
         int n = 3019;
+
         /**
          * Function that returns the distance between two points with coordinates passed by parameter
          * Time Complexity: O(1)

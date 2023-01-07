@@ -4,7 +4,7 @@ Flight::Flight() = default;
 
 Flight::Flight(Airport *source, Airport *target, Airline *airline): source_(source), target_(target), airline_(airline) {}
 
-Airport* Flight::getSource() {
+Airport * Flight::getSource(){
     return source_;
 }
 

@@ -27,10 +27,10 @@ void Graph::addNode(const Node &node, int index) {
 
 void Graph::addEdge(int departure, int arrival, Flight &flight) {
     if (departure < 1 || arrival > nodes.size() || departure > nodes.size() || arrival < 1) return;
-    nodes[departure].adjacent.push_back({arrival, computeDistance(nodes[departure].coordinate.latitude,
-                                                                  nodes[departure].coordinate.longitude,
-                                                                  nodes[arrival].coordinate.latitude,
-                                                                  nodes[arrival].coordinate.longitude), flight});
+    nodes[departure].adjacent.push_back({arrival, computeDistance(nodes[departure].airport.getLatitude(),
+                                                                  nodes[departure].airport.getLongitude(),
+                                                                  nodes[arrival].airport.getLatitude(),
+                                                                  nodes[arrival].airport.getLongitude()), flight});
 }
 
 void Graph::BFS(int departure) {
@@ -39,7 +39,7 @@ void Graph::BFS(int departure) {
         nodes[i].visited = false;
         nodes[i].distance = 0;
         nodes[i].parent = i;
-        nodes[i].currentFlight={" "," "," "};
+        nodes[i].currentFlight = {" "," "," "};// isto seria o voo atual com a source, target e airline por ordem
         nodes[i].customWeight.km = 0;
     }
     if (!nodes[departure].available) {
@@ -50,7 +50,7 @@ void Graph::BFS(int departure) {
     visitedNodes.push(departure);
     nodes[departure].visited = true;
     nodes[departure].distance = 0;
-    nodes[departure].currentFlight={" "," "," "};
+    nodes[departure].currentFlight={" "," "," "}; // isto seria o voo atual com a source, target e airline por ordem
     while (!visitedNodes.empty()) {
 
         int node = visitedNodes.front();
@@ -100,7 +100,7 @@ Node Graph::getNode(const Coordinate &coordinate) {
     Node result;
     double distance = INT_MAX;
     for (int i = 1 ; i < nodes.size() ; i++) {
-        double dis = computeDistance(nodes[i].coordinate.latitude, nodes[i].coordinate.longitude,
+        double dis = computeDistance(nodes[i].airport.getLatitude(), nodes[i].airport.getLongitude(),
                                      coordinate.latitude, coordinate.longitude);
         if (distance > dis) {
             result = nodes[i];
@@ -114,7 +114,7 @@ vector<Node> Graph::getNode(const string &city) {
     vector<Node> result;
     for (int i = 1 ; i < nodes.size() ; i++) {
 
-        if (nodes[i].city == city) {
+        if (nodes[i].airport.getCity() == city) {
             result.push_back(nodes[i]);
         }
     }
@@ -128,20 +128,20 @@ void Graph::disableAirport(int airport) {
 }
 void Graph::disableFlight(Flight &flight) {
     for (Node &node : nodes) {
-        for (const Edge &edge : node.adjacent) {
-            if (edge.flight.departure == flight.departure && edge.flight.arrival == flight.arrival && edge.flight.airline == flight.airline) node.available = false;
+        for (Edge &edge : node.adjacent) {
+            if (edge.flight.getSource() == flight.getSource() && edge.flight.getTarget() == flight.getTarget() && edge.flight.getAirline() == flight.getAirline()) node.available = false;
         }
     }
 }
 void Graph::disableAirline(const string &airline) {
     for (Node &node: nodes) {
-        if (node.currentFlight.airline == airline) node.available = false;
-    }
+        if (node.currentFlight.getAirline()->getName() == airline) node.available = false;
+    }// aqui nao sei bem se seria o nome mesmo ou o codigo mas pronto
 }
 void Graph::activateAirline(const string &airline) {
     for (Node &node : nodes) {
-        if (node.currentFlight.airline == airline) node.available = true;
-    }
+        if (node.currentFlight.getAirline()->getName() == airline) node.available = true;
+    }// aqui nao sei bem se seria o nome mesmo ou o codigo mas pronto
 }
 void Graph::activateAllAirlines() {
     for (Node &node : nodes) {
@@ -160,7 +160,7 @@ int Graph::countFlightsSourceAirport(string airport) {
     int count = -1;
     for(int i = 1; i <= n; i++)
     {
-        if(nodes[i].code == airport)
+        if(nodes[i].airport.getCode() == airport)
         {
             count = nodes[i].adjacent.size();
         }
@@ -171,12 +171,12 @@ int Graph::countAirlinesAirport(string airport, string airline){
     int count = 0;
     for(int i = 1; i <= n; i++)
     {
-        if(nodes[i].code == airport)
+        if(nodes[i].airport.getCode() == airport)
         {
             for(auto edge : nodes[i].adjacent)
             {
-                if (edge.flight.airline == airline)
-                {
+                if (edge.flight.getAirline()->getCode() == airline)
+                {//mesma coisa deve ser o codigo que isto recebe, idk
                     count++;
                 }
             }
@@ -188,10 +188,10 @@ int Graph::countTargetsAirport(string airport){
     set<string> visited;
     for(int i = 1; i <= n; i++){
 
-        if(nodes[i].code == airport){
+        if(nodes[i].airport.getCode() == airport){
 
             for(auto edge : nodes[i].adjacent) {
-                visited.insert(edge.flight.arrival);
+                visited.insert(edge.flight.getTarget()->getCode());
                 activateAirport(edge.dest);
             }
         }
@@ -202,10 +202,10 @@ set<string> Graph::retTargetsAirport(string airport){
     set<string> visited;
     for(int i = 1; i <= n; i++)
     {
-        if(nodes[i].code == airport)
+        if(nodes[i].airport.getCode() == airport)
         {
             for(auto edge : nodes[i].adjacent){
-                visited.insert(edge.flight.arrival);
+                visited.insert(edge.flight.getTarget()->getCode());
                 activateAirport(edge.dest);
             }
         }
@@ -216,10 +216,10 @@ int Graph::countCityTargetsAirport(string airport){
     set<string> visited;
     for(int i = 1; i <= n; i++)
     {
-        if(nodes[i].code == airport)
+        if(nodes[i].airport.getCode() == airport)
         {
             for(auto edge: nodes[i].adjacent){
-                visited.insert(nodes[edge.dest].city);
+                visited.insert(nodes[edge.dest].airport.getCity());
             }
         }
     }
@@ -229,10 +229,10 @@ int Graph::countCountryTargetsAirport(string airport){
     set<string> visited;
     for(int i = 1; i <= n; i++)
     {
-        if(nodes[i].code == airport)
+        if(nodes[i].airport.getCode() == airport)
         {
             for(auto edge: nodes[i].adjacent){
-                visited.insert(nodes[edge.dest].country);
+                visited.insert(nodes[edge.dest].airport.getCountry());
             }
         }
     }
@@ -242,7 +242,7 @@ int Graph::airportsReached(string airport, int flightsNum){
 
     for(int i = 1; i<=n ; i++)
     {
-        if (nodes[i].code == airport)
+        if (nodes[i].airport.getCode() == airport)
         {
             activateAirport(i);
         }
@@ -277,7 +277,7 @@ int Graph::citiesReached(string airport, int flightsNum){
 
     for(Node node: nodes){
         if(node.available) {
-            visited.insert(node.city);
+            visited.insert(node.airport.getCity());
         }
     }
     return visited.size();
@@ -290,7 +290,7 @@ int Graph::countriesReached(string airport, int flightsNum){
 
     for(Node node: nodes){
         if(node.available) {
-            visited.insert(node.country);
+            visited.insert(node.airport.getCountry());
         }
     }
     return visited.size();
