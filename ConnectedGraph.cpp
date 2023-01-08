@@ -1,5 +1,6 @@
 #include "ConnectedGraph.h"
 
+
 ConnectedGraph::ConnectedGraph(int nodes) : nodes(nodes + 1) {}
 
 double ConnectedGraph::calculateDistance(double lat1, double lon1, double lat2, double lon2) {
@@ -26,7 +27,17 @@ void ConnectedGraph::addEdge(int departure, int arrival, Flight flight) {
                                                                   nodes[arrival].airport.getLongitude()), flight});
 }
 
-void ConnectedGraph::BFS(int departure) {
+Node ConnectedGraph::getNode(int index) {
+    return nodes[index];
+}
+
+void ConnectedGraph::sortEdges(int index) {
+    nodes[index].adjacent.sort([](Edge e1, Edge e2){
+        return e1.weight < e2.weight;
+    });
+}
+
+void ConnectedGraph::BFS(int departure, const vector<string>& airlines) {
     for (int i = 1 ; i < nodes.size() ; i++) {
         nodes[i].visited = false;
         nodes[i].distance = 0;
@@ -46,6 +57,18 @@ void ConnectedGraph::BFS(int departure) {
         for (const Edge &edge : nodes[node].adjacent) {
             int n = edge.dest;
             double w = edge.weight;
+            Flight f = edge.flight;
+
+            if (!airlines.empty()) {
+                bool check = false;
+                for (const string& s: airlines) {
+                    if (s != f.getAirline()->getCode()) {
+                        continue;
+                    } else {check = true;
+                        break;}
+                }
+                if (!check) {continue;}
+            }
 
             if (!nodes[n].visited) {
                 visitedNodes.push(n);
@@ -58,10 +81,10 @@ void ConnectedGraph::BFS(int departure) {
         }
     }
 }
-vector<Node> ConnectedGraph::makePath(int departure, int arrival) {
+vector<Node> ConnectedGraph::makePath(int departure, int arrival, const vector<string>& airlines) {
     vector<Node> path = {};
 
-    BFS(departure);
+    BFS(departure, airlines);
 
     if (nodes[arrival].km == INF) return path;
 

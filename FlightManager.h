@@ -21,7 +21,7 @@ class FlightManager {
         void readAirports();
         void readAirlines();
         void readFlights();
-        void showPath(const string &local1, const string &local2);
+        void showPath(const string &local1, const string &local2, const vector<string>& airlines);
 
     private:
         unordered_map<string, int> airports; // mapa para o grafo connectado

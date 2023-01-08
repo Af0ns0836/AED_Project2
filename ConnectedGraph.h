@@ -39,8 +39,10 @@ using namespace std;
         explicit ConnectedGraph(int nodes);
         void addNode(const Node &node, int index);
         void addEdge(int departure, int arrival, Flight flight);
-        void BFS(int departure);
-        vector<Node> makePath(int departure, int arrival);
+        Node getNode(int index);
+        void sortEdges(int index);
+        void BFS(int departure, const vector<string>& airlines);
+        vector<Node> makePath(int departure, int arrival, const vector<string>& airlines);
         double calculateDistance(double lat1, double lon1, double lat2, double lon2);
     };
 
