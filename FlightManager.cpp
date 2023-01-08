@@ -4,7 +4,8 @@
 #include <vector>
 #include "FlightManager.h"
 
-FlightManager::FlightManager(): graphAirports(3019){}
+FlightManager::FlightManager(): graphAirports(3019),airports_({}), cities_({}), countries_({}), airlines_({}), flights_(Graph(63832, false)),
+                                flightsCity_(Graph(63832, false)){}
 
 void FlightManager::menu() {
     char userchoice;
@@ -16,8 +17,7 @@ void FlightManager::menu() {
         cout << "1.Pesquisa de voos\n";
         cout << "2.Informacoes sobre um determinado aeroporto\n";
         cout << "Introduza o respetivo numero ou 'q/Q' para terminar: ";
-        vector<string> airlin;
-        findFlightRoutes("OPO","DXB", airlin);
+
         cin >> userchoice; cout << '\n';
         switch (userchoice) {
             case 'q': done = true;
@@ -45,7 +45,10 @@ void FlightManager::menu() {
                         }
                         airlines.pop_back();
                         cout << '\n';
-                        findFlightRoutes(local1, local2, airlines);
+                        //findFlightRoutes(local1, local2, airlines);
+                        showPath(local1,local2);
+
+
                         break;
                     }
                     case '2': {
@@ -61,7 +64,7 @@ void FlightManager::menu() {
                         }
                         airlines.pop_back();
                         cout << '\n';
-                        findFlightRoutesCity(local1, local2, airlines);
+                        //findFlightRoutesCity(local1, local2, airlines);
                         break;
                     }
                 }
@@ -184,6 +187,7 @@ void FlightManager::readAirports() {
     file.ignore(150, '\n');
     vector<string> row;
     string line, word;
+    int i = 1;
     while (file.peek() != EOF) {
         row.clear();
         string code, name, city, country, latitude, longitude;
@@ -198,12 +202,19 @@ void FlightManager::readAirports() {
         country = row[3];
         latitude = row[4];
         longitude = row[5];
-        pair<string, Airport*> p;
+        pair<string, int> p; // pair com codigo e indice no grafo connectado
+        pair<string, Airport*> p2; // pair com codigo e aeroporto para o outro grafo
         p.first = code;
-        p.second = new Airport(code, name, city, country, stod(latitude), stod(longitude));
-        airports_.insert(p);
+        p.second = i;
+        p2.first = code;
+        p2.second = new Airport(code, name, city, country, stod(latitude), stod(longitude));
+        Node airport {*new Airport(code, name, city, country, stod(latitude), stod(longitude)),true,{}};
+        graphAirports.addNode(airport,i);
+        airports.insert(p);
+        airports_.insert(p2);
         cities_.insert(city);
         countries_.insert(country);
+        i++;
     }
     file.close();
 }
@@ -281,12 +292,42 @@ void FlightManager::readFlights() {
             p2.second = source_node2;
             node_keys_city_.insert(p2);
         }
-        graphAirports.addEdge(source_node, target_node);
-        graphAirports.setFlight(target_node, new Flight(a1, a2, a3));
+        graphAirports.addEdge(airports[source],airports[target],Flight(a1, a2, a3));
+        flights_.addEdge(source_node, target_node);
+        flights_.setFlight(target_node, new Flight(a1, a2, a3));
         flightsCity_.addEdge(source_node2, target_node2);
         flightsCity_.setFlight(target_node2, new Flight(a1, a2, a3));
         target_node++;
         target_node2++;
     }
     file.close();
+}
+
+void FlightManager::showPath(const string &local1, const string &local2) {
+    //auto itr1 = airports_.find(local1);
+    //auto itr2 = airports_.find(local2);
+    auto search1 = airports.find(local1);
+    auto search2 = airports.find(local2);
+
+    if (search1 == airports.end() || search2 == airports.end()){
+        cout << "Aeroporto Invalido!" << endl;
+        return;
+    }
+
+    vector<Node> nodes = graphAirports.makePath(search1->second,search2->second);
+
+    double lastDistance = 0;
+    cout << "Do aeroporto " << nodes[nodes.size()-1].airport.getCode() << " (" << nodes[nodes.size()-1].airport.getName() << "), cidade " << nodes[nodes.size()-1].airport.getCity() << ", pais " << nodes[nodes.size()-1].airport.getCountry() << endl;
+    for (size_t i = nodes.size() - 2 ; i != -1 ; i--) {
+        string flight = nodes[i].currentFlight.getAirline()->getName() == "Foot" ? " km a pe" : " km ";
+        cout << "ao aeroporto " << nodes[i].airport.getCode() << " (" << nodes[i].airport.getCity() << "), cidade " << nodes[i].airport.getCity() << ", pais " << nodes[nodes.size()-1].airport.getCountry() << " com um percurso de " <<
+             nodes[i].customWeight.km - lastDistance << flight << endl;
+        cout << endl;
+        cout << "Voo recomendado: " << endl;
+        cout << nodes[i].currentFlight.getSource()->getCode() << ", " << nodes[i].currentFlight.getTarget()->getCode() << ", " << nodes[i].currentFlight.getAirline()->getName() << endl;
+
+        lastDistance = nodes[i].customWeight.km;
+    }
+    cout << endl;
+
 }

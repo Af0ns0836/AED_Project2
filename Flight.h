@@ -14,11 +14,17 @@ class Flight {
         Airport * getSource();
         Airport* getTarget();
         Airline* getAirline();
+        void setSource(Airport *source);
+        void setTarget(Airport *target);
+        void setAirline(Airline *airline);
+
+
 
     private:
         Airport* source_;
         Airport* target_;
         Airline* airline_;
+
 };
 
 

@@ -15,3 +15,16 @@ Airport* Flight::getTarget() {
 Airline* Flight::getAirline() {
     return airline_;
 }
+
+void Flight::setSource(Airport *source) {
+    source_ = source;
+}
+
+void Flight::setAirline(Airline *airline) {
+    airline_ = airline;
+}
+
+void Flight::setTarget(Airport *target) {
+    target_ = target;
+}
+
