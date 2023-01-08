@@ -5,6 +5,11 @@
 #include <string>
 using namespace std;
 
+//! Airport class
+/*!
+   A class that contains everthing about an airport, the code, name, city, country, and its coordinates
+ */
+
 class Airport {
     public:
         Airport();
@@ -16,6 +21,11 @@ class Airport {
         string getCountry();
         double getLatitude() const;
         double getLongitude() const;
+        //! Function that calculates de distance
+        /*!
+          It receives an airport and calculate the distance beetween the two
+          Time complexity - O(1);
+        */
         double calculateDistance(Airport* a2) const;
 
     private:

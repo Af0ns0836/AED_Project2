@@ -1,0 +1,13 @@
+digraph "ConnectedGraph::makePath"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [label="ConnectedGraph::makePath",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Function that creates a path between the two input locations."];
+  Node1 -> Node2 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="FlightManager::showPath",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_flight_manager.html#a16130d19dc9af06f270e4f6f86a35efa",tooltip="Function that reads the airlines data and populates the graph graphAirports, flights_ and flightsCity..."];
+  Node2 -> Node3 [dir="back",color="steelblue1",style="solid"];
+  Node3 [label="FlightManager::menu",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_flight_manager.html#a0b739f184506213f4f67867b650d9598",tooltip="Menu function."];
+}

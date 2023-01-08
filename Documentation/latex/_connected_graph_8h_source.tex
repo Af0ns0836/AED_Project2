@@ -1,0 +1,58 @@
+\hypertarget{_connected_graph_8h_source}{}\doxysection{Connected\+Graph.\+h}
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 \textcolor{preprocessor}{\#ifndef AED\_PROJECT2\_CONNECTEDGRAPH\_H}}
+\DoxyCodeLine{2 \textcolor{preprocessor}{\#define AED\_PROJECT2\_CONNECTEDGRAPH\_H}}
+\DoxyCodeLine{3 }
+\DoxyCodeLine{4 \textcolor{preprocessor}{\#include <list>}}
+\DoxyCodeLine{5 \textcolor{preprocessor}{\#include <vector>}}
+\DoxyCodeLine{6 \textcolor{preprocessor}{\#include <string>}}
+\DoxyCodeLine{7 \textcolor{preprocessor}{\#include <iostream>}}
+\DoxyCodeLine{8 \textcolor{preprocessor}{\#include <cmath>}}
+\DoxyCodeLine{9 \textcolor{preprocessor}{\#include <set>}}
+\DoxyCodeLine{10 \textcolor{preprocessor}{\#include <queue>}}
+\DoxyCodeLine{11 \textcolor{preprocessor}{\#include "{}Airport.h"{}}}
+\DoxyCodeLine{12 \textcolor{preprocessor}{\#include "{}Flight.h"{}}}
+\DoxyCodeLine{13 }
+\DoxyCodeLine{14 \textcolor{keyword}{using namespace }std;}
+\DoxyCodeLine{15 }
+\DoxyCodeLine{16 \textcolor{preprocessor}{\#define INF (INT\_MAX/2)}}
+\DoxyCodeLine{17 }
+\DoxyCodeLine{18     \textcolor{keyword}{struct }\mbox{\hyperlink{struct_edge}{Edge}} \{}
+\DoxyCodeLine{19         \textcolor{keywordtype}{int} dest;}
+\DoxyCodeLine{20         \textcolor{keywordtype}{double} weight;}
+\DoxyCodeLine{21         \mbox{\hyperlink{class_flight}{Flight}} flight;}
+\DoxyCodeLine{22     \};}
+\DoxyCodeLine{23 }
+\DoxyCodeLine{24 }
+\DoxyCodeLine{25     \textcolor{keyword}{struct }\mbox{\hyperlink{struct_node}{Node}} \{}
+\DoxyCodeLine{26         \mbox{\hyperlink{class_airport}{Airport}} airport;}
+\DoxyCodeLine{27         list<Edge> adjacent;}
+\DoxyCodeLine{28         \textcolor{keywordtype}{double} km;}
+\DoxyCodeLine{29         \textcolor{keywordtype}{bool} visited;}
+\DoxyCodeLine{30         \textcolor{keywordtype}{int} parent;}
+\DoxyCodeLine{31         \mbox{\hyperlink{class_flight}{Flight}} currentFlight;}
+\DoxyCodeLine{32         \textcolor{keywordtype}{int} distance;}
+\DoxyCodeLine{33     \};}
+\DoxyCodeLine{34 }
+\DoxyCodeLine{36 }
+\DoxyCodeLine{47     \textcolor{keyword}{class }\mbox{\hyperlink{class_connected_graph}{ConnectedGraph}} \{}
+\DoxyCodeLine{48         vector<Node> nodes;}
+\DoxyCodeLine{49         \textcolor{keywordtype}{int} n = 3019;}
+\DoxyCodeLine{50 }
+\DoxyCodeLine{51     \textcolor{keyword}{public}:}
+\DoxyCodeLine{52         \textcolor{keyword}{explicit} \mbox{\hyperlink{class_connected_graph}{ConnectedGraph}}(\textcolor{keywordtype}{int} nodes);}
+\DoxyCodeLine{53         \textcolor{keywordtype}{void} addNode(\textcolor{keyword}{const} \mbox{\hyperlink{struct_node}{Node}} \&node, \textcolor{keywordtype}{int} index);}
+\DoxyCodeLine{54         \textcolor{keywordtype}{void} addEdge(\textcolor{keywordtype}{int} departure, \textcolor{keywordtype}{int} arrival, \mbox{\hyperlink{class_flight}{Flight}} flight);}
+\DoxyCodeLine{56         \textcolor{keywordtype}{void} \mbox{\hyperlink{class_connected_graph_a44120e4d63b9295ed31636c1324f07ce}{sortEdges}}(\textcolor{keywordtype}{int} index);}
+\DoxyCodeLine{58 }
+\DoxyCodeLine{63         \textcolor{keywordtype}{void} \mbox{\hyperlink{class_connected_graph_a2ba6f4859fbef9a899ab38fced1a9e3b}{BFS}}(\textcolor{keywordtype}{int} departure, \textcolor{keyword}{const} vector<string>\& airlines);}
+\DoxyCodeLine{65 }
+\DoxyCodeLine{72         vector<Node> \mbox{\hyperlink{class_connected_graph_a4be05c9ca029c9e767417b82d9cb22ec}{makePath}}(\textcolor{keywordtype}{int} departure, \textcolor{keywordtype}{int} arrival, \textcolor{keyword}{const} vector<string>\& airlines);}
+\DoxyCodeLine{79         \textcolor{keywordtype}{double} \mbox{\hyperlink{class_connected_graph_abdfbfe531fab7629311127e302242d92}{calculateDistance}}(\textcolor{keywordtype}{double} lat1, \textcolor{keywordtype}{double} lon1, \textcolor{keywordtype}{double} lat2, \textcolor{keywordtype}{double} lon2); }
+\DoxyCodeLine{80     \};}
+\DoxyCodeLine{81 }
+\DoxyCodeLine{82 }
+\DoxyCodeLine{83 \textcolor{preprocessor}{\#endif}}
+
+\end{DoxyCode}

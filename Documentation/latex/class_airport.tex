@@ -1,0 +1,64 @@
+\hypertarget{class_airport}{}\doxysection{Airport Class Reference}
+\label{class_airport}\index{Airport@{Airport}}
+
+
+\mbox{\hyperlink{class_airport}{Airport}} class.  
+
+
+
+
+{\ttfamily \#include $<$Airport.\+h$>$}
+
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_airport_a757348fc0aa92cab3c3b2c4654f10580}\label{class_airport_a757348fc0aa92cab3c3b2c4654f10580}} 
+{\bfseries Airport} (string code)
+\item 
+\mbox{\Hypertarget{class_airport_af5a04527149a7da975c8382bd9ffedc7}\label{class_airport_af5a04527149a7da975c8382bd9ffedc7}} 
+{\bfseries Airport} (string code, string name, string city, string country, float latitude, float longitude)
+\item 
+\mbox{\Hypertarget{class_airport_ad1369e1d47c87e205f1718b853a66d54}\label{class_airport_ad1369e1d47c87e205f1718b853a66d54}} 
+string {\bfseries get\+Code} () const
+\item 
+\mbox{\Hypertarget{class_airport_a939b886a8a9675e22418f2c9a490bdcb}\label{class_airport_a939b886a8a9675e22418f2c9a490bdcb}} 
+string {\bfseries get\+Name} ()
+\item 
+\mbox{\Hypertarget{class_airport_a7dc058132336ea1b211323730fc44148}\label{class_airport_a7dc058132336ea1b211323730fc44148}} 
+string {\bfseries get\+City} ()
+\item 
+\mbox{\Hypertarget{class_airport_a82e555b62c9af6c729a6d3c7fb8ae8c4}\label{class_airport_a82e555b62c9af6c729a6d3c7fb8ae8c4}} 
+string {\bfseries get\+Country} ()
+\item 
+\mbox{\Hypertarget{class_airport_aed71ba4592b2a1401eb182931f2d3f06}\label{class_airport_aed71ba4592b2a1401eb182931f2d3f06}} 
+double {\bfseries get\+Latitude} () const
+\item 
+\mbox{\Hypertarget{class_airport_ad8cd931389b14d63e5933a1658b653a3}\label{class_airport_ad8cd931389b14d63e5933a1658b653a3}} 
+double {\bfseries get\+Longitude} () const
+\item 
+double \mbox{\hyperlink{class_airport_ad8023321ac1eb2713b89d4ced7ad7425}{calculate\+Distance}} (\mbox{\hyperlink{class_airport}{Airport}} $\ast$a2) const
+\begin{DoxyCompactList}\small\item\em Function that calculates de distance. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+\mbox{\hyperlink{class_airport}{Airport}} class. 
+
+A class that contains everthing about an airport, the code, name, city, country, and its coordinates 
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_airport_ad8023321ac1eb2713b89d4ced7ad7425}\label{class_airport_ad8023321ac1eb2713b89d4ced7ad7425}} 
+\index{Airport@{Airport}!calculateDistance@{calculateDistance}}
+\index{calculateDistance@{calculateDistance}!Airport@{Airport}}
+\doxysubsubsection{\texorpdfstring{calculateDistance()}{calculateDistance()}}
+{\footnotesize\ttfamily double Airport\+::calculate\+Distance (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{class_airport}{Airport}} $\ast$}]{a2 }\end{DoxyParamCaption}) const}
+
+
+
+Function that calculates de distance. 
+
+It receives an airport and calculate the distance beetween the two Time complexity -\/ O(1); 
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+Airport.\+h\item 
+Airport.\+cpp\end{DoxyCompactItemize}

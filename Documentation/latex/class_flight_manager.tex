@@ -1,0 +1,68 @@
+\hypertarget{class_flight_manager}{}\doxysection{Flight\+Manager Class Reference}
+\label{class_flight_manager}\index{FlightManager@{FlightManager}}
+
+
+Class that manages everything.  
+
+
+
+
+{\ttfamily \#include $<$Flight\+Manager.\+h$>$}
+
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{class_flight_manager_a0b739f184506213f4f67867b650d9598}{menu}} ()
+\begin{DoxyCompactList}\small\item\em Menu function. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_flight_manager_a44ad618e935693701a79e5a67361ef20}{read\+Files}} ()
+\begin{DoxyCompactList}\small\item\em Function that calls all other read functions. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_flight_manager_ac31743c6909a58d527589f8116e3348a}\label{class_flight_manager_ac31743c6909a58d527589f8116e3348a}} 
+void {\bfseries read\+Airports} ()
+\begin{DoxyCompactList}\small\item\em Function that calls all other read functions. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_flight_manager_a765afb5e687c2803e2ce7d8575621c8e}\label{class_flight_manager_a765afb5e687c2803e2ce7d8575621c8e}} 
+void {\bfseries read\+Airlines} ()
+\begin{DoxyCompactList}\small\item\em Function that reads the airport data, populates the graph graph\+Airports, the maps and sets. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_flight_manager_aaaeb472f3987468247761e460e82cae9}\label{class_flight_manager_aaaeb472f3987468247761e460e82cae9}} 
+void {\bfseries read\+Flights} ()
+\begin{DoxyCompactList}\small\item\em Function that reads the airlines data and inserts on the airlines\+\_\+ unordered map. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_flight_manager_a16130d19dc9af06f270e4f6f86a35efa}\label{class_flight_manager_a16130d19dc9af06f270e4f6f86a35efa}} 
+void {\bfseries show\+Path} (const string \&local1, const string \&local2, const vector$<$ string $>$ \&airlines)
+\begin{DoxyCompactList}\small\item\em Function that reads the airlines data and populates the graph graph\+Airports, flights\+\_\+ and flights\+City\+\_\+. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Class that manages everything. 
+
+This class reads and inserts the data into the specific data structures and also displays the menu 
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_flight_manager_a0b739f184506213f4f67867b650d9598}\label{class_flight_manager_a0b739f184506213f4f67867b650d9598}} 
+\index{FlightManager@{FlightManager}!menu@{menu}}
+\index{menu@{menu}!FlightManager@{FlightManager}}
+\doxysubsubsection{\texorpdfstring{menu()}{menu()}}
+{\footnotesize\ttfamily void Flight\+Manager\+::menu (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Menu function. 
+
+This functions has all the call to functions and so on so calculating its complexity is complicated Here is the call graph for this function\+:
+% FIG 0
+\mbox{\Hypertarget{class_flight_manager_a44ad618e935693701a79e5a67361ef20}\label{class_flight_manager_a44ad618e935693701a79e5a67361ef20}} 
+\index{FlightManager@{FlightManager}!readFiles@{readFiles}}
+\index{readFiles@{readFiles}!FlightManager@{FlightManager}}
+\doxysubsubsection{\texorpdfstring{readFiles()}{readFiles()}}
+{\footnotesize\ttfamily void Flight\+Manager\+::read\+Files (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Function that calls all other read functions. 
+
+Time complexity for all 3 functions is the same since they only read from the file and input into the data structures Time complexity -\/ O(n) Here is the call graph for this function\+:
+% FIG 1
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+Flight\+Manager.\+h\item 
+Flight\+Manager.\+cpp\end{DoxyCompactItemize}

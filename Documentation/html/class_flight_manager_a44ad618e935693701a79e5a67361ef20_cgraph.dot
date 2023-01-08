@@ -1,0 +1,17 @@
+digraph "FlightManager::readFiles"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [label="FlightManager::readFiles",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Function that calls all other read functions."];
+  Node1 -> Node2 [color="steelblue1",style="solid"];
+  Node2 [label="FlightManager::readAirlines",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_flight_manager.html#a765afb5e687c2803e2ce7d8575621c8e",tooltip="Function that reads the airport data, populates the graph graphAirports, the maps and sets."];
+  Node1 -> Node3 [color="steelblue1",style="solid"];
+  Node3 [label="FlightManager::readAirports",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_flight_manager.html#ac31743c6909a58d527589f8116e3348a",tooltip="Function that calls all other read functions."];
+  Node1 -> Node4 [color="steelblue1",style="solid"];
+  Node4 [label="FlightManager::readFlights",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_flight_manager.html#aaaeb472f3987468247761e460e82cae9",tooltip="Function that reads the airlines data and inserts on the airlines_ unordered map."];
+  Node4 -> Node5 [color="steelblue1",style="solid"];
+  Node5 [label="Graph::addEdge",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_graph.html#a00ba4312d13b478a6d04793e2e6aa13b",tooltip="Add edge from source to destination with a certain weight."];
+}

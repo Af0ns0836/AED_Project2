@@ -1,0 +1,48 @@
+\hypertarget{_flight_manager_8h_source}{}\doxysection{Flight\+Manager.\+h}
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 \textcolor{preprocessor}{\#ifndef AED\_PROJECT2\_FLIGHTMANAGER\_H}}
+\DoxyCodeLine{2 \textcolor{preprocessor}{\#define AED\_PROJECT2\_FLIGHTMANAGER\_H}}
+\DoxyCodeLine{3 }
+\DoxyCodeLine{4 }
+\DoxyCodeLine{5 \textcolor{preprocessor}{\#include <map>}}
+\DoxyCodeLine{6 \textcolor{preprocessor}{\#include <unordered\_map>}}
+\DoxyCodeLine{7 \textcolor{preprocessor}{\#include <unordered\_set>}}
+\DoxyCodeLine{8 \textcolor{preprocessor}{\#include <list>}}
+\DoxyCodeLine{9 \textcolor{preprocessor}{\#include <algorithm>}}
+\DoxyCodeLine{10 \textcolor{preprocessor}{\#include "{}ConnectedGraph.h"{}}}
+\DoxyCodeLine{11 \textcolor{preprocessor}{\#include "{}Airport.h"{}}}
+\DoxyCodeLine{12 \textcolor{preprocessor}{\#include "{}Flight.h"{}}}
+\DoxyCodeLine{13 \textcolor{preprocessor}{\#include "{}Airline.h"{}}}
+\DoxyCodeLine{14 \textcolor{preprocessor}{\#include "{}Graph.h"{}}}
+\DoxyCodeLine{16 }
+\DoxyCodeLine{20 \textcolor{keyword}{class }\mbox{\hyperlink{class_flight_manager}{FlightManager}} \{}
+\DoxyCodeLine{21     \textcolor{keyword}{public}:}
+\DoxyCodeLine{22         \mbox{\hyperlink{class_flight_manager}{FlightManager}}();}
+\DoxyCodeLine{24 }
+\DoxyCodeLine{27         \textcolor{keywordtype}{void} \mbox{\hyperlink{class_flight_manager_a0b739f184506213f4f67867b650d9598}{menu}}();}
+\DoxyCodeLine{29 }
+\DoxyCodeLine{33         \textcolor{keywordtype}{void} \mbox{\hyperlink{class_flight_manager_a44ad618e935693701a79e5a67361ef20}{readFiles}}(); }
+\DoxyCodeLine{34         \textcolor{keywordtype}{void} \mbox{\hyperlink{class_flight_manager_ac31743c6909a58d527589f8116e3348a}{readAirports}}(); }
+\DoxyCodeLine{35         \textcolor{keywordtype}{void} \mbox{\hyperlink{class_flight_manager_a765afb5e687c2803e2ce7d8575621c8e}{readAirlines}}(); }
+\DoxyCodeLine{36         \textcolor{keywordtype}{void} \mbox{\hyperlink{class_flight_manager_aaaeb472f3987468247761e460e82cae9}{readFlights}}(); }
+\DoxyCodeLine{37         \textcolor{keywordtype}{void} \mbox{\hyperlink{class_flight_manager_a16130d19dc9af06f270e4f6f86a35efa}{showPath}}(\textcolor{keyword}{const} \textcolor{keywordtype}{string} \&local1, \textcolor{keyword}{const} \textcolor{keywordtype}{string} \&local2, \textcolor{keyword}{const} vector<string>\& airlines);}
+\DoxyCodeLine{38 }
+\DoxyCodeLine{39     \textcolor{keyword}{private}:}
+\DoxyCodeLine{41         unordered\_map<string, int> airports; \textcolor{comment}{// mapa para o grafo connectado}}
+\DoxyCodeLine{42         unordered\_map<string, Airport*> airports\_; \textcolor{comment}{// mapa para o grafo nao connectado}}
+\DoxyCodeLine{43         unordered\_set<string> cities\_; }
+\DoxyCodeLine{44         unordered\_set<string> countries\_; }
+\DoxyCodeLine{45         unordered\_map<string, Airline*> airlines\_; }
+\DoxyCodeLine{46         unordered\_map<string, int> node\_keys\_; }
+\DoxyCodeLine{47         unordered\_map<string, int> node\_keys\_city\_; }
+\DoxyCodeLine{48         \mbox{\hyperlink{class_graph}{Graph}} flights\_, flightsCity\_; }
+\DoxyCodeLine{49         vector<Flight> flights; }
+\DoxyCodeLine{50         \mbox{\hyperlink{class_connected_graph}{ConnectedGraph}} graphAirports; }
+\DoxyCodeLine{51 }
+\DoxyCodeLine{52 \};}
+\DoxyCodeLine{53 }
+\DoxyCodeLine{54 }
+\DoxyCodeLine{55 \textcolor{preprocessor}{\#endif}}
+
+\end{DoxyCode}

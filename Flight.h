@@ -6,7 +6,10 @@
 #include "Airline.h"
 #include <string>
 using namespace std;
-
+//! Flight class
+/*!
+ Class represents everything that a flight has.The source airport, target airport and the airline
+ */
 class Flight {
     public:
         Flight();
@@ -14,11 +17,6 @@ class Flight {
         Airport * getSource();
         Airport* getTarget();
         Airline* getAirline();
-        void setSource(Airport *source);
-        void setTarget(Airport *target);
-        void setAirline(Airline *airline);
-
-
 
     private:
         Airport* source_;

@@ -1,0 +1,42 @@
+\hypertarget{_graph_8h_source}{}\doxysection{Graph.\+h}
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 \textcolor{preprocessor}{\#ifndef AED\_PROJECT2\_GRAPH\_H}}
+\DoxyCodeLine{2 \textcolor{preprocessor}{\#define AED\_PROJECT2\_GRAPH\_H}}
+\DoxyCodeLine{3 }
+\DoxyCodeLine{4 \textcolor{preprocessor}{\#include <list>}}
+\DoxyCodeLine{5 \textcolor{preprocessor}{\#include <vector>}}
+\DoxyCodeLine{6 \textcolor{preprocessor}{\#include <queue>}}
+\DoxyCodeLine{7 \textcolor{preprocessor}{\#include <iostream>}}
+\DoxyCodeLine{8 \textcolor{preprocessor}{\#include "{}Flight.h"{}}}
+\DoxyCodeLine{9 \textcolor{keyword}{using namespace }std;}
+\DoxyCodeLine{10 }
+\DoxyCodeLine{11 }
+\DoxyCodeLine{13 }
+\DoxyCodeLine{23 \textcolor{keyword}{class }\mbox{\hyperlink{class_graph}{Graph}} \{}
+\DoxyCodeLine{24     \textcolor{keyword}{struct }\mbox{\hyperlink{struct_edge}{Edge}} \{}
+\DoxyCodeLine{25             \textcolor{keywordtype}{int} dest;}
+\DoxyCodeLine{26             \textcolor{keywordtype}{int} weight;}
+\DoxyCodeLine{27     \};}
+\DoxyCodeLine{28     \textcolor{keyword}{struct }\mbox{\hyperlink{struct_node}{Node}} \{}
+\DoxyCodeLine{29         list<Edge> adj;}
+\DoxyCodeLine{30         \textcolor{keywordtype}{bool} visited;}
+\DoxyCodeLine{31         \mbox{\hyperlink{class_flight}{Flight}}* flight;}
+\DoxyCodeLine{32     \};}
+\DoxyCodeLine{33 }
+\DoxyCodeLine{34 \textcolor{keyword}{public}:}
+\DoxyCodeLine{36     \textcolor{keyword}{explicit} \mbox{\hyperlink{class_graph}{Graph}}(\textcolor{keywordtype}{int} nodes, \textcolor{keywordtype}{bool} dir = \textcolor{keyword}{true});}
+\DoxyCodeLine{38     \textcolor{keywordtype}{void} \mbox{\hyperlink{class_graph_a00ba4312d13b478a6d04793e2e6aa13b}{addEdge}}(\textcolor{keywordtype}{int} src, \textcolor{keywordtype}{int} dest, \textcolor{keywordtype}{int} weight = 1);}
+\DoxyCodeLine{39     \textcolor{keywordtype}{void} setFlight(\textcolor{keywordtype}{int} node, \mbox{\hyperlink{class_flight}{Flight}}* f);}
+\DoxyCodeLine{40     list<Flight *> bfsGetList(\textcolor{keywordtype}{int} v); }
+\DoxyCodeLine{41 }
+\DoxyCodeLine{42 \textcolor{keyword}{private}:}
+\DoxyCodeLine{43     \textcolor{keywordtype}{int} n;}
+\DoxyCodeLine{44     \textcolor{keywordtype}{bool} hasDir; \textcolor{comment}{// false: undirect; true: directed}}
+\DoxyCodeLine{45     vector<Node> nodes; \textcolor{comment}{// The list of nodes being represented}}
+\DoxyCodeLine{46 \};}
+\DoxyCodeLine{47 }
+\DoxyCodeLine{48 }
+\DoxyCodeLine{49 \textcolor{preprocessor}{\#endif}}
+
+\end{DoxyCode}

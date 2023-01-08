@@ -1,0 +1,37 @@
+\hypertarget{class_graph}{}\doxysection{Graph Class Reference}
+\label{class_graph}\index{Graph@{Graph}}
+
+
+Simpler graph that is grouped either by airport or city.  
+
+
+
+
+{\ttfamily \#include $<$Graph.\+h$>$}
+
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_graph_a8037abe2b5ebff1ca625ef75dfc75155}\label{class_graph_a8037abe2b5ebff1ca625ef75dfc75155}} 
+{\bfseries Graph} (int nodes, bool dir=true)
+\begin{DoxyCompactList}\small\item\em Constructor\+: nr nodes and direction (default\+: directed) \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_graph_a00ba4312d13b478a6d04793e2e6aa13b}\label{class_graph_a00ba4312d13b478a6d04793e2e6aa13b}} 
+void {\bfseries add\+Edge} (int src, int dest, int weight=1)
+\begin{DoxyCompactList}\small\item\em Add edge from source to destination with a certain weight. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_graph_aefeae28154c23e03a6cf8cbf522879da}\label{class_graph_aefeae28154c23e03a6cf8cbf522879da}} 
+void {\bfseries set\+Flight} (int node, \mbox{\hyperlink{class_flight}{Flight}} $\ast$f)
+\item 
+\mbox{\Hypertarget{class_graph_aa9ed33f7e1448285a4ac20cddad698ae}\label{class_graph_aa9ed33f7e1448285a4ac20cddad698ae}} 
+list$<$ \mbox{\hyperlink{class_flight}{Flight}} $\ast$ $>$ {\bfseries bfs\+Get\+List} (int v)
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Simpler graph that is grouped either by airport or city. 
+
+This graph is used for task number 2 \mbox{\hyperlink{struct_edge}{Edge}}\+: dest -\/\texorpdfstring{$>$}{>} Destination node weight -\/\texorpdfstring{$>$}{>} An integer weight \mbox{\hyperlink{struct_node}{Node}}\+: adj -\/\texorpdfstring{$>$}{>} The list of outgoing edges (to adjacent nodes) visited -\/\texorpdfstring{$>$}{>} flag to check if the node has been visited flight -\/\texorpdfstring{$>$}{>} \mbox{\hyperlink{class_flight}{Flight}} object to store flight information 
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+Graph.\+h\item 
+Graph.\+cpp\end{DoxyCompactItemize}

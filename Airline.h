@@ -5,6 +5,10 @@
 #include <string>
 using namespace std;
 
+//! Airline class
+/*!
+   A class that contains everthing about an airline, the code, name, callsign and country.
+ */
 class Airline {
     public:
         Airline();

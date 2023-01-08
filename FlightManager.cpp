@@ -114,8 +114,10 @@ void FlightManager::menu() {
                         char userchoice3;
                         auto search = node_keys_.find(aeroporto);
                         list<Flight*> found = flights_.bfsGetList((*search).second);
-                        unordered_set<string> s;
-                        for (auto f : found) {s.insert(f->getAirline()->getCode());}
+                        unordered_set<string > s;
+                        for (auto f : found) {
+                            s.insert(f->getAirline()->getCode());
+                        }
                         cout << "Operam " << s.size() << " companhias aereas no aeroporto " << aeroporto << " (1)\n\n";
                         cout << "Caso pretenda uma lista com a informacao, introduza o numero respetivo (caso contrario introduza 0):  "; cin >> userchoice3;
                         cout << '\n';

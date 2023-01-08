@@ -1,0 +1,105 @@
+\hypertarget{class_connected_graph}{}\doxysection{Connected\+Graph Class Reference}
+\label{class_connected_graph}\index{ConnectedGraph@{ConnectedGraph}}
+
+
+Connected graph class.  
+
+
+
+
+{\ttfamily \#include $<$Connected\+Graph.\+h$>$}
+
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_connected_graph_a1213e6f11548371335e76a50b86237a1}\label{class_connected_graph_a1213e6f11548371335e76a50b86237a1}} 
+{\bfseries Connected\+Graph} (int nodes)
+\item 
+\mbox{\Hypertarget{class_connected_graph_a879c431e21a0d396b0465f7d3cb5649b}\label{class_connected_graph_a879c431e21a0d396b0465f7d3cb5649b}} 
+void {\bfseries add\+Node} (const \mbox{\hyperlink{struct_node}{Node}} \&node, int index)
+\item 
+\mbox{\Hypertarget{class_connected_graph_ae93cc21d3b6c44993a92ebc5c9f0f37a}\label{class_connected_graph_ae93cc21d3b6c44993a92ebc5c9f0f37a}} 
+void {\bfseries add\+Edge} (int departure, int arrival, \mbox{\hyperlink{class_flight}{Flight}} flight)
+\item 
+\mbox{\Hypertarget{class_connected_graph_a44120e4d63b9295ed31636c1324f07ce}\label{class_connected_graph_a44120e4d63b9295ed31636c1324f07ce}} 
+void {\bfseries sort\+Edges} (int index)
+\begin{DoxyCompactList}\small\item\em sorts the edges of the node, time complexity O(n) \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_connected_graph_a2ba6f4859fbef9a899ab38fced1a9e3b}{BFS}} (int departure, const vector$<$ string $>$ \&airlines)
+\begin{DoxyCompactList}\small\item\em Breadth-\/first search that traverses the graph in O($\vert$\+V$\vert$ + $\vert$\+E$\vert$) \end{DoxyCompactList}\item 
+vector$<$ \mbox{\hyperlink{struct_node}{Node}} $>$ \mbox{\hyperlink{class_connected_graph_a4be05c9ca029c9e767417b82d9cb22ec}{make\+Path}} (int departure, int arrival, const vector$<$ string $>$ \&airlines)
+\begin{DoxyCompactList}\small\item\em Function that creates a path between the two input locations. \end{DoxyCompactList}\item 
+double \mbox{\hyperlink{class_connected_graph_abdfbfe531fab7629311127e302242d92}{calculate\+Distance}} (double lat1, double lon1, double lat2, double lon2)
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Connected graph class. 
+
+A class that represents a graph, which each node is an airport Each edge has the flight information \mbox{\hyperlink{struct_node}{Node}}\+: airport -\/\texorpdfstring{$>$}{>} all the airport information adjacent -\/\texorpdfstring{$>$}{>} all the flights from the current airport km -\/\texorpdfstring{$>$}{>} distance in real units(km) current\+Flight -\/\texorpdfstring{$>$}{>} current flight from the airport distance -\/\texorpdfstring{$>$}{>} distance in nodes 
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_connected_graph_a2ba6f4859fbef9a899ab38fced1a9e3b}\label{class_connected_graph_a2ba6f4859fbef9a899ab38fced1a9e3b}} 
+\index{ConnectedGraph@{ConnectedGraph}!BFS@{BFS}}
+\index{BFS@{BFS}!ConnectedGraph@{ConnectedGraph}}
+\doxysubsubsection{\texorpdfstring{BFS()}{BFS()}}
+{\footnotesize\ttfamily void Connected\+Graph\+::\+BFS (\begin{DoxyParamCaption}\item[{int}]{departure,  }\item[{const vector$<$ string $>$ \&}]{airlines }\end{DoxyParamCaption})}
+
+
+
+Breadth-\/first search that traverses the graph in O($\vert$\+V$\vert$ + $\vert$\+E$\vert$) 
+
+
+\begin{DoxyParams}{Parameters}
+{\em departure} & integer value that represents the airport position on the graph \\
+\hline
+{\em airlines} & vector that contains all the airlines \\
+\hline
+\end{DoxyParams}
+Here is the caller graph for this function\+:
+% FIG 0
+\mbox{\Hypertarget{class_connected_graph_abdfbfe531fab7629311127e302242d92}\label{class_connected_graph_abdfbfe531fab7629311127e302242d92}} 
+\index{ConnectedGraph@{ConnectedGraph}!calculateDistance@{calculateDistance}}
+\index{calculateDistance@{calculateDistance}!ConnectedGraph@{ConnectedGraph}}
+\doxysubsubsection{\texorpdfstring{calculateDistance()}{calculateDistance()}}
+{\footnotesize\ttfamily double Connected\+Graph\+::calculate\+Distance (\begin{DoxyParamCaption}\item[{double}]{lat1,  }\item[{double}]{lon1,  }\item[{double}]{lat2,  }\item[{double}]{lon2 }\end{DoxyParamCaption})}
+
+
+\begin{DoxyParams}{Parameters}
+{\em lat1} & latitude from location1 \\
+\hline
+{\em lon1} & longitude from location1 \\
+\hline
+{\em lat2} & latitude from location2 \\
+\hline
+{\em lon2} & longitude from location2 \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{class_connected_graph_a4be05c9ca029c9e767417b82d9cb22ec}\label{class_connected_graph_a4be05c9ca029c9e767417b82d9cb22ec}} 
+\index{ConnectedGraph@{ConnectedGraph}!makePath@{makePath}}
+\index{makePath@{makePath}!ConnectedGraph@{ConnectedGraph}}
+\doxysubsubsection{\texorpdfstring{makePath()}{makePath()}}
+{\footnotesize\ttfamily vector$<$ \mbox{\hyperlink{struct_node}{Node}} $>$ Connected\+Graph\+::make\+Path (\begin{DoxyParamCaption}\item[{int}]{departure,  }\item[{int}]{arrival,  }\item[{const vector$<$ string $>$ \&}]{airlines }\end{DoxyParamCaption})}
+
+
+
+Function that creates a path between the two input locations. 
+
+Inside the function its used a BFS to store the path into a vector and then print it Time complexity -\/\texorpdfstring{$>$}{>} O($\vert$\+V$\vert$ + $\vert$\+E$\vert$) 
+\begin{DoxyParams}{Parameters}
+{\em departure} & postion on the graph for the departure airport \\
+\hline
+{\em arrival} & postion on the graph for the arrival airport \\
+\hline
+{\em airlines} & vector containing all the selected airlines \\
+\hline
+\end{DoxyParams}
+Here is the call graph for this function\+:
+% FIG 1
+Here is the caller graph for this function\+:
+% FIG 2
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+Connected\+Graph.\+h\item 
+Connected\+Graph.\+cpp\end{DoxyCompactItemize}
