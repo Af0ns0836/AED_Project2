@@ -45,7 +45,6 @@ void FlightManager::menu() {
                         }
                         airlines.pop_back();
                         cout << '\n';
-                        //findFlightRoutes(local1, local2, airlines);
                         showPath(local1,local2);
 
 
@@ -320,7 +319,7 @@ void FlightManager::showPath(const string &local1, const string &local2) {
     cout << "Do aeroporto " << nodes[nodes.size()-1].airport.getCode() << " (" << nodes[nodes.size()-1].airport.getName() << "), cidade " << nodes[nodes.size()-1].airport.getCity() << ", pais " << nodes[nodes.size()-1].airport.getCountry() << endl;
     for (size_t i = nodes.size() - 2 ; i != -1 ; i--) {
         string flight = nodes[i].currentFlight.getAirline()->getName() == "Foot" ? " km a pe" : " km ";
-        cout << "ao aeroporto " << nodes[i].airport.getCode() << " (" << nodes[i].airport.getCity() << "), cidade " << nodes[i].airport.getCity() << ", pais " << nodes[nodes.size()-1].airport.getCountry() << " com um percurso de " <<
+        cout << "ao aeroporto " << nodes[i].airport.getCode() << " (" << nodes[i].airport.getCity() << "), cidade " << nodes[i].airport.getCity() << ", pais " << nodes[i].airport.getCountry() << " com um percurso de " <<
              nodes[i].customWeight.km - lastDistance << flight << endl;
         cout << endl;
         cout << "Voo recomendado: " << endl;
