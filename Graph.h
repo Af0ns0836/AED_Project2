@@ -1,7 +1,3 @@
-//
-// Created by dias4 on 08/01/2023.
-//
-
 #ifndef AED_PROJECT2_GRAPH_H
 #define AED_PROJECT2_GRAPH_H
 
@@ -24,20 +20,18 @@ class Graph {
     };
 
 public:
-    // Constructor: nr nodes and direction (default: undirected)
-    explicit Graph(int nodes, bool dir = false);
+    // Constructor: nr nodes and direction (default: directed)
+    explicit Graph(int nodes, bool dir = true);
     // Add edge from source to destination with a certain weight
     void addEdge(int src, int dest, int weight = 1);
     void setFlight(int node, Flight* f);
-    void bfsPrint(int v);
     list<Flight *> bfsGetList(int v);
-    int connectedComponents();
 
 private:
-    int n; // Graph size (vertices are numbered from 1 to n)
+    int n;
     bool hasDir; // false: undirect; true: directed
     vector<Node> nodes; // The list of nodes being represented
 };
 
 
-#endif //AED_PROJECT2_GRAPH_H
+#endif

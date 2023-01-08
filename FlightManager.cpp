@@ -37,17 +37,8 @@ void FlightManager::menu() {
                     case '1': {
                         cout << "Indique a sigla do aeroporto de origem:\n"; cin >> local1; cout << '\n';
                         cout << "Faca o mesmo para o aeroporto de destino:\n"; cin >> local2; cout << '\n';
-                        cout << "Se pretender, indique as siglas de companhias aereas nas quais pretende voar (digite 'q' quando tiver concluido):\n";
-                        while (airline.length() == 3) {
-                            airline.clear();
-                            cin >> airline;
-                            airlines.push_back(airline);
-                        }
-                        airlines.pop_back();
                         cout << '\n';
                         showPath(local1,local2);
-
-
                         break;
                     }
                     case '2': {
@@ -55,15 +46,19 @@ void FlightManager::menu() {
                         cin.ignore(); getline(cin, local1); cout << "\n";
                         cout << "Faca o mesmo para a cidade de destino:\n";
                         cin.ignore(0); getline(cin, local2);  cout << "\n";
-                        cout << "Se pretender, indique as siglas de companhias aereas nas quais pretende voar (digite 'q' quando tiver concluido):\n";
-                        while (airline.length() == 3) {
-                            airline.clear();
-                            cin >> airline;
-                            airlines.push_back(airline);
-                        }
-                        airlines.pop_back();
                         cout << '\n';
-                        //findFlightRoutesCity(local1, local2, airlines);
+                        auto search1 = node_keys_city_.find(local1);
+                        list<Flight*> found1 = flightsCity_.bfsGetList((*search1).second);
+                        auto search2 = node_keys_city_.find(local2);
+                        list<Flight*> found2 = flightsCity_.bfsGetList((*search2).second);
+                        unordered_set<string> s1, s2;
+                        for (auto f : found1) {s1.insert(f->getSource()->getCode());}
+                        for (auto f : found2) {s2.insert(f->getSource()->getCode());}
+                        for (const auto& target : s2) {
+                            for (const auto& source : s1) {
+                                showPath(source, target);
+                            }
+                        }
                         break;
                     }
                 }
@@ -112,7 +107,7 @@ void FlightManager::menu() {
                         cout << '\n';
                         switch (userchoice3) {
                             case '1': {
-                                for (string a : s) {
+                                for (const string& a : s) {
                                     cout << a << '\n';
                                 }
                                 cout << '\n';
@@ -139,21 +134,21 @@ void FlightManager::menu() {
                         cout << '\n';
                         switch (userchoice3) {
                             case '1': {
-                                for (string a: s1) {
+                                for (const string& a: s1) {
                                     cout << a << '\n';
                                 }
                                 cout << '\n';
                                 break;
                             }
                             case '2': {
-                                for (string c : s2) {
+                                for (const string& c : s2) {
                                     cout << c << '\n';
                                 }
                                 cout << '\n';
                                 break;
                             }
                             case '3': {
-                                for (string p : s3) {
+                                for (const string& p : s3) {
                                     cout << p << '\n';
                                 }
                                 cout << '\n';
@@ -163,7 +158,7 @@ void FlightManager::menu() {
                         }
                         break;
                     }
-                    // case '4': {} este aqui parece ser muito hardcore
+                    case '4': {cout << "not working oops :p\n\n";}
                 }
                 break;
             }
@@ -207,7 +202,7 @@ void FlightManager::readAirports() {
         p.second = i;
         p2.first = code;
         p2.second = new Airport(code, name, city, country, stod(latitude), stod(longitude));
-        Node airport {*new Airport(code, name, city, country, stod(latitude), stod(longitude)),true,{}};
+        Node airport {*new Airport(code, name, city, country, stod(latitude), stod(longitude)),{}};
         graphAirports.addNode(airport,i);
         airports.insert(p);
         airports_.insert(p2);
@@ -303,8 +298,6 @@ void FlightManager::readFlights() {
 }
 
 void FlightManager::showPath(const string &local1, const string &local2) {
-    //auto itr1 = airports_.find(local1);
-    //auto itr2 = airports_.find(local2);
     auto search1 = airports.find(local1);
     auto search2 = airports.find(local2);
 
@@ -316,17 +309,11 @@ void FlightManager::showPath(const string &local1, const string &local2) {
     vector<Node> nodes = graphAirports.makePath(search1->second,search2->second);
 
     double lastDistance = 0;
-    cout << "Do aeroporto " << nodes[nodes.size()-1].airport.getCode() << " (" << nodes[nodes.size()-1].airport.getName() << "), cidade " << nodes[nodes.size()-1].airport.getCity() << ", pais " << nodes[nodes.size()-1].airport.getCountry() << endl;
+    cout << "A procurar uma rota de " << local1 << " -> " << local2 << endl;
     for (size_t i = nodes.size() - 2 ; i != -1 ; i--) {
-        string flight = nodes[i].currentFlight.getAirline()->getName() == "Foot" ? " km a pe" : " km ";
-        cout << "ao aeroporto " << nodes[i].airport.getCode() << " (" << nodes[i].airport.getCity() << "), cidade " << nodes[i].airport.getCity() << ", pais " << nodes[i].airport.getCountry() << " com um percurso de " <<
-             nodes[i].customWeight.km - lastDistance << flight << endl;
-        cout << endl;
-        cout << "Voo recomendado: " << endl;
-        cout << nodes[i].currentFlight.getSource()->getCode() << ", " << nodes[i].currentFlight.getTarget()->getCode() << ", " << nodes[i].currentFlight.getAirline()->getName() << endl;
+        cout << "Voo " << nodes[i].distance << ": " << nodes[i].currentFlight.getSource()->getCode() << ", " << nodes[i].currentFlight.getTarget()->getCode() <<
+             ", " << nodes[i].currentFlight.getAirline()->getName() << " | " << nodes[i].km - lastDistance << " km\n";
 
-        lastDistance = nodes[i].customWeight.km;
+        lastDistance = nodes[i].km;
     }
-    cout << endl;
-
 }

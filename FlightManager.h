@@ -22,12 +22,6 @@ class FlightManager {
         void readAirlines();
         void readFlights();
         void showPath(const string &local1, const string &local2);
-        void findFlightRoutes(const string& SourceAirportCode, const string& TargetAirportCode, const vector<string>& airlines);
-        void findFlightRoutesCity(const string& SourceAirportCity, const string& TargetAirportCity, const vector<string>& airlines);
-        void sortDirectFlights(list<Flight*> &l);
-        void sortFlights(list<vector<Flight*>> &l);
-        double getScaleDistance(const vector<Flight*>& v);
-
 
     private:
         unordered_map<string, int> airports; // mapa para o grafo connectado
