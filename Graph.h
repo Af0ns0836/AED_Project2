@@ -30,16 +30,7 @@ using namespace std;
          */
         int numberOfCities;
     };
-    struct Coordinate {
-        /**
-         * @var latitude - coordinates latitude, a double value
-         */
-        double latitude;
-        /**
-         * @var longitude - coordinates longitude, a double value
-         */
-        double longitude;
-    };
+
     struct Edge {
         /**
          * @var dest - an integer value that represents the destination of current edge, based on node's index
@@ -125,7 +116,7 @@ using namespace std;
          * @param lon2 - a double value represents the longitude of second point
          * @return a double value containing the distance between two points
          */
-        double computeDistance(double lat1, double lon1, double lat2, double lon2);
+        double calculateDistance(double lat1, double lon1, double lat2, double lon2);
 
     public:
         /**
@@ -152,7 +143,7 @@ using namespace std;
          * @param coordinate - a Coordinate struct that represents the airport coordinate
          * @return a Node struct, representing the airport closest to the given coordinate
          */
-        Node getNode(const Coordinate &coordinate);
+        Node getNode(Airport* a2);
         /**
          * @Overload
          * Function that returns one airport, based on his coordinate

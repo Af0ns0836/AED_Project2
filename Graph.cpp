@@ -27,7 +27,7 @@ void Graph::addNode(const Node &node, int index) {
 
 void Graph::addEdge(int departure, int arrival, Flight &flight) {
     if (departure < 1 || arrival > nodes.size() || departure > nodes.size() || arrival < 1) return;
-    nodes[departure].adjacent.push_back({arrival, computeDistance(nodes[departure].airport.getLatitude(),
+    nodes[departure].adjacent.push_back({arrival, calculateDistance(nodes[departure].airport.getLatitude(),
                                                                   nodes[departure].airport.getLongitude(),
                                                                   nodes[arrival].airport.getLatitude(),
                                                                   nodes[arrival].airport.getLongitude()), flight});
@@ -95,13 +95,13 @@ vector<Node> Graph::makePath(int departure, int arrival) {
     }
     return path;
 }
-Node Graph::getNode(const Coordinate &coordinate) {
+Node Graph::getNode(Airport* a2) {
 
     Node result;
     double distance = INT_MAX;
     for (int i = 1 ; i < nodes.size() ; i++) {
-        double dis = computeDistance(nodes[i].airport.getLatitude(), nodes[i].airport.getLongitude(),
-                                     coordinate.latitude, coordinate.longitude);
+        double dis = calculateDistance(nodes[i].airport.getLatitude(), nodes[i].airport.getLongitude(),
+                                     a2->getLatitude(), a2->getLongitude());
         if (distance > dis) {
             result = nodes[i];
             distance = dis;
